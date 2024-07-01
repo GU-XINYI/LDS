@@ -20,6 +20,8 @@ External data source:
 - https://simplemaps.com/data/us-cities
 - https://gitcode.com/mirrors/wizardcode/world-area/tree/master/children
 
+[!alt text]()
+
 # Tasks
 - [ETL and Data Warehouse building](./LDS_Part1_Group_3): create and populate a database starting from different files **without** using `pandas`. Here are some brief explanations of the scripts in the [code](./LDS_Part1_Group_3/code) directory.
   - *data_prep.py*: used for data understanding and preparation tasks
