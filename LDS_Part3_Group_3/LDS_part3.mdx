@@ -1,0 +1,43 @@
+-- total crime gravity for each city and the grand total with respect to the state.
+with member grand_tot_state as
+		([Geography].[geo_Hierarchy].currentmember.parent, [Measures].[Crime Gravity]) 
+select {[Measures].[Crime Gravity], grand_tot_state} on 0,
+	nonempty(([Geography].[State].[State], [Geography].[geo_Hierarchy].[City])) on 1
+from [Group ID 3 DB];
+
+-- Show the percentage increase or decrease in total crime gravity 
+-- answers with respect to the previous year for each age group
+
+with member prev as
+		iif([Dates].[time_Hierarchy].prevmember is null, '-', 
+			([Dates].[time_Hierarchy].prevmember, [Measures].[Crime Gravity]))
+	member pct as
+		CASE
+		WHEN prev = '-' THEN 0
+		WHEN([Measures].[Crime Gravity] = 0) AND (prev = 0) THEN 0
+		WHEN prev = 0 THEN 1
+		ELSE([Measures].[Crime Gravity] - prev) / prev
+		END,
+		format_string = 'Percent'
+select {[Measures].[Crime Gravity], prev, pct} on 0,
+		nonempty(([Dates].[time_Hierarchy].[Year],
+				[Participant].[Participant Age Group].[Participant Age Group])) on 1
+from [Group ID 3 DB];		
+
+ 
+-- Show the ratio between the total crime gravity of each year 
+-- w.r.t the previous year.
+with member prev as
+		iif([Dates].[time_Hierarchy].prevmember is null, '-', 
+			([Dates].[time_Hierarchy].prevmember, [Measures].[Crime Gravity]))
+	member ratio as
+		CASE
+		WHEN prev = '-' THEN 0
+		WHEN([Measures].[Crime Gravity] = 0) AND (prev = 0) THEN 0
+		WHEN prev = 0 THEN 1
+		ELSE [Measures].[Crime Gravity]/prev
+		END,
+		format_string = 'Percent'
+select {[Measures].[Crime Gravity], prev, ratio} on 0,
+		nonempty([Dates].[time_Hierarchy].[Year]) on 1
+from [Group ID 3 DB];		
