@@ -1,0 +1,3796 @@
+﻿id,state_id,code,lower_name,country_id,country,states,continent,continent_id
+1,1,HEA,herat,2,Afghanistan,0,Asia,1
+2,1,KBL,kabul,2,Afghanistan,0,Asia,1
+3,1,KDH,kandahar,2,Afghanistan,0,Asia,1
+4,1,MZR,mazar-i sharif,2,Afghanistan,0,Asia,1
+5,2,BGO,bengo,3,Angola,0,Africa,3
+6,2,BGU,benguela,3,Angola,0,Africa,3
+7,2,BIE,bie,3,Angola,0,Africa,3
+8,2,CAB,cabinda,3,Angola,0,Africa,3
+9,2,CCU,cuando cubango,3,Angola,0,Africa,3
+10,2,CNN,cunene,3,Angola,0,Africa,3
+11,2,CNO,cuanza norte,3,Angola,0,Africa,3
+12,2,CUS,cuanza sul,3,Angola,0,Africa,3
+13,2,HUA,huambo,3,Angola,0,Africa,3
+14,2,HUI,huila,3,Angola,0,Africa,3
+15,2,LNO,lunda norte,3,Angola,0,Africa,3
+16,2,LSU,lunda sul,3,Angola,0,Africa,3
+17,2,LUA,luanda,3,Angola,0,Africa,3
+18,2,MAL,malanje,3,Angola,0,Africa,3
+19,2,MOX,moxico,3,Angola,0,Africa,3
+20,2,NAM,namibe,3,Angola,0,Africa,3
+21,2,UIG,uige,3,Angola,0,Africa,3
+22,2,ZAI,zaire,3,Angola,0,Africa,3
+23,3,BR,berat,6,Albania,0,Europe,2
+24,3,DI,diber,6,Albania,0,Europe,2
+25,3,DR,durres,6,Albania,0,Europe,2
+26,3,EL,elbasan,6,Albania,0,Europe,2
+27,3,FR,fier,6,Albania,0,Europe,2
+28,3,GJ,gjirokaster,6,Albania,0,Europe,2
+29,3,KO,korce,6,Albania,0,Europe,2
+30,3,KU,kukes,6,Albania,0,Europe,2
+31,3,LE,lezhe,6,Albania,0,Europe,2
+32,3,SH,shkoder,6,Albania,0,Europe,2
+33,3,TR,tirane,6,Albania,0,Europe,2
+34,3,VL,vlore,6,Albania,0,Europe,2
+35,4,2,canillo,7,Andorra,0,Europe,2
+36,4,3,encamp,7,Andorra,0,Europe,2
+37,4,4,la massana,7,Andorra,0,Europe,2
+38,4,5,ordino,7,Andorra,0,Europe,2
+39,4,6,sant julia de laria,7,Andorra,0,Europe,2
+40,4,7,andorra la vella,7,Andorra,0,Europe,2
+41,4,8,escaldes-engordany,7,Andorra,0,Europe,2
+42,5,AL,al l'ayn,9,United Arab Emirates,0,Asia,1
+43,5,AZ,abu dhabi,9,United Arab Emirates,0,Asia,1
+44,5,DU,dubai,9,United Arab Emirates,0,Asia,1
+45,5,SH,ash shariqah,9,United Arab Emirates,0,Asia,1
+46,6,AFA,san rafael,10,Argentina,0,South America,7
+47,6,BHI,bahia blanca,10,Argentina,0,South America,7
+48,6,BUE,buenos aires,10,Argentina,0,South America,7
+49,6,CNQ,corrientes,10,Argentina,0,South America,7
+50,6,COC,concordia,10,Argentina,0,South America,7
+51,6,COR,cordoba,10,Argentina,0,South America,7
+52,6,CRD,comodoro rivadavia,10,Argentina,0,South America,7
+53,6,CTC,catamarca,10,Argentina,0,South America,7
+54,6,FMA,formosa,10,Argentina,0,South America,7
+55,6,IRJ,la rioja,10,Argentina,0,South America,7
+56,6,JUJ,jujuy,10,Argentina,0,South America,7
+57,6,LPG,la plata,10,Argentina,0,South America,7
+58,6,LUQ,san luis,10,Argentina,0,South America,7
+59,6,MDQ,mar del plata,10,Argentina,0,South America,7
+60,6,MDZ,mendoza,10,Argentina,0,South America,7
+61,6,NQN,neuquen,10,Argentina,0,South America,7
+62,6,PRA,parana,10,Argentina,0,South America,7
+63,6,PSS,posadas,10,Argentina,0,South America,7
+64,6,RCU,rio cuarto,10,Argentina,0,South America,7
+65,6,REL,trelew,10,Argentina,0,South America,7
+66,6,RES,resistencia,10,Argentina,0,South America,7
+67,6,RGL,rio gallegos,10,Argentina,0,South America,7
+68,6,ROS,rosario,10,Argentina,0,South America,7
+69,6,RSA,santa rosa,10,Argentina,0,South America,7
+70,6,RWO,rawson,10,Argentina,0,South America,7
+71,6,SDE,santiago del estero,10,Argentina,0,South America,7
+72,6,SFN,santa fe,10,Argentina,0,South America,7
+73,6,SLA,salta,10,Argentina,0,South America,7
+74,6,SMC,san miguel de tucuman,10,Argentina,0,South America,7
+75,6,SNS,san nicolas,10,Argentina,0,South America,7
+76,6,UAQ,san juan,10,Argentina,0,South America,7
+77,6,USH,ushuaia,10,Argentina,0,South America,7
+78,6,VDM,viedma,10,Argentina,0,South America,7
+79,6,VLK,villa krause,10,Argentina,0,South America,7
+80,7,AGT,aragacotn,11,Armenia,0,Europe,2
+81,7,ARA,ararat,11,Armenia,0,Europe,2
+82,7,ARM,armavir,11,Armenia,0,Europe,2
+83,7,EVN,yerevan,11,Armenia,0,Europe,2
+84,7,GEG,gelarkunik,11,Armenia,0,Europe,2
+85,7,KOT,kotayk,11,Armenia,0,Europe,2
+86,7,LOR,lorri,11,Armenia,0,Europe,2
+87,7,SHI,shirak,11,Armenia,0,Europe,2
+88,7,SYU,syunik,11,Armenia,0,Europe,2
+89,7,TAV,tavus,11,Armenia,0,Europe,2
+90,7,VAY,vayocjor,11,Armenia,0,Europe,2
+91,8,AAN,aana,13,#N/A,0,#N/A,#N/A
+92,8,AIT,aigaile tai,13,#N/A,0,#N/A,#N/A
+93,8,ATU,atua,13,#N/A,0,#N/A,#N/A
+94,8,FAA,faasaleleaga,13,#N/A,0,#N/A,#N/A
+95,8,GFG,gagaifomauga,13,#N/A,0,#N/A,#N/A
+96,8,GMG,gagaemauga,13,#N/A,0,#N/A,#N/A
+97,8,PAL,palauli,13,#N/A,0,#N/A,#N/A
+98,8,SAT,satupaitea,13,#N/A,0,#N/A,#N/A
+99,8,SAV,savaii,13,#N/A,0,#N/A,#N/A
+100,8,TUA,tuamasaga,13,#N/A,0,#N/A,#N/A
+101,8,UPO,upolu,13,#N/A,0,#N/A,#N/A
+102,8,VAF,vaao fonoti,13,#N/A,0,#N/A,#N/A
+103,8,VAI,vaisigano,13,#N/A,0,#N/A,#N/A
+104,9,DRW,darwin,17,Australia,Northern Territory,Oceania,4
+105,9,PAL,palmerston north,17,Australia,Northern Territory,Oceania,4
+106,10,ADL,adelaide,17,Australia,South Australia,Oceania,4
+107,10,MGB,mount gambier,17,Australia,South Australia,Oceania,4
+108,10,MYB,murray bridge,17,Australia,South Australia,Oceania,4
+109,10,PLO,port lincoln,17,Australia,South Australia,Oceania,4
+110,10,PPI,port pirie,17,Australia,South Australia,Oceania,4
+111,10,PUG,port augusta,17,Australia,South Australia,Oceania,4
+112,10,VHA,victor harbor,17,Australia,South Australia,Oceania,4
+113,10,WAY,whyalla,17,Australia,South Australia,Oceania,4
+114,11,ALH,albany,17,Australia,Western Australia,Oceania,4
+115,11,BUY,bunbury,17,Australia,Western Australia,Oceania,4
+116,11,FRE,fremantle,17,Australia,Western Australia,Oceania,4
+117,11,GET,geraldton,17,Australia,Western Australia,Oceania,4
+118,11,KGI,kalgoorlie,17,Australia,Western Australia,Oceania,4
+119,11,MDU,mandurah,17,Australia,Western Australia,Oceania,4
+120,11,PER,perth,17,Australia,Western Australia,Oceania,4
+121,12,CBR,canberra,17,Australia,Canberra,Oceania,4
+122,13,HBS,sydney,17,Australia,New South Wales,Oceania,4
+123,13,NTL,newcastle,17,Australia,New South Wales,Oceania,4
+124,13,WOL,wollongong,17,Australia,New South Wales,Oceania,4
+125,14,BNE,brisbane,17,Australia,Queensland,Oceania,4
+126,14,CNS,cairns,17,Australia,Queensland,Oceania,4
+127,14,CUD,caloundra,17,Australia,Queensland,Oceania,4
+128,14,OOL,gold coast,17,Australia,Queensland,Oceania,4
+129,14,TSV,townsville,17,Australia,Queensland,Oceania,4
+130,14,TWB,toowoomba,17,Australia,Queensland,Oceania,4
+131,15,BWT,burnie,17,Australia,Tasmania,Oceania,4
+132,15,DPO,devonport,17,Australia,Tasmania,Oceania,4
+133,15,HBA,hobart,17,Australia,Tasmania,Oceania,4
+134,15,LST,launceston,17,Australia,Tasmania,Oceania,4
+135,16,GEX,geelong,17,Australia,Victoria,Oceania,4
+136,16,MEL,melbourne,17,Australia,Victoria,Oceania,4
+137,17,BUR,burgenland,18,Austria,0,Europe,2
+138,17,CAT,carinthia,18,Austria,0,Europe,2
+139,17,LAU,lower austria,18,Austria,0,Europe,2
+140,17,STY,styria,18,Austria,0,Europe,2
+141,17,SZG,salzburg,18,Austria,0,Europe,2
+142,17,TYR,tyrol,18,Austria,0,Europe,2
+143,17,UAU,upper austria,18,Austria,0,Europe,2
+144,17,VDD,vienna,18,Austria,0,Europe,2
+145,17,VOR,vorarlberg,18,Austria,0,Europe,2
+146,18,GA,ganca,19,Azerbaijan,0,Europe,2
+147,18,NX,naxcivan,19,Azerbaijan,0,Europe,2
+148,18,SA,saki,19,Azerbaijan,0,Europe,2
+149,18,ABS,abseron,19,Azerbaijan,0,Europe,2
+150,18,KAL,kalbacar,19,Azerbaijan,0,Europe,2
+151,18,LAN,lankaran,19,Azerbaijan,0,Europe,2
+152,18,MQA,mil-qarabax,19,Azerbaijan,0,Europe,2
+153,18,MSA,mugan-salyan,19,Azerbaijan,0,Europe,2
+154,18,NQA,nagorni-qarabax,19,Azerbaijan,0,Europe,2
+155,18,PRI,priaraks,19,Azerbaijan,0,Europe,2
+156,18,QAZ,qazax,19,Azerbaijan,0,Europe,2
+157,18,SIR,sirvan,19,Azerbaijan,0,Europe,2
+158,18,SMC,sumqayit,19,Azerbaijan,0,Europe,2
+159,18,XAC,xacmaz,19,Azerbaijan,0,Europe,2
+160,19,BB,bubanza,20,Burundi,0,Africa,3
+161,19,BM,bujumbura mairie,20,Burundi,0,Africa,3
+162,19,BR,bururi,20,Burundi,0,Africa,3
+163,19,BU,bujumbura rural,20,Burundi,0,Africa,3
+164,19,CA,cankuzo,20,Burundi,0,Africa,3
+165,19,CI,cibitoke,20,Burundi,0,Africa,3
+166,19,GI,gitega,20,Burundi,0,Africa,3
+167,19,KI,kirundo,20,Burundi,0,Africa,3
+168,19,KR,karuzi,20,Burundi,0,Africa,3
+169,19,KY,kayanza,20,Burundi,0,Africa,3
+170,19,MA,makamba,20,Burundi,0,Africa,3
+171,19,MU,muramvya,20,Burundi,0,Africa,3
+172,19,MW,mwaro,20,Burundi,0,Africa,3
+173,19,MY,muyinga,20,Burundi,0,Africa,3
+174,19,NG,ngozi,20,Burundi,0,Africa,3
+175,19,RT,rutana,20,Burundi,0,Africa,3
+176,19,RY,ruyigi,20,Burundi,0,Africa,3
+177,20,BRU,brussels,21,Belgium,0,Europe,2
+178,20,VAN,antwerpen,21,Belgium,0,Europe,2
+179,20,VBR,vlaams-brabant,21,Belgium,0,Europe,2
+180,20,VLI,limburg,21,Belgium,0,Europe,2
+181,20,VOV,oost-vlaanderen,21,Belgium,0,Europe,2
+182,20,VWV,west-vlaanderen,21,Belgium,0,Europe,2
+183,20,WBR,brabant-wallone,21,Belgium,0,Europe,2
+184,20,WHT,hainaut,21,Belgium,0,Europe,2
+185,20,WLG,liege,21,Belgium,0,Europe,2
+186,20,WLX,luxembourg,21,Belgium,0,Europe,2
+187,20,WNA,namur,21,Belgium,0,Europe,2
+188,21,AK,atakora,22,Benin,0,Africa,3
+189,21,AL,alibori,22,Benin,0,Africa,3
+190,21,AQ,atlantique,22,Benin,0,Africa,3
+191,21,BO,borgou,22,Benin,0,Africa,3
+192,21,CO,collines,22,Benin,0,Africa,3
+193,21,DO,donga,22,Benin,0,Africa,3
+194,21,KO,kouffo,22,Benin,0,Africa,3
+195,21,LI,littoral,22,Benin,0,Africa,3
+196,21,MO,mono,22,Benin,0,Africa,3
+197,21,OU,oueme,22,Benin,0,Africa,3
+198,21,PL,plateau,22,Benin,0,Africa,3
+199,21,ZO,zou,22,Benin,0,Africa,3
+200,21,BOH,bohicon,22,Benin,0,Africa,3
+201,22,BAL,bale,23,Burkina Faso,0,Africa,3
+202,22,BAM,bam,23,Burkina Faso,0,Africa,3
+203,22,BAN,banwa,23,Burkina Faso,0,Africa,3
+204,22,BAZ,bazega,23,Burkina Faso,0,Africa,3
+205,22,BLG,boulgou,23,Burkina Faso,0,Africa,3
+206,22,BOK,boulkiemde,23,Burkina Faso,0,Africa,3
+207,22,BOR,bougouriba,23,Burkina Faso,0,Africa,3
+208,22,COM,comoe,23,Burkina Faso,0,Africa,3
+209,22,GAN,ganzourgou,23,Burkina Faso,0,Africa,3
+210,22,GNA,gnagna,23,Burkina Faso,0,Africa,3
+211,22,GOU,gourma,23,Burkina Faso,0,Africa,3
+212,22,HOU,houet,23,Burkina Faso,0,Africa,3
+213,22,IOA,ioba,23,Burkina Faso,0,Africa,3
+214,22,KAD,kadiogo,23,Burkina Faso,0,Africa,3
+215,22,KEN,kenedougou,23,Burkina Faso,0,Africa,3
+216,22,KOL,koulpelogo,23,Burkina Faso,0,Africa,3
+217,22,KOO,komondjari,23,Burkina Faso,0,Africa,3
+218,22,KOP,kompienga,23,Burkina Faso,0,Africa,3
+219,22,KOS,kossi,23,Burkina Faso,0,Africa,3
+220,22,KOT,kouritenga,23,Burkina Faso,0,Africa,3
+221,22,KOW,kourweogo,23,Burkina Faso,0,Africa,3
+222,22,LER,leraba,23,Burkina Faso,0,Africa,3
+223,22,LOR,loroum,23,Burkina Faso,0,Africa,3
+224,22,MOU,mouhoun,23,Burkina Faso,0,Africa,3
+225,22,NAH,nahouri,23,Burkina Faso,0,Africa,3
+226,22,NAM,namentenga,23,Burkina Faso,0,Africa,3
+227,22,NAY,nayala,23,Burkina Faso,0,Africa,3
+228,22,NOU,noumbiel,23,Burkina Faso,0,Africa,3
+229,22,OUB,oubritenga,23,Burkina Faso,0,Africa,3
+230,22,OUD,oudalan,23,Burkina Faso,0,Africa,3
+231,22,PAS,passore,23,Burkina Faso,0,Africa,3
+232,22,PON,poni,23,Burkina Faso,0,Africa,3
+233,22,SAG,sanguie,23,Burkina Faso,0,Africa,3
+234,22,SAM,sanmatenga,23,Burkina Faso,0,Africa,3
+235,22,SEN,seno,23,Burkina Faso,0,Africa,3
+236,22,SIS,sissili,23,Burkina Faso,0,Africa,3
+237,22,SOM,soum,23,Burkina Faso,0,Africa,3
+238,22,SOR,sourou,23,Burkina Faso,0,Africa,3
+239,22,TAP,tapoa,23,Burkina Faso,0,Africa,3
+240,22,TUY,tuy,23,Burkina Faso,0,Africa,3
+241,22,YAG,yagha,23,Burkina Faso,0,Africa,3
+242,22,YAT,yatenga,23,Burkina Faso,0,Africa,3
+243,22,ZIR,ziro,23,Burkina Faso,0,Africa,3
+244,22,ZOD,zondoma,23,Burkina Faso,0,Africa,3
+245,22,ZOW,zoundweogo,23,Burkina Faso,0,Africa,3
+246,23,CGP,chittagong,24,Bangladesh,0,Asia,1
+247,23,DAC,dhaka,24,Bangladesh,0,Asia,1
+248,23,KHL,khulna,24,Bangladesh,0,Asia,1
+249,24,BOJ,burgas,25,Bulgaria,0,Europe,2
+250,24,GSO,grad sofiya,25,Bulgaria,0,Europe,2
+251,24,KHO,khaskovo,25,Bulgaria,0,Europe,2
+252,24,LVP,lovech,25,Bulgaria,0,Europe,2
+253,24,OZA,montana,25,Bulgaria,0,Europe,2
+254,24,PDV,plovdiv,25,Bulgaria,0,Europe,2
+255,24,ROU,ruse,25,Bulgaria,0,Europe,2
+256,24,SOF,sofiya,25,Bulgaria,0,Europe,2
+257,24,VAR,varna,25,Bulgaria,0,Europe,2
+258,25,1,al-hadd,26,Bahrian,0,Asia,1
+259,25,2,al-muharraq,26,Bahrian,0,Asia,1
+260,25,3,al-manamah,26,Bahrian,0,Asia,1
+261,25,5,northern,26,Bahrian,0,Asia,1
+262,25,7,al-wusta,26,Bahrian,0,Asia,1
+263,25,8,isa,26,Bahrian,0,Asia,1
+264,25,9,ar-rifa,26,Bahrian,0,Asia,1
+265,25,10,western,26,Bahrian,0,Asia,1
+266,25,12,hammad,26,Bahrian,0,Asia,1
+267,26,FBP,bosansko-podrinjski,28,Bosnia Hercegovina,0,Europe,2
+268,26,FHB,hercegovacko-bosanski,28,Bosnia Hercegovina,0,Europe,2
+269,26,FHN,hercegovacko-neretvanski,28,Bosnia Hercegovina,0,Europe,2
+270,26,FPO,posavski,28,Bosnia Hercegovina,0,Europe,2
+271,26,FSA,sarajevo,28,Bosnia Hercegovina,0,Europe,2
+272,26,FSB,srednjo-bosanski,28,Bosnia Hercegovina,0,Europe,2
+273,26,FTO,tomislavgrad,28,Bosnia Hercegovina,0,Europe,2
+274,26,FTU,tuzlanski-podrinjski,28,Bosnia Hercegovina,0,Europe,2
+275,26,FUS,unsko-sanski,28,Bosnia Hercegovina,0,Europe,2
+276,26,FZE,zenicko-dobojski,28,Bosnia Hercegovina,0,Europe,2
+277,26,FZH,zapadno-hercegovaki,28,Bosnia Hercegovina,0,Europe,2
+278,27,BR,bresckaja,29, Belarus,0,Europe,2
+279,27,HO,homelskaja,29, Belarus,0,Europe,2
+280,27,HR,hrodzenskaja,29, Belarus,0,Europe,2
+281,27,MA,mahileuskaja,29, Belarus,0,Europe,2
+282,27,MI,minsk,29, Belarus,0,Europe,2
+283,27,VI,vicebskaja,29, Belarus,0,Europe,2
+284,28,BZ,belize,30,Belize,0,South America,7
+285,28,CR,corozal,30,Belize,0,South America,7
+286,28,CY,cayo,30,Belize,0,South America,7
+287,28,OW,orange walk,30,Belize,0,South America,7
+288,28,SC,stann creek,30,Belize,0,South America,7
+289,28,TO,toledo,30,Belize,0,South America,7
+290,29,ALT,el alto,32,Bolivia,0,South America,7
+291,29,BEN,el beni,32,Bolivia,0,South America,7
+292,29,CBB,cochabamba,32,Bolivia,0,South America,7
+293,29,CHU,chuquisaca,32,Bolivia,0,South America,7
+294,29,LPB,la paz,32,Bolivia,0,South America,7
+295,29,ORU,oruro,32,Bolivia,0,South America,7
+296,29,PAN,pando,32,Bolivia,0,South America,7
+297,29,POI,potosi,32,Bolivia,0,South America,7
+298,29,QUI,quillacollo,32,Bolivia,0,South America,7
+299,29,SAC,sacaba,32,Bolivia,0,South America,7
+300,29,SRZ,santa cruz,32,Bolivia,0,South America,7
+301,29,TJA,tarija,32,Bolivia,0,South America,7
+302,30,AC,acre,33,Brazil,0,South America,7
+303,30,AL,alagoas,33,Brazil,0,South America,7
+304,30,AM,amazonas,33,Brazil,0,South America,7
+305,30,AP,amapa,33,Brazil,0,South America,7
+306,30,BA,bahia,33,Brazil,0,South America,7
+307,30,CE,ceara,33,Brazil,0,South America,7
+308,30,ES,espirito santo,33,Brazil,0,South America,7
+309,30,GO,goias,33,Brazil,0,South America,7
+310,30,MA,maranhao,33,Brazil,0,South America,7
+311,30,MG,minas gerais,33,Brazil,0,South America,7
+312,30,MS,mato grosso do sul,33,Brazil,0,South America,7
+313,30,MT,mato grosso,33,Brazil,0,South America,7
+314,30,PA,para,33,Brazil,0,South America,7
+315,30,PB,paraiba,33,Brazil,0,South America,7
+316,30,PE,pernambuco,33,Brazil,0,South America,7
+317,30,PI,piaui,33,Brazil,0,South America,7
+318,30,PR,parana,33,Brazil,0,South America,7
+319,30,RJ,rio de janeiro,33,Brazil,0,South America,7
+320,30,RN,rio grande do norte,33,Brazil,0,South America,7
+321,30,RO,rondonia,33,Brazil,0,South America,7
+322,30,RR,roraima,33,Brazil,0,South America,7
+323,30,RS,rio grande do sul,33,Brazil,0,South America,7
+324,30,SC,santa catarina,33,Brazil,0,South America,7
+325,30,SE,sergipe,33,Brazil,0,South America,7
+326,30,SP,sao paulo,33,Brazil,0,South America,7
+327,30,TO,tocantins,33,Brazil,0,South America,7
+328,30,BSB,brasilia,33,Brazil,0,South America,7
+329,31,AC,ouham,39,Central African,0,Africa,3
+330,31,BB,bamingui-bangoran,39,Central African,0,Africa,3
+331,31,BI,bimbo,39,Central African,0,Africa,3
+332,31,BK,basse-kotto,39,Central African,0,Africa,3
+333,31,HK,haute-kotto,39,Central African,0,Africa,3
+334,31,HM,haut-mbomou,39,Central African,0,Africa,3
+335,31,HS,mambere-kadei,39,Central African,0,Africa,3
+336,31,KB,nana-gribizi,39,Central African,0,Africa,3
+337,31,KG,kemo,39,Central African,0,Africa,3
+338,31,LB,lobaye,39,Central African,0,Africa,3
+339,31,MB,mbomou,39,Central African,0,Africa,3
+340,31,MP,ombella-mpoko,39,Central African,0,Africa,3
+341,31,NM,nana-mambere,39,Central African,0,Africa,3
+342,31,OP,ouham-pende,39,Central African,0,Africa,3
+343,31,SE,sangha-mbaere,39,Central African,0,Africa,3
+344,31,UK,ouaka,39,Central African,0,Africa,3
+345,31,VK,vakaga,39,Central African,0,Africa,3
+346,31,BGF,bangui,39,Central African,0,Africa,3
+347,32,ABB,abbotsford,40,Canada,0,North America,6
+348,32,BAR,barrie,40,Canada,0,North America,6
+349,32,BRP,brampton,40,Canada,0,North America,6
+350,32,CAL,calgary,40,Canada,0,North America,6
+351,32,CBR,cape breton,40,Canada,0,North America,6
+352,32,CHA,charlottetown,40,Canada,0,North America,6
+353,32,EDM,edmonton,40,Canada,0,North America,6
+354,32,FRE,fredericton,40,Canada,0,North America,6
+355,32,GLP,guelph,40,Canada,0,North America,6
+356,32,HAL,halifax,40,Canada,0,North America,6
+357,32,HAM,hamilton,40,Canada,0,North America,6
+358,32,IQL,iqaluit,40,Canada,0,North America,6
+359,32,KGN,kingston,40,Canada,0,North America,6
+360,32,KWL,kelowna,40,Canada,0,North America,6
+361,32,LOD,london,40,Canada,0,North America,6
+362,32,MTR,montreal,40,Canada,0,North America,6
+363,32,OSH,oshawa,40,Canada,0,North America,6
+364,32,OTT,ottawa,40,Canada,0,North America,6
+365,32,QUE,quebec,40,Canada,0,North America,6
+366,32,REG,regina,40,Canada,0,North America,6
+367,32,SAK,saskatoon,40,Canada,0,North America,6
+368,32,SBE,sherbrooke,40,Canada,0,North America,6
+369,32,SCA,santa catarina,40,Canada,0,North America,6
+370,32,SJB,saint-john's,40,Canada,0,North America,6
+371,32,SUD,sudbury,40,Canada,0,North America,6
+372,32,THU,thunder bay,40,Canada,0,North America,6
+373,32,TOR,toronto,40,Canada,0,North America,6
+374,32,TRR,trois-rivieres,40,Canada,0,North America,6
+375,32,VAN,vancouver,40,Canada,0,North America,6
+376,32,VIC,victoria,40,Canada,0,North America,6
+377,32,WDR,windsor,40,Canada,0,North America,6
+378,32,WNP,winnipeg,40,Canada,0,North America,6
+379,32,YXY,whitehorse,40,Canada,0,North America,6
+380,32,YZF,yellowknife,40,Canada,0,North America,6
+381,33,AG,aargau,42,Switzerland,0,Europe,2
+382,33,AI,appenzell innerrhodn,42,Switzerland,0,Europe,2
+383,33,AR,appenzell ausserrhon,42,Switzerland,0,Europe,2
+384,33,BE,bern,42,Switzerland,0,Europe,2
+385,33,BL,basel landschaft,42,Switzerland,0,Europe,2
+386,33,BS,basel－sstadt,42,Switzerland,0,Europe,2
+387,33,FR,freiburg,42,Switzerland,0,Europe,2
+388,33,GE,geneve,42,Switzerland,0,Europe,2
+389,33,GL,glarus,42,Switzerland,0,Europe,2
+390,33,GR,graubünden,42,Switzerland,0,Europe,2
+391,33,JU,jura,42,Switzerland,0,Europe,2
+392,33,LA,lausanne,42,Switzerland,0,Europe,2
+393,33,LU,luzern,42,Switzerland,0,Europe,2
+394,33,NE,neuchatel,42,Switzerland,0,Europe,2
+395,33,NW,nidwalden,42,Switzerland,0,Europe,2
+396,33,OW,obwalden,42,Switzerland,0,Europe,2
+397,33,SG,st.gallen,42,Switzerland,0,Europe,2
+398,33,SH,schaffhausen,42,Switzerland,0,Europe,2
+399,33,SO,solothurn,42,Switzerland,0,Europe,2
+400,33,SZ,schwyz,42,Switzerland,0,Europe,2
+401,33,TG,thurgau,42,Switzerland,0,Europe,2
+402,33,TI,ticino,42,Switzerland,0,Europe,2
+403,33,UR,uri,42,Switzerland,0,Europe,2
+404,33,VD,vaud,42,Switzerland,0,Europe,2
+405,33,VS,wallis,42,Switzerland,0,Europe,2
+406,33,ZG,zug,42,Switzerland,0,Europe,2
+407,33,ZH,zurich,42,Switzerland,0,Europe,2
+408,34,AI,region de alsen del general carlos ibanez del,43,Chile,0,South America,7
+409,34,AN,region de antofagasta,43,Chile,0,South America,7
+410,34,AR,region de la araucania,43,Chile,0,South America,7
+411,34,AT,region de atacama,43,Chile,0,South America,7
+412,34,BI,region del biobio,43,Chile,0,South America,7
+413,34,CO,region de coquimbo,43,Chile,0,South America,7
+414,34,LI,libertador,43,Chile,0,South America,7
+415,34,LL,region de los lagos,43,Chile,0,South America,7
+416,34,MA,magallanes y antartica chilena,43,Chile,0,South America,7
+417,34,ML,region del maule,43,Chile,0,South America,7
+418,34,RM,santiago de cuba,43,Chile,0,South America,7
+419,34,TA,region de tarapaca,43,Chile,0,South America,7
+420,34,VS,region de valparaiso,43,Chile,0,South America,7
+421,35,1,dongcheng,44,China,Beijing,Asia,1
+422,35,2,xicheng,44,China,Beijing,Asia,1
+423,35,5,chaoyang,44,China,Beijing,Asia,1
+424,35,6,fengtai,44,China,Beijing,Asia,1
+425,35,7,shijingshan,44,China,Beijing,Asia,1
+426,35,8,haidian,44,China,Beijing,Asia,1
+427,35,9,mentougou,44,China,Beijing,Asia,1
+428,35,11,fangshan,44,China,Beijing,Asia,1
+429,35,12,tongzhou,44,China,Beijing,Asia,1
+430,35,13,shunyi,44,China,Beijing,Asia,1
+431,35,21,changping,44,China,Beijing,Asia,1
+432,35,24,daxing,44,China,Beijing,Asia,1
+433,35,26,pinggu,44,China,Beijing,Asia,1
+434,35,27,huairou,44,China,Beijing,Asia,1
+435,35,28,miyun,44,China,Beijing,Asia,1
+436,35,29,yanqing,44,China,Beijing,Asia,1
+437,36,1,heping,44,China,Tianjin,Asia,1
+438,36,2,hedong,44,China,Tianjin,Asia,1
+439,36,3,hexi,44,China,Tianjin,Asia,1
+440,36,4,nankai,44,China,Tianjin,Asia,1
+441,36,5,hebei,44,China,Tianjin,Asia,1
+442,36,6,hongqiao,44,China,Tianjin,Asia,1
+443,36,10,dongli,44,China,Tianjin,Asia,1
+444,36,11,xiqing,44,China,Tianjin,Asia,1
+445,36,12,jinnan,44,China,Tianjin,Asia,1
+446,36,13,beichen,44,China,Tianjin,Asia,1
+447,36,21,ninghe,44,China,Tianjin,Asia,1
+448,36,22,wuqing,44,China,Tianjin,Asia,1
+449,36,23,jinghai,44,China,Tianjin,Asia,1
+450,36,24,baodi,44,China,Tianjin,Asia,1
+451,36,25,jixian,44,China,Tianjin,Asia,1
+452,36,26,binghaixinqu,44,China,Tianjin,Asia,1
+453,37,1,shijiazhuang,44,China,Hebei,Asia,1
+454,37,2,tangshan,44,China,Hebei,Asia,1
+455,37,3,qinhuangdao,44,China,Hebei,Asia,1
+456,37,4,handan,44,China,Hebei,Asia,1
+457,37,5,xingtai,44,China,Hebei,Asia,1
+458,37,6,baoding,44,China,Hebei,Asia,1
+459,37,7,zhangjiakou,44,China,Hebei,Asia,1
+460,37,8,chengde,44,China,Hebei,Asia,1
+461,37,9,cangzhou,44,China,Hebei,Asia,1
+462,37,10,langfang,44,China,Hebei,Asia,1
+463,37,11,hengshui,44,China,Hebei,Asia,1
+464,38,1,taiyuan,44,China,Shanxi,Asia,1
+465,38,2,datong,44,China,Shanxi,Asia,1
+466,38,3,yangquan,44,China,Shanxi,Asia,1
+467,38,4,changzhi,44,China,Shanxi,Asia,1
+468,38,5,jincheng,44,China,Shanxi,Asia,1
+469,38,6,shuozhou,44,China,Shanxi,Asia,1
+470,38,7,jinzhong,44,China,Shanxi,Asia,1
+471,38,8,yuncheng,44,China,Shanxi,Asia,1
+472,38,9,xinzhou,44,China,Shanxi,Asia,1
+473,38,10,linfen,44,China,Shanxi,Asia,1
+474,38,11,luliang,44,China,Shanxi,Asia,1
+475,39,1,hohhot,44,China,Inner Mongolia,Asia,1
+476,39,2,baotou,44,China,Inner Mongolia,Asia,1
+477,39,3,wuhai,44,China,Inner Mongolia,Asia,1
+478,39,4,chifeng,44,China,Inner Mongolia,Asia,1
+479,39,5,tongliao,44,China,Inner Mongolia,Asia,1
+480,39,6,ordos,44,China,Inner Mongolia,Asia,1
+481,39,7,hulun buir,44,China,Inner Mongolia,Asia,1
+482,39,8,bayannur,44,China,Inner Mongolia,Asia,1
+483,39,9,ulan qab,44,China,Inner Mongolia,Asia,1
+484,39,22,xing'an,44,China,Inner Mongolia,Asia,1
+485,39,25,xilin gol,44,China,Inner Mongolia,Asia,1
+486,39,29,alxa,44,China,Inner Mongolia,Asia,1
+487,40,1,shenyang,44,China,Liaoning,Asia,1
+488,40,2,dalian,44,China,Liaoning,Asia,1
+489,40,3,anshan,44,China,Liaoning,Asia,1
+490,40,4,fushun,44,China,Liaoning,Asia,1
+491,40,5,benxi,44,China,Liaoning,Asia,1
+492,40,6,dandong,44,China,Liaoning,Asia,1
+493,40,7,jinzhou,44,China,Liaoning,Asia,1
+494,40,8,yingkou,44,China,Liaoning,Asia,1
+495,40,9,fuxin,44,China,Liaoning,Asia,1
+496,40,10,liaoyang,44,China,Liaoning,Asia,1
+497,40,11,panjin,44,China,Liaoning,Asia,1
+498,40,12,tieling,44,China,Liaoning,Asia,1
+499,40,13,chaoyang,44,China,Liaoning,Asia,1
+500,40,14,huludao,44,China,Liaoning,Asia,1
+501,41,1,changchun,44,China,Jilin,Asia,1
+502,41,2,jilin,44,China,Jilin,Asia,1
+503,41,3,siping,44,China,Jilin,Asia,1
+504,41,4,liaoyuan,44,China,Jilin,Asia,1
+505,41,5,tonghua,44,China,Jilin,Asia,1
+506,41,6,baishan,44,China,Jilin,Asia,1
+507,41,7,songyuan,44,China,Jilin,Asia,1
+508,41,8,baicheng,44,China,Jilin,Asia,1
+509,41,24,yanbian korean autonomous prefecture,44,China,Jilin,Asia,1
+510,42,1,harbin,44,China,Heilongjiang,Asia,1
+511,42,2,qiqihar,44,China,Heilongjiang,Asia,1
+512,42,3,jixi,44,China,Heilongjiang,Asia,1
+513,42,4,hegang,44,China,Heilongjiang,Asia,1
+514,42,5,shuangyashan,44,China,Heilongjiang,Asia,1
+515,42,6,daqing,44,China,Heilongjiang,Asia,1
+516,42,7,yichun,44,China,Heilongjiang,Asia,1
+517,42,8,jiamusi,44,China,Heilongjiang,Asia,1
+518,42,9,qitaihe,44,China,Heilongjiang,Asia,1
+519,42,10,mudanjiang,44,China,Heilongjiang,Asia,1
+520,42,11,heihe,44,China,Heilongjiang,Asia,1
+521,42,12,suihua,44,China,Heilongjiang,Asia,1
+522,42,27,da hinggan ling,44,China,Heilongjiang,Asia,1
+523,43,1,huangpu,44,China,Shanghai,Asia,1
+524,43,3,luwan,44,China,Shanghai,Asia,1
+525,43,4,xuhui,44,China,Shanghai,Asia,1
+526,43,5,changning,44,China,Shanghai,Asia,1
+527,43,6,jing'an,44,China,Shanghai,Asia,1
+528,43,7,putuo,44,China,Shanghai,Asia,1
+529,43,8,zhabei,44,China,Shanghai,Asia,1
+530,43,9,hongkou,44,China,Shanghai,Asia,1
+531,43,11,yangpu,44,China,Shanghai,Asia,1
+532,43,12,minhang,44,China,Shanghai,Asia,1
+533,43,13,baoshan,44,China,Shanghai,Asia,1
+534,43,14,jiading,44,China,Shanghai,Asia,1
+535,43,15,pudong new area,44,China,Shanghai,Asia,1
+536,43,16,jinshan,44,China,Shanghai,Asia,1
+537,43,17,songjiang,44,China,Shanghai,Asia,1
+538,43,26,fengxian,44,China,Shanghai,Asia,1
+539,43,29,qingpu,44,China,Shanghai,Asia,1
+540,43,30,chongming,44,China,Shanghai,Asia,1
+541,44,1,nanjing,44,China,Jiangsu,Asia,1
+542,44,2,wuxi,44,China,Jiangsu,Asia,1
+543,44,3,xuzhou,44,China,Jiangsu,Asia,1
+544,44,4,changzhou,44,China,Jiangsu,Asia,1
+545,44,5,suzhou,44,China,Jiangsu,Asia,1
+546,44,6,nantong,44,China,Jiangsu,Asia,1
+547,44,7,lianyungang,44,China,Jiangsu,Asia,1
+548,44,8,huai'an,44,China,Jiangsu,Asia,1
+549,44,9,yancheng,44,China,Jiangsu,Asia,1
+550,44,10,yangzhou,44,China,Jiangsu,Asia,1
+551,44,11,zhenjiang,44,China,Jiangsu,Asia,1
+552,44,12,taizhou,44,China,Jiangsu,Asia,1
+553,44,13,suqian,44,China,Jiangsu,Asia,1
+554,45,1,hangzhou,44,China,Zhejiang,Asia,1
+555,45,2,ningbo,44,China,Zhejiang,Asia,1
+556,45,3,wenzhou,44,China,Zhejiang,Asia,1
+557,45,4,jiaxing,44,China,Zhejiang,Asia,1
+558,45,5,huzhou,44,China,Zhejiang,Asia,1
+559,45,6,shaoxing,44,China,Zhejiang,Asia,1
+560,45,7,jinhua,44,China,Zhejiang,Asia,1
+561,45,8,quzhou,44,China,Zhejiang,Asia,1
+562,45,9,zhoushan,44,China,Zhejiang,Asia,1
+563,45,10,taizhou,44,China,Zhejiang,Asia,1
+564,45,11,lishui,44,China,Zhejiang,Asia,1
+565,46,1,hefei,44,China,Anhui,Asia,1
+566,46,2,wuhu,44,China,Anhui,Asia,1
+567,46,3,bengbu,44,China,Anhui,Asia,1
+568,46,4,huainan,44,China,Anhui,Asia,1
+569,46,5,ma'anshan,44,China,Anhui,Asia,1
+570,46,6,huaibei,44,China,Anhui,Asia,1
+571,46,7,tongling,44,China,Anhui,Asia,1
+572,46,8,anqing,44,China,Anhui,Asia,1
+573,46,10,huangshan,44,China,Anhui,Asia,1
+574,46,11,chuzhou,44,China,Anhui,Asia,1
+575,46,12,fuyang,44,China,Anhui,Asia,1
+576,46,13,suzhou,44,China,Anhui,Asia,1
+577,46,15,lu'an,44,China,Anhui,Asia,1
+578,46,16,bozhou,44,China,Anhui,Asia,1
+579,46,17,chizhou,44,China,Anhui,Asia,1
+580,46,18,xuancheng,44,China,Anhui,Asia,1
+581,47,1,fuzhou,44,China,Fujian,Asia,1
+582,47,2,xiamen,44,China,Fujian,Asia,1
+583,47,3,putian,44,China,Fujian,Asia,1
+584,47,4,sanming,44,China,Fujian,Asia,1
+585,47,5,quanzhou,44,China,Fujian,Asia,1
+586,47,6,zhangzhou,44,China,Fujian,Asia,1
+587,47,7,nanping,44,China,Fujian,Asia,1
+588,47,8,longyan,44,China,Fujian,Asia,1
+589,47,9,ningde,44,China,Fujian,Asia,1
+590,48,1,nanchang,44,China,Jiangxi,Asia,1
+591,48,2,jingdezhen,44,China,Jiangxi,Asia,1
+592,48,3,pingxiang,44,China,Jiangxi,Asia,1
+593,48,4,jiujiang,44,China,Jiangxi,Asia,1
+594,48,5,xinyu,44,China,Jiangxi,Asia,1
+595,48,6,yingtan,44,China,Jiangxi,Asia,1
+596,48,7,ganzhou,44,China,Jiangxi,Asia,1
+597,48,8,ji'an,44,China,Jiangxi,Asia,1
+598,48,9,yichun,44,China,Jiangxi,Asia,1
+599,48,10,fuzhou,44,China,Jiangxi,Asia,1
+600,48,11,shangrao,44,China,Jiangxi,Asia,1
+601,49,1,jinan,44,China,Shandong,Asia,1
+602,49,2,qingdao,44,China,Shandong,Asia,1
+603,49,3,zibo,44,China,Shandong,Asia,1
+604,49,4,zaozhuang,44,China,Shandong,Asia,1
+605,49,5,dongying,44,China,Shandong,Asia,1
+606,49,6,yantai,44,China,Shandong,Asia,1
+607,49,7,weifang,44,China,Shandong,Asia,1
+608,49,8,jining,44,China,Shandong,Asia,1
+609,49,9,tai'an,44,China,Shandong,Asia,1
+610,49,10,weihai,44,China,Shandong,Asia,1
+611,49,11,rizhao,44,China,Shandong,Asia,1
+612,49,12,laiwu,44,China,Shandong,Asia,1
+613,49,13,linyi,44,China,Shandong,Asia,1
+614,49,14,dezhou,44,China,Shandong,Asia,1
+615,49,15,liaocheng,44,China,Shandong,Asia,1
+616,49,16,binzhou,44,China,Shandong,Asia,1
+617,49,17,heze,44,China,Shandong,Asia,1
+618,50,1,zhengzhou,44,China,Henan,Asia,1
+619,50,2,kaifeng,44,China,Henan,Asia,1
+620,50,3,luoyang,44,China,Henan,Asia,1
+621,50,4,pingdingshan,44,China,Henan,Asia,1
+622,50,5,anyang,44,China,Henan,Asia,1
+623,50,6,hebi,44,China,Henan,Asia,1
+624,50,7,xinxiang,44,China,Henan,Asia,1
+625,50,8,jiaozuo,44,China,Henan,Asia,1
+626,50,9,puyang,44,China,Henan,Asia,1
+627,50,10,xuchang,44,China,Henan,Asia,1
+628,50,11,luohe,44,China,Henan,Asia,1
+629,50,12,sanmenxia,44,China,Henan,Asia,1
+630,50,13,nanyang,44,China,Henan,Asia,1
+631,50,14,shangqiu,44,China,Henan,Asia,1
+632,50,15,xinyang,44,China,Henan,Asia,1
+633,50,16,zhoukou,44,China,Henan,Asia,1
+634,50,17,zhumadian,44,China,Henan,Asia,1
+635,50,18,jiyuan,44,China,Henan,Asia,1
+636,51,1,wuhan,44,China,Hubei,Asia,1
+637,51,2,huangshi,44,China,Hubei,Asia,1
+638,51,3,shiyan,44,China,Hubei,Asia,1
+639,51,5,yichang,44,China,Hubei,Asia,1
+640,51,6,xiangyang,44,China,Hubei,Asia,1
+641,51,7,ezhou,44,China,Hubei,Asia,1
+642,51,8,jingmen,44,China,Hubei,Asia,1
+643,51,9,xiaogan,44,China,Hubei,Asia,1
+644,51,10,jingzhou,44,China,Hubei,Asia,1
+645,51,11,huanggang,44,China,Hubei,Asia,1
+646,51,12,xianning,44,China,Hubei,Asia,1
+647,51,13,suizhou,44,China,Hubei,Asia,1
+648,51,28,enshi tujia-miao autonomous prefecture,44,China,Hubei,Asia,1
+649,51,94,xiantao,44,China,Hubei,Asia,1
+650,51,95,qianjiang,44,China,Hubei,Asia,1
+651,51,96,tianmen,44,China,Hubei,Asia,1
+652,51,A21,shennongjia,44,China,Hubei,Asia,1
+653,52,1,changsha,44,China,Hunan,Asia,1
+654,52,2,zhuzhou,44,China,Hunan,Asia,1
+655,52,3,xiangtan,44,China,Hunan,Asia,1
+656,52,4,hengyang,44,China,Hunan,Asia,1
+657,52,5,shaoyang,44,China,Hunan,Asia,1
+658,52,6,yueyang,44,China,Hunan,Asia,1
+659,52,7,changde,44,China,Hunan,Asia,1
+660,52,8,zhangjiajie,44,China,Hunan,Asia,1
+661,52,9,yiyang,44,China,Hunan,Asia,1
+662,52,10,chenzhou,44,China,Hunan,Asia,1
+663,52,11,yongzhou,44,China,Hunan,Asia,1
+664,52,12,huaihua,44,China,Hunan,Asia,1
+665,52,13,loudi,44,China,Hunan,Asia,1
+666,52,31,xiangxi tujia-miao autonomous prefecture,44,China,Hunan,Asia,1
+667,53,1,guangzhou,44,China,Guangdong,Asia,1
+668,53,2,shaoguan,44,China,Guangdong,Asia,1
+669,53,3,shenzhen,44,China,Guangdong,Asia,1
+670,53,4,zhuhai,44,China,Guangdong,Asia,1
+671,53,5,shantou,44,China,Guangdong,Asia,1
+672,53,6,foshan,44,China,Guangdong,Asia,1
+673,53,7,jiangmen,44,China,Guangdong,Asia,1
+674,53,8,zhanjiang,44,China,Guangdong,Asia,1
+675,53,9,maoming,44,China,Guangdong,Asia,1
+676,53,12,zhaoqing,44,China,Guangdong,Asia,1
+677,53,13,huizhou,44,China,Guangdong,Asia,1
+678,53,14,meizhou,44,China,Guangdong,Asia,1
+679,53,15,shanwei,44,China,Guangdong,Asia,1
+680,53,16,heyuan,44,China,Guangdong,Asia,1
+681,53,17,yangjiang,44,China,Guangdong,Asia,1
+682,53,18,qingyuan,44,China,Guangdong,Asia,1
+683,53,19,dongguan,44,China,Guangdong,Asia,1
+684,53,20,zhongshan,44,China,Guangdong,Asia,1
+685,53,51,chaozhou,44,China,Guangdong,Asia,1
+686,53,52,jieyang,44,China,Guangdong,Asia,1
+687,53,53,yunfu,44,China,Guangdong,Asia,1
+688,54,1,nanning,44,China,Guangxi,Asia,1
+689,54,2,liuzhou,44,China,Guangxi,Asia,1
+690,54,3,guilin,44,China,Guangxi,Asia,1
+691,54,4,wuzhou,44,China,Guangxi,Asia,1
+692,54,5,beihai,44,China,Guangxi,Asia,1
+693,54,6,fangchenggang,44,China,Guangxi,Asia,1
+694,54,7,qinzhou,44,China,Guangxi,Asia,1
+695,54,8,guigang,44,China,Guangxi,Asia,1
+696,54,9,yulin,44,China,Guangxi,Asia,1
+697,54,10,baise,44,China,Guangxi,Asia,1
+698,54,11,hezhou,44,China,Guangxi,Asia,1
+699,54,12,hechi,44,China,Guangxi,Asia,1
+700,54,13,laibin,44,China,Guangxi,Asia,1
+701,54,14,chongzuo,44,China,Guangxi,Asia,1
+702,55,1,haikou,44,China,Hainan,Asia,1
+703,55,2,sanya,44,China,Hainan,Asia,1
+704,55,3,shansha,44,China,Hainan,Asia,1
+705,55,91,wuzhishan,44,China,Hainan,Asia,1
+706,55,92,qionghai,44,China,Hainan,Asia,1
+707,55,93,danzhou,44,China,Hainan,Asia,1
+708,55,95,wenchang,44,China,Hainan,Asia,1
+709,55,96,wanning,44,China,Hainan,Asia,1
+710,55,97,dornod,44,China,Hainan,Asia,1
+711,55,A25,ding'an,44,China,Hainan,Asia,1
+712,55,A26,tunchang,44,China,Hainan,Asia,1
+713,55,A27,cengmai,44,China,Hainan,Asia,1
+714,55,A28,lingao,44,China,Hainan,Asia,1
+715,55,A3,baisha li autonomous county,44,China,Hainan,Asia,1
+716,55,A31,jiang li autonomous county,44,China,Hainan,Asia,1
+717,55,A33,ledong li autonomous county,44,China,Hainan,Asia,1
+718,55,A34,lingshui li autonomous county,44,China,Hainan,Asia,1
+719,55,A35,baoting li-miao autonomous county,44,China,Hainan,Asia,1
+720,55,A36,qiongzhong li-miao autonomous county,44,China,Hainan,Asia,1
+721,56,1,wanzhou,44,China,Chongqing,Asia,1
+722,56,2,fuling,44,China,Chongqing,Asia,1
+723,56,3,yuzhong,44,China,Chongqing,Asia,1
+724,56,4,dadukou,44,China,Chongqing,Asia,1
+725,56,5,jiangbei,44,China,Chongqing,Asia,1
+726,56,6,shapingba,44,China,Chongqing,Asia,1
+727,56,7,jiulongpo,44,China,Chongqing,Asia,1
+728,56,8,nan'an,44,China,Chongqing,Asia,1
+729,56,9,beibei,44,China,Chongqing,Asia,1
+730,56,10,wansheng,44,China,Chongqing,Asia,1
+731,56,11,shuangqiao,44,China,Chongqing,Asia,1
+732,56,12,yubei,44,China,Chongqing,Asia,1
+733,56,13,ba'nan,44,China,Chongqing,Asia,1
+734,56,21,changshou,44,China,Chongqing,Asia,1
+735,56,22,qijiang,44,China,Chongqing,Asia,1
+736,56,23,tongnan,44,China,Chongqing,Asia,1
+737,56,24,tongliang,44,China,Chongqing,Asia,1
+738,56,25,dazu,44,China,Chongqing,Asia,1
+739,56,26,rongchang,44,China,Chongqing,Asia,1
+740,56,27,bishan,44,China,Chongqing,Asia,1
+741,56,28,liangping,44,China,Chongqing,Asia,1
+742,56,29,chengkou,44,China,Chongqing,Asia,1
+743,56,30,fengdu,44,China,Chongqing,Asia,1
+744,56,31,dianjiang,44,China,Chongqing,Asia,1
+745,56,32,wulong,44,China,Chongqing,Asia,1
+746,56,33,zhongxian,44,China,Chongqing,Asia,1
+747,56,34,kaixian,44,China,Chongqing,Asia,1
+748,56,35,yunyang,44,China,Chongqing,Asia,1
+749,56,36,fengjie,44,China,Chongqing,Asia,1
+750,56,37,wushan,44,China,Chongqing,Asia,1
+751,56,38,wuxi,44,China,Chongqing,Asia,1
+752,56,39,qianjiang,44,China,Chongqing,Asia,1
+753,56,40,shizhu tujia autonomous country,44,China,Chongqing,Asia,1
+754,56,41,xiushan tujia-miao autonomous country,44,China,Chongqing,Asia,1
+755,56,42,youyang tujia-miao autonomous country,44,China,Chongqing,Asia,1
+756,56,43,pengshui miao-tujia autonomous country,44,China,Chongqing,Asia,1
+757,56,81,jiangjin,44,China,Chongqing,Asia,1
+758,56,82,hechuan,44,China,Chongqing,Asia,1
+759,56,83,yongchuan,44,China,Chongqing,Asia,1
+760,56,84,liangjiangxinqu,44,China,Chongqing,Asia,1
+761,56,85,kaixian,44,China,Chongqing,Asia,1
+762,57,1,chengdu,44,China,Sichuan,Asia,1
+763,57,3,zigong,44,China,Sichuan,Asia,1
+764,57,4,panzhihua,44,China,Sichuan,Asia,1
+765,57,5,luzhou,44,China,Sichuan,Asia,1
+766,57,6,deyang,44,China,Sichuan,Asia,1
+767,57,7,mianyang,44,China,Sichuan,Asia,1
+768,57,8,guangyuan,44,China,Sichuan,Asia,1
+769,57,9,suining,44,China,Sichuan,Asia,1
+770,57,10,neijiang,44,China,Sichuan,Asia,1
+771,57,11,leshan,44,China,Sichuan,Asia,1
+772,57,13,nanchong,44,China,Sichuan,Asia,1
+773,57,14,meishan,44,China,Sichuan,Asia,1
+774,57,15,yibin,44,China,Sichuan,Asia,1
+775,57,16,guang'an,44,China,Sichuan,Asia,1
+776,57,17,dazhou,44,China,Sichuan,Asia,1
+777,57,18,ya'an,44,China,Sichuan,Asia,1
+778,57,19,bazhong,44,China,Sichuan,Asia,1
+779,57,20,ziyang,44,China,Sichuan,Asia,1
+780,57,32,aba tibetan-qiang autonomous prefecture,44,China,Sichuan,Asia,1
+781,57,33,garze tibetan autonomous prefecture,44,China,Sichuan,Asia,1
+782,57,34,liangshan yi autonomous prefecture,44,China,Sichuan,Asia,1
+783,58,1,guiyang,44,China,Guizhou,Asia,1
+784,58,2,liupanshui,44,China,Guizhou,Asia,1
+785,58,3,zunyi,44,China,Guizhou,Asia,1
+786,58,4,anshun,44,China,Guizhou,Asia,1
+787,58,22,tongren,44,China,Guizhou,Asia,1
+788,58,23,qianxinan buyi-miao autonomous prefecture,44,China,Guizhou,Asia,1
+789,58,24,bijie,44,China,Guizhou,Asia,1
+790,58,26,qiandongnan miao-dong autonomous prefecture,44,China,Guizhou,Asia,1
+791,58,27,qiannan buyi autonomous prefecture,44,China,Guizhou,Asia,1
+792,59,1,kunming,44,China,Yunnan,Asia,1
+793,59,3,qujing,44,China,Yunnan,Asia,1
+794,59,4,yuxi,44,China,Yunnan,Asia,1
+795,59,5,baoshan,44,China,Yunnan,Asia,1
+796,59,6,zhaotong,44,China,Yunnan,Asia,1
+797,59,7,lijiang,44,China,Yunnan,Asia,1
+798,59,8,pu'er,44,China,Yunnan,Asia,1
+799,59,9,lincang,44,China,Yunnan,Asia,1
+800,59,23,chuxiong yi autonomous prefecture,44,China,Yunnan,Asia,1
+801,59,25,honghe hani-yi autonomous prefecture,44,China,Yunnan,Asia,1
+802,59,26,wenshan zhuang-miao autonomous prefecture,44,China,Yunnan,Asia,1
+803,59,28,xishuangbanna dai autonomous prefecture,44,China,Yunnan,Asia,1
+804,59,29,dali bai autonomous prefecture,44,China,Yunnan,Asia,1
+805,59,31,dehong dai-jingpo autonomous prefecture,44,China,Yunnan,Asia,1
+806,59,33,nujiang lisu autonomous prefecture,44,China,Yunnan,Asia,1
+807,59,34,diqing tibetan autonomous prefecture,44,China,Yunnan,Asia,1
+808,60,1,lhasa,44,China,Tibet,Asia,1
+809,60,21,qamdo,44,China,Tibet,Asia,1
+810,60,22,shannan,44,China,Tibet,Asia,1
+811,60,23,xigaze,44,China,Tibet,Asia,1
+812,60,24,nagqu,44,China,Tibet,Asia,1
+813,60,25,ngari,44,China,Tibet,Asia,1
+814,60,26,nyingchi,44,China,Tibet,Asia,1
+815,61,1,xi'an,44,China,Shaanxi,Asia,1
+816,61,2,tongchuan,44,China,Shaanxi,Asia,1
+817,61,3,baoji,44,China,Shaanxi,Asia,1
+818,61,4,xianyang,44,China,Shaanxi,Asia,1
+819,61,5,weinan,44,China,Shaanxi,Asia,1
+820,61,6,yan'an,44,China,Shaanxi,Asia,1
+821,61,7,hanzhong,44,China,Shaanxi,Asia,1
+822,61,8,yulin,44,China,Shaanxi,Asia,1
+823,61,9,ankang,44,China,Shaanxi,Asia,1
+824,61,10,shangluo,44,China,Shaanxi,Asia,1
+825,62,1,lanzhou,44,China,Gansu,Asia,1
+826,62,2,jinchang,44,China,Gansu,Asia,1
+827,62,3,baiyin,44,China,Gansu,Asia,1
+828,62,4,tianshui,44,China,Gansu,Asia,1
+829,62,5,jiayuguan,44,China,Gansu,Asia,1
+830,62,6,wuwei,44,China,Gansu,Asia,1
+831,62,7,zhangye,44,China,Gansu,Asia,1
+832,62,8,pingliang,44,China,Gansu,Asia,1
+833,62,9,jiuquan,44,China,Gansu,Asia,1
+834,62,10,qingyang,44,China,Gansu,Asia,1
+835,62,11,dingxi,44,China,Gansu,Asia,1
+836,62,12,longnan,44,China,Gansu,Asia,1
+837,62,29,linxia hui autonomous prefecture,44,China,Gansu,Asia,1
+838,62,30,gannan tibetan autonomous prefecture,44,China,Gansu,Asia,1
+839,63,1,xining,44,China,Qinghai,Asia,1
+840,63,21,haidong,44,China,Qinghai,Asia,1
+841,63,22,haibei tibetan autonomous prefecture,44,China,Qinghai,Asia,1
+842,63,23,huangnan tibetan autonomous prefecture,44,China,Qinghai,Asia,1
+843,63,25,hainan tibetan autonomous prefecture,44,China,Qinghai,Asia,1
+844,63,26,guoluo tibetan autonomous prefecture,44,China,Qinghai,Asia,1
+845,63,27,yushu tibetan autonomous prefecture,44,China,Qinghai,Asia,1
+846,63,28,haixi mongol-tibetan autonomous prefecture,44,China,Qinghai,Asia,1
+847,64,1,yinchuan,44,China,Ningxia,Asia,1
+848,64,2,shizuishan,44,China,Ningxia,Asia,1
+849,64,3,wuzhong,44,China,Ningxia,Asia,1
+850,64,4,guyuan,44,China,Ningxia,Asia,1
+851,64,5,zhongwei,44,China,Ningxia,Asia,1
+852,65,1,urumqi,44,China,Xinjiang,Asia,1
+853,65,2,karamay,44,China,Xinjiang,Asia,1
+854,65,21,turpan,44,China,Xinjiang,Asia,1
+855,65,22,hami,44,China,Xinjiang,Asia,1
+856,65,23,changji hui autonomous prefecture,44,China,Xinjiang,Asia,1
+857,65,27,bortala mongol autonomous prefecture,44,China,Xinjiang,Asia,1
+858,65,28,bayingolin mongol autonomous prefecture,44,China,Xinjiang,Asia,1
+859,65,29,aksu,44,China,Xinjiang,Asia,1
+860,65,30,kizilsu kirgiz autonomous prefecture,44,China,Xinjiang,Asia,1
+861,65,31,kashi,44,China,Xinjiang,Asia,1
+862,65,32,hotan,44,China,Xinjiang,Asia,1
+863,65,40,ili kazakh autonomous prefecture,44,China,Xinjiang,Asia,1
+864,65,42,tacheng,44,China,Xinjiang,Asia,1
+865,65,43,altay,44,China,Xinjiang,Asia,1
+866,65,91,shihezi,44,China,Xinjiang,Asia,1
+867,65,92,alar,44,China,Xinjiang,Asia,1
+868,65,93,tumsuk,44,China,Xinjiang,Asia,1
+869,65,94,wujiaqu,44,China,Xinjiang,Asia,1
+870,65,95,beitun,44,China,Xinjiang,Asia,1
+871,66,1,taipei city,44,China,Taiwan,Asia,1
+872,66,2,kaohsiung city,44,China,Taiwan,Asia,1
+873,66,3,keelung city,44,China,Taiwan,Asia,1
+874,66,4,taichung city,44,China,Taiwan,Asia,1
+875,66,5,tainan city,44,China,Taiwan,Asia,1
+876,66,6,hsinchu city,44,China,Taiwan,Asia,1
+877,66,7,chiayi city,44,China,Taiwan,Asia,1
+878,66,8,taipei county,44,China,Taiwan,Asia,1
+879,66,9,ilan county,44,China,Taiwan,Asia,1
+880,66,10,taoyuan county,44,China,Taiwan,Asia,1
+881,66,11,hsinchu county,44,China,Taiwan,Asia,1
+882,66,12,miaoli county,44,China,Taiwan,Asia,1
+883,66,13,taichung county,44,China,Taiwan,Asia,1
+884,66,14,changhwa county,44,China,Taiwan,Asia,1
+885,66,15,nantou county,44,China,Taiwan,Asia,1
+886,66,16,yunnlin county,44,China,Taiwan,Asia,1
+887,66,17,chiayi county,44,China,Taiwan,Asia,1
+888,66,18,tainan county,44,China,Taiwan,Asia,1
+889,66,19,kaohsiung county,44,China,Taiwan,Asia,1
+890,66,20,pingtung county,44,China,Taiwan,Asia,1
+891,66,21,penghu county,44,China,Taiwan,Asia,1
+892,66,22,taitung county,44,China,Taiwan,Asia,1
+893,66,23,hualian county,44,China,Taiwan,Asia,1
+894,67,HCW,,44,China,Hongkong,Asia,1
+895,67,HEA,,44,China,Hongkong,Asia,1
+896,67,HSO,,44,China,Hongkong,Asia,1
+897,67,HWC,,44,China,Hongkong,Asia,1
+898,67,KKC,,44,China,Hongkong,Asia,1
+899,67,KKT,,44,China,Hongkong,Asia,1
+900,67,KSS,,44,China,Hongkong,Asia,1
+901,67,KWT,,44,China,Hongkong,Asia,1
+902,67,KYT,,44,China,Hongkong,Asia,1
+903,67,NIS,,44,China,Hongkong,Asia,1
+904,67,NKT,,44,China,Hongkong,Asia,1
+905,67,NNO,,44,China,Hongkong,Asia,1
+906,67,NSK,,44,China,Hongkong,Asia,1
+907,67,NST,,44,China,Hongkong,Asia,1
+908,67,NTM,,44,China,Hongkong,Asia,1
+909,67,NTP,,44,China,Hongkong,Asia,1
+910,67,NTW,,44,China,Hongkong,Asia,1
+911,67,NYL,,44,China,Hongkong,Asia,1
+912,68,ANT,,44,China,Macao,Asia,1
+913,68,CAT,,44,China,Macao,Asia,1
+914,68,CLN,,44,China,Macao,Asia,1
+915,68,LAW,,44,China,Macao,Asia,1
+916,68,LAZ,,44,China,Macao,Asia,1
+917,68,OLF,,44,China,Macao,Asia,1
+918,68,TPA,,44,China,Macao,Asia,1
+919,69,AG,agnebi,45,Cote d'lvoire,0,Africa,3
+920,69,BF,bafing,45,Cote d'lvoire,0,Africa,3
+921,69,BS,bas-sassandra,45,Cote d'lvoire,0,Africa,3
+922,69,DE,denguele,45,Cote d'lvoire,0,Africa,3
+923,69,DH,montagnes,45,Cote d'lvoire,0,Africa,3
+924,69,FR,fromager,45,Cote d'lvoire,0,Africa,3
+925,69,HT,haut-sassandra,45,Cote d'lvoire,0,Africa,3
+926,69,LC,lacs,45,Cote d'lvoire,0,Africa,3
+927,69,LG,lagunes,45,Cote d'lvoire,0,Africa,3
+928,69,MC,moyen-comoe,45,Cote d'lvoire,0,Africa,3
+929,69,MR,marahoue,45,Cote d'lvoire,0,Africa,3
+930,69,MV,moyen-cavally,45,Cote d'lvoire,0,Africa,3
+931,69,NC,nzi-comoe,45,Cote d'lvoire,0,Africa,3
+932,69,SB,sud-bandama,45,Cote d'lvoire,0,Africa,3
+933,69,SC,sud-comoe,45,Cote d'lvoire,0,Africa,3
+934,69,SV,savanes,45,Cote d'lvoire,0,Africa,3
+935,69,VB,vallee du bandama,45,Cote d'lvoire,0,Africa,3
+936,69,WR,worodougou,45,Cote d'lvoire,0,Africa,3
+937,69,ZA,zanzan,45,Cote d'lvoire,0,Africa,3
+938,70,ADA,adamaoua,46,Cameroon,0,Africa,3
+939,70,CEN,central,46,Cameroon,0,Africa,3
+940,70,EST,eastern,46,Cameroon,0,Africa,3
+941,70,EXN,extreme-nord,46,Cameroon,0,Africa,3
+942,70,LIT,littoral,46,Cameroon,0,Africa,3
+943,70,NOR,northern,46,Cameroon,0,Africa,3
+944,70,NOT,nord-oueste,46,Cameroon,0,Africa,3
+945,70,OUE,western,46,Cameroon,0,Africa,3
+946,70,SOU,sud-oueste,46,Cameroon,0,Africa,3
+947,70,SUD,debub,46,Cameroon,0,Africa,3
+948,71,AMZ,amazonas,50,Colombia,0,South America,7
+949,71,ANT,antioquia,50,Colombia,0,South America,7
+950,71,ARA,arauca,50,Colombia,0,South America,7
+951,71,ATL,atlantique,50,Colombia,0,South America,7
+952,71,BDC,bogota,50,Colombia,0,South America,7
+953,71,BOL,bolivar,50,Colombia,0,South America,7
+954,71,BOY,boyaca,50,Colombia,0,South America,7
+955,71,CAL,caldas,50,Colombia,0,South America,7
+956,71,CAM,cundinamarca,50,Colombia,0,South America,7
+957,71,CAQ,caqueta,50,Colombia,0,South America,7
+958,71,CAS,casanare,50,Colombia,0,South America,7
+959,71,CAU,cauca,50,Colombia,0,South America,7
+960,71,CES,cesar,50,Colombia,0,South America,7
+961,71,CHO,choco,50,Colombia,0,South America,7
+962,71,COR,cordoba,50,Colombia,0,South America,7
+963,71,GJR,la guajira,50,Colombia,0,South America,7
+964,71,GNA,guainia,50,Colombia,0,South America,7
+965,71,GVR,guaviare,50,Colombia,0,South America,7
+966,71,HUI,huila,50,Colombia,0,South America,7
+967,71,MAG,magdalena,50,Colombia,0,South America,7
+968,71,MET,meta,50,Colombia,0,South America,7
+969,71,NAR,narino,50,Colombia,0,South America,7
+970,71,NDS,norte de santander,50,Colombia,0,South America,7
+971,71,PUT,putumayo,50,Colombia,0,South America,7
+972,71,QUI,quindio,50,Colombia,0,South America,7
+973,71,RIS,risaralda,50,Colombia,0,South America,7
+974,71,SAN,santander,50,Colombia,0,South America,7
+975,71,SAP,san andres y providencia,50,Colombia,0,South America,7
+976,71,SUC,sucre,50,Colombia,0,South America,7
+977,71,TOL,tolima,50,Colombia,0,South America,7
+978,71,VAU,vaupes,50,Colombia,0,South America,7
+979,71,VDC,valle del cauca,50,Colombia,0,South America,7
+980,71,VIC,vichada,50,Colombia,0,South America,7
+981,72,BR,brava,52,Cape Verde,0,Africa,3
+982,72,BV,boa vista,52,Cape Verde,0,Africa,3
+983,72,CA,santa catarina,52,Cape Verde,0,Africa,3
+984,72,CR,santa cruz,52,Cape Verde,0,Africa,3
+985,72,FO,fogo,52,Cape Verde,0,Africa,3
+986,72,IA,santiago,52,Cape Verde,0,Africa,3
+987,72,MA,maio,52,Cape Verde,0,Africa,3
+988,72,MO,mosteiros,52,Cape Verde,0,Africa,3
+989,72,PA,paul,52,Cape Verde,0,Africa,3
+990,72,PN,porto novo,52,Cape Verde,0,Africa,3
+991,72,PR,praia,52,Cape Verde,0,Africa,3
+992,72,RG,ribeira grande,52,Cape Verde,0,Africa,3
+993,72,SA,santo antao,52,Cape Verde,0,Africa,3
+994,72,SD,sao domingos,52,Cape Verde,0,Africa,3
+995,72,SF,sao filipe,52,Cape Verde,0,Africa,3
+996,72,SL,sal,52,Cape Verde,0,Africa,3
+997,72,SM,sao miguel,52,Cape Verde,0,Africa,3
+998,72,SN,sao nicolau,52,Cape Verde,0,Africa,3
+999,72,SV,sao vicente,52,Cape Verde,0,Africa,3
+1000,72,TA,tarrafal,52,Cape Verde,0,Africa,3
+1001,73,A,alajuela,53,Costa Rica,0,North America,6
+1002,73,C,cartago,53,Costa Rica,0,North America,6
+1003,73,G,guanacaste,53,Costa Rica,0,North America,6
+1004,73,H,heredia,53,Costa Rica,0,North America,6
+1005,73,L,limon,53,Costa Rica,0,North America,6
+1006,73,P,puntarenas,53,Costa Rica,0,North America,6
+1007,73,SJ,san jose,53,Costa Rica,0,North America,6
+1008,74,1,pinar del rio,54,Cuba,0,North America,6
+1009,74,2,la habana,54,Cuba,0,North America,6
+1010,74,3,ciudad de la habana,54,Cuba,0,North America,6
+1011,74,4,matanzas,54,Cuba,0,North America,6
+1012,74,5,villa clara,54,Cuba,0,North America,6
+1013,74,6,cienfuegos,54,Cuba,0,North America,6
+1014,74,7,sancti spiritus,54,Cuba,0,North America,6
+1015,74,8,ciego de avila,54,Cuba,0,North America,6
+1016,74,9,camaguey,54,Cuba,0,North America,6
+1017,74,10,las tunas,54,Cuba,0,North America,6
+1018,74,11,holguin,54,Cuba,0,North America,6
+1019,74,12,granma,54,Cuba,0,North America,6
+1020,74,13,santiago de cuba,54,Cuba,0,North America,6
+1021,74,14,guantanamo,54,Cuba,0,North America,6
+1022,74,99,isla de la juventud,54,Cuba,0,North America,6
+1023,74,MAY,mayari,54,Cuba,0,North America,6
+1024,74,MZO,manzanillo,54,Cuba,0,North America,6
+1025,75,1,nicosia,57,Cyprus,0,Europe,2
+1026,75,2,limassol,57,Cyprus,0,Europe,2
+1027,75,3,larnaca,57,Cyprus,0,Europe,2
+1028,75,4,famagusta,57,Cyprus,0,Europe,2
+1029,75,5,pafos,57,Cyprus,0,Europe,2
+1030,75,6,kyrenia,57,Cyprus,0,Europe,2
+1031,76,JC,jihomoravsky,58,Czech,0,Europe,2
+1032,76,KA,karlovarsky,58,Czech,0,Europe,2
+1033,76,KR,kralovehradecky,58,Czech,0,Europe,2
+1034,76,LI,liberecky,58,Czech,0,Europe,2
+1035,76,MO,moravskoslezsky,58,Czech,0,Europe,2
+1036,76,OL,olomoucky,58,Czech,0,Europe,2
+1037,76,PA,pardubicky,58,Czech,0,Europe,2
+1038,76,PL,plzensky,58,Czech,0,Europe,2
+1039,76,PR,prague,58,Czech,0,Europe,2
+1040,76,ST,stredocesky,58,Czech,0,Europe,2
+1041,76,US,ustecky,58,Czech,0,Europe,2
+1042,76,VY,vysocina,58,Czech,0,Europe,2
+1043,76,ZL,zlinsky,58,Czech,0,Europe,2
+1044,77,BE,berlin,59,Germany,0,Europe,2
+1045,77,HB,bremen,59,Germany,0,Europe,2
+1046,77,HH,hamburg,59,Germany,0,Europe,2
+1047,77,AGB,augsburg,59,Germany,0,Europe,2
+1048,77,ANS,ansbach,59,Germany,0,Europe,2
+1049,77,ARN,arnsberg,59,Germany,0,Europe,2
+1050,77,BFE,bielefeld,59,Germany,0,Europe,2
+1051,77,BOM,bochum,59,Germany,0,Europe,2
+1052,77,BRW,brunswick,59,Germany,0,Europe,2
+1053,77,BYU,bayreuth,59,Germany,0,Europe,2
+1054,77,CGN,cologne,59,Germany,0,Europe,2
+1055,77,CHE,chemnitz,59,Germany,0,Europe,2
+1056,77,DAR,darmstadt,59,Germany,0,Europe,2
+1057,77,DES,dessau,59,Germany,0,Europe,2
+1058,77,DET,detmold,59,Germany,0,Europe,2
+1059,77,DRS,dresden,59,Germany,0,Europe,2
+1060,77,DUS,dusseldorf,59,Germany,0,Europe,2
+1061,77,ERF,erfurt,59,Germany,0,Europe,2
+1062,77,FBG,freiburg,59,Germany,0,Europe,2
+1063,77,FFO,frankfurt,59,Germany,0,Europe,2
+1064,77,GBN,gieben,59,Germany,0,Europe,2
+1065,77,HAE,halle,59,Germany,0,Europe,2
+1066,77,HAJ,hannover,59,Germany,0,Europe,2
+1067,77,KAE,karlsruhe,59,Germany,0,Europe,2
+1068,77,KAS,kassel,59,Germany,0,Europe,2
+1069,77,KEL,kiel,59,Germany,0,Europe,2
+1070,77,KOB,koblenz,59,Germany,0,Europe,2
+1071,77,LBG,luneburg,59,Germany,0,Europe,2
+1072,77,LDH,landshut,59,Germany,0,Europe,2
+1073,77,LEJ,leipzig,59,Germany,0,Europe,2
+1074,77,MAG,magdeburg,59,Germany,0,Europe,2
+1075,77,MAI,mainz,59,Germany,0,Europe,2
+1076,77,MHG,mannheim,59,Germany,0,Europe,2
+1077,77,MUC,munich,59,Germany,0,Europe,2
+1078,77,MUN,muenster,59,Germany,0,Europe,2
+1079,77,NUE,nuremberg,59,Germany,0,Europe,2
+1080,77,POT,potsdam,59,Germany,0,Europe,2
+1081,77,STR,stuttgart,59,Germany,0,Europe,2
+1082,77,SWH,schwerin,59,Germany,0,Europe,2
+1083,77,TRI,trier,59,Germany,0,Europe,2
+1084,77,WIB,wiesbaden,59,Germany,0,Europe,2
+1085,77,WUG,wuerzburg,59,Germany,0,Europe,2
+1086,78,K,dikhil,60,Djibouti,0,Africa,3
+1087,78,O,obock,60,Djibouti,0,Africa,3
+1088,78,S,ali sabih,60,Djibouti,0,Africa,3
+1089,78,T,tadjoura,60,Djibouti,0,Africa,3
+1090,79,AR,aarhus,62,Denmark,0,Europe,2
+1091,79,BO,bornholm,62,Denmark,0,Europe,2
+1092,79,FY,fyn,62,Denmark,0,Europe,2
+1093,79,ST,storstroem,62,Denmark,0,Europe,2
+1094,79,VS,vestsjaelland,62,Denmark,0,Europe,2
+1095,79,CPH,copenhagen,62,Denmark,0,Europe,2
+1096,79,FRE,frederiksborg,62,Denmark,0,Europe,2
+1097,79,RIB,ribe,62,Denmark,0,Europe,2
+1098,79,RKE,roskilde,62,Denmark,0,Europe,2
+1099,79,RKG,ringkoebing,62,Denmark,0,Europe,2
+1100,79,VBI,soenderjylland,62,Denmark,0,Europe,2
+1101,79,VEJ,vejle,62,Denmark,0,Europe,2
+1102,79,VIB,viborg,62,Denmark,0,Europe,2
+1103,79,VSV,nordjylland,62,Denmark,0,Europe,2
+1104,80,AAE,annaba,64,Algeria,0,Africa,3
+1105,80,ADE,ain defla,64,Algeria,0,Africa,3
+1106,80,ADR,adrar,64,Algeria,0,Africa,3
+1107,80,ALG,alger,64,Algeria,0,Africa,3
+1108,80,ATE,ain temouchent,64,Algeria,0,Africa,3
+1109,80,BAT,batna,64,Algeria,0,Africa,3
+1110,80,BEC,bechar,64,Algeria,0,Africa,3
+1111,80,BIS,biskra,64,Algeria,0,Africa,3
+1112,80,BJA,bejaia,64,Algeria,0,Africa,3
+1113,80,BLI,blida,64,Algeria,0,Africa,3
+1114,80,BOA,bouira,64,Algeria,0,Africa,3
+1115,80,BOR,bordj bou arreridj,64,Algeria,0,Africa,3
+1116,80,BOU,boumerdes,64,Algeria,0,Africa,3
+1117,80,CHL,chlef,64,Algeria,0,Africa,3
+1118,80,CZL,constantine,64,Algeria,0,Africa,3
+1119,80,DJE,djelfa,64,Algeria,0,Africa,3
+1120,80,EBA,el bayadh,64,Algeria,0,Africa,3
+1121,80,EOU,el oued,64,Algeria,0,Africa,3
+1122,80,ETA,el tarf,64,Algeria,0,Africa,3
+1123,80,GHA,ghardaia,64,Algeria,0,Africa,3
+1124,80,GUE,guelma,64,Algeria,0,Africa,3
+1125,80,ILL,illizi,64,Algeria,0,Africa,3
+1126,80,IOU,tizi ouzou,64,Algeria,0,Africa,3
+1127,80,JIJ,jijel,64,Algeria,0,Africa,3
+1128,80,KHE,khenchela,64,Algeria,0,Africa,3
+1129,80,LAG,laghouat,64,Algeria,0,Africa,3
+1130,80,MED,medea,64,Algeria,0,Africa,3
+1131,80,MIL,mila,64,Algeria,0,Africa,3
+1132,80,MOS,mostaganem,64,Algeria,0,Africa,3
+1133,80,MSI,msila,64,Algeria,0,Africa,3
+1134,80,MUA,mascara,64,Algeria,0,Africa,3
+1135,80,NAA,naama,64,Algeria,0,Africa,3
+1136,80,OEB,oum el bouaghi,64,Algeria,0,Africa,3
+1137,80,ORA,oran,64,Algeria,0,Africa,3
+1138,80,OUA,ouargla,64,Algeria,0,Africa,3
+1139,80,REL,relizane,64,Algeria,0,Africa,3
+1140,80,SAH,souk ahras,64,Algeria,0,Africa,3
+1141,80,SAI,saida,64,Algeria,0,Africa,3
+1142,80,SBA,sidi bel abbes,64,Algeria,0,Africa,3
+1143,80,SET,setif,64,Algeria,0,Africa,3
+1144,80,SKI,skikda,64,Algeria,0,Africa,3
+1145,80,TAM,tamanghasset,64,Algeria,0,Africa,3
+1146,80,TEB,tebessa,64,Algeria,0,Africa,3
+1147,80,TIA,tiaret,64,Algeria,0,Africa,3
+1148,80,TIN,tindouf,64,Algeria,0,Africa,3
+1149,80,TIP,tipaza,64,Algeria,0,Africa,3
+1150,80,TIS,tissemsilt,64,Algeria,0,Africa,3
+1151,80,TLE,tlemcen,64,Algeria,0,Africa,3
+1152,81,A,azuay,65,Ecuador,0,South America,7
+1153,81,B,bolivar,65,Ecuador,0,South America,7
+1154,81,C,carchi,65,Ecuador,0,South America,7
+1155,81,D,"napo, orellana",65,Ecuador,0,South America,7
+1156,81,E,esmeraldas,65,Ecuador,0,South America,7
+1157,81,F,canar,65,Ecuador,0,South America,7
+1158,81,G,guayas,65,Ecuador,0,South America,7
+1159,81,H,chimborazo,65,Ecuador,0,South America,7
+1160,81,I,imbabura,65,Ecuador,0,South America,7
+1161,81,L,loja,65,Ecuador,0,South America,7
+1162,81,M,manabi,65,Ecuador,0,South America,7
+1163,81,O,el oro,65,Ecuador,0,South America,7
+1164,81,P,pichincha,65,Ecuador,0,South America,7
+1165,81,R,los rios,65,Ecuador,0,South America,7
+1166,81,S,morona-santiago,65,Ecuador,0,South America,7
+1167,81,T,tungurahua,65,Ecuador,0,South America,7
+1168,81,U,sucumbios,65,Ecuador,0,South America,7
+1169,81,W,galapagos,65,Ecuador,0,South America,7
+1170,81,X,cotopaxi,65,Ecuador,0,South America,7
+1171,81,Y,pastaza,65,Ecuador,0,South America,7
+1172,81,Z,zamora-chinchipe,65,Ecuador,0,South America,7
+1173,82,ALY,alexandria,66,Egypt,0,Africa,3
+1174,82,ASW,aswan,66,Egypt,0,Africa,3
+1175,82,CAI,cairo,66,Egypt,0,Africa,3
+1176,82,GBY,al ghurdaqah,66,Egypt,0,Africa,3
+1177,82,SKH,shubra al khaymah,66,Egypt,0,Africa,3
+1178,83,BR,gash barka,67,Eritrea,0,Africa,3
+1179,83,DE,debub,67,Eritrea,0,Africa,3
+1180,83,DK,debubawi keyih bahri,67,Eritrea,0,Africa,3
+1181,83,KE,anseba,67,Eritrea,0,Africa,3
+1182,83,MA,al-wusta,67,Eritrea,0,Africa,3
+1183,83,SK,semenawi keyih bahri,67,Eritrea,0,Africa,3
+1184,84,AGP,malaga,68,Spain,0,Europe,2
+1185,84,ALA,alava,68,Spain,0,Europe,2
+1186,84,ALB,albacete,68,Spain,0,Europe,2
+1187,84,ALC,alicante,68,Spain,0,Europe,2
+1188,84,ARL,la rioja,68,Spain,0,Europe,2
+1189,84,AST,asturias,68,Spain,0,Europe,2
+1190,84,AVI,avila,68,Spain,0,Europe,2
+1191,84,BCN,barcelona,68,Spain,0,Europe,2
+1192,84,BJZ,badajoz,68,Spain,0,Europe,2
+1193,84,BLR,baleares,68,Spain,0,Europe,2
+1194,84,BUR,burgos,68,Spain,0,Europe,2
+1195,84,CAD,cadiz,68,Spain,0,Europe,2
+1196,84,CAS,castellon,68,Spain,0,Europe,2
+1197,84,CCS,caceres,68,Spain,0,Europe,2
+1198,84,CIR,cludad real,68,Spain,0,Europe,2
+1199,84,CUE,cuenca,68,Spain,0,Europe,2
+1200,84,GRO,gerona,68,Spain,0,Europe,2
+1201,84,GRX,granada,68,Spain,0,Europe,2
+1202,84,GUA,guadalajara,68,Spain,0,Europe,2
+1203,84,GUI,guipuzcoa,68,Spain,0,Europe,2
+1204,84,HUC,huesca,68,Spain,0,Europe,2
+1205,84,HUV,huelva,68,Spain,0,Europe,2
+1206,84,JAE,jaen,68,Spain,0,Europe,2
+1207,84,LCG,la coruna,68,Spain,0,Europe,2
+1208,84,LEI,almeria,68,Spain,0,Europe,2
+1209,84,LEN,leon,68,Spain,0,Europe,2
+1210,84,LGO,provincia de lugo,68,Spain,0,Europe,2
+1211,84,LLE,lleida,68,Spain,0,Europe,2
+1212,84,LPA,las palmas,68,Spain,0,Europe,2
+1213,84,MAD,madrid,68,Spain,0,Europe,2
+1214,84,MJV,murcia,68,Spain,0,Europe,2
+1215,84,NVV,navarra,68,Spain,0,Europe,2
+1216,84,ODB,cordoba,68,Spain,0,Europe,2
+1217,84,ORE,orense,68,Spain,0,Europe,2
+1218,84,PAC,palencia,68,Spain,0,Europe,2
+1219,84,PEV,provincia de pontevedra,68,Spain,0,Europe,2
+1220,84,SCT,santa cruz de tenerife,68,Spain,0,Europe,2
+1221,84,SDR,santander,68,Spain,0,Europe,2
+1222,84,SEG,segovia,68,Spain,0,Europe,2
+1223,84,SLM,salamanca,68,Spain,0,Europe,2
+1224,84,SOR,soria,68,Spain,0,Europe,2
+1225,84,SVQ,sevilla,68,Spain,0,Europe,2
+1226,84,TAR,tarragona,68,Spain,0,Europe,2
+1227,84,TER,teruel,68,Spain,0,Europe,2
+1228,84,TOL,toledo,68,Spain,0,Europe,2
+1229,84,VLC,valencia,68,Spain,0,Europe,2
+1230,84,VLL,valladolid,68,Spain,0,Europe,2
+1231,84,VSE,vizcaya,68,Spain,0,Europe,2
+1232,84,ZAZ,zaragoza,68,Spain,0,Europe,2
+1233,84,ZMR,zamora,68,Spain,0,Europe,2
+1234,85,37,harju,69,Estonia,0,Europe,2
+1235,85,39,hiiu,69,Estonia,0,Europe,2
+1236,85,44,ida-viru,69,Estonia,0,Europe,2
+1237,85,49,jogeva,69,Estonia,0,Europe,2
+1238,85,51,jarva,69,Estonia,0,Europe,2
+1239,85,57,laane,69,Estonia,0,Europe,2
+1240,85,59,laane-viru,69,Estonia,0,Europe,2
+1241,85,65,polva,69,Estonia,0,Europe,2
+1242,85,67,parnu,69,Estonia,0,Europe,2
+1243,85,70,rapla,69,Estonia,0,Europe,2
+1244,85,74,saare,69,Estonia,0,Europe,2
+1245,85,78,tartu,69,Estonia,0,Europe,2
+1246,85,82,valga,69,Estonia,0,Europe,2
+1247,85,84,viljandi,69,Estonia,0,Europe,2
+1248,85,86,voru,69,Estonia,0,Europe,2
+1249,86,AA,adis abeba,70,Ethiopia,0,Africa,3
+1250,86,AF,afar,70,Ethiopia,0,Africa,3
+1251,86,AH,amara,70,Ethiopia,0,Africa,3
+1252,86,BG,binshangul gumuz,70,Ethiopia,0,Africa,3
+1253,86,DD,dire dawa,70,Ethiopia,0,Africa,3
+1254,86,GB,gambela hizboch,70,Ethiopia,0,Africa,3
+1255,86,HR,hareri  hizb,70,Ethiopia,0,Africa,3
+1256,86,OR,oromiya,70,Ethiopia,0,Africa,3
+1257,86,SM,sumale,70,Ethiopia,0,Africa,3
+1258,86,SN,yedebub biheroch,70,Ethiopia,0,Africa,3
+1259,86,TG,tigray,70,Ethiopia,0,Africa,3
+1260,87,ESP,espoo,71,Finland,0,Europe,2
+1261,87,HEL,helsinki,71,Finland,0,Europe,2
+1262,87,HMY,hameenlinna,71,Finland,0,Europe,2
+1263,87,JOE,joensuu,71,Finland,0,Europe,2
+1264,87,KAJ,kajaani,71,Finland,0,Europe,2
+1265,87,KOK,kokkola,71,Finland,0,Europe,2
+1266,87,KTK,kotka,71,Finland,0,Europe,2
+1267,87,KUO,kuopio,71,Finland,0,Europe,2
+1268,87,LHI,lahti,71,Finland,0,Europe,2
+1269,87,LPP,lappeenranta,71,Finland,0,Europe,2
+1270,87,MHQ,mariehamn,71,Finland,0,Europe,2
+1271,87,MIK,mikkeli,71,Finland,0,Europe,2
+1272,87,OLU,oulu,71,Finland,0,Europe,2
+1273,87,POR,pori,71,Finland,0,Europe,2
+1274,87,PRV,porvoo,71,Finland,0,Europe,2
+1275,87,RVN,rovaniemi,71,Finland,0,Europe,2
+1276,87,TKU,turku,71,Finland,0,Europe,2
+1277,87,TMP,tampere,71,Finland,0,Europe,2
+1278,87,VAA,vaasa,71,Finland,0,Europe,2
+1279,87,VAT,vantaa,71,Finland,0,Europe,2
+1280,88,AJA,ajaccio,74,France,0,Europe,2
+1281,88,AMI,amiens,74,France,0,Europe,2
+1282,88,ARL,arles,74,France,0,Europe,2
+1283,88,BSN,besancon,74,France,0,Europe,2
+1284,88,CFR,caen,74,France,0,Europe,2
+1285,88,CSM,chalons-en-champagne,74,France,0,Europe,2
+1286,88,DIJ,dijon,74,France,0,Europe,2
+1287,88,FRJ,frejus,74,France,0,Europe,2
+1288,88,LIG,limoges,74,France,0,Europe,2
+1289,88,LIO,lyon,74,France,0,Europe,2
+1290,88,LLE,lille,74,France,0,Europe,2
+1291,88,MPL,montpellier,74,France,0,Europe,2
+1292,88,MRS,marseille,74,France,0,Europe,2
+1293,88,MZM,metz,74,France,0,Europe,2
+1294,88,NCE,nice,74,France,0,Europe,2
+1295,88,NTE,nantes,74,France,0,Europe,2
+1296,88,ORR,orleans,74,France,0,Europe,2
+1297,88,PAR,paris,74,France,0,Europe,2
+1298,88,QXB,aix-en-provence,74,France,0,Europe,2
+1299,88,RNS,rennes,74,France,0,Europe,2
+1300,88,TLS,toulouse,74,France,0,Europe,2
+1301,88,URO,rouen,74,France,0,Europe,2
+1302,88,VAA,valence,74,France,0,Europe,2
+1303,89,ES,estuaire,77,Gabon,0,Africa,3
+1304,89,HO,haut-ogooue,77,Gabon,0,Africa,3
+1305,89,MO,moyen-ogooue,77,Gabon,0,Africa,3
+1306,89,NG,ngounie,77,Gabon,0,Africa,3
+1307,89,NY,nyanga,77,Gabon,0,Africa,3
+1308,89,OI,ogooue-ivindo,77,Gabon,0,Africa,3
+1309,89,OL,ogooue-lolo,77,Gabon,0,Africa,3
+1310,89,OM,ogooue-maritime,77,Gabon,0,Africa,3
+1311,89,WN,woleu-ntem,77,Gabon,0,Africa,3
+1312,90,BAS,bath,78,United Kingdom,England,Europe,2
+1313,90,BIR,birmingham,78,United Kingdom,England,Europe,2
+1314,90,BNH,brighton & hove,78,United Kingdom,England,Europe,2
+1315,90,BRD,bradford,78,United Kingdom,England,Europe,2
+1316,90,BST,bristol,78,United Kingdom,England,Europe,2
+1317,90,CAM,cambridge,78,United Kingdom,England,Europe,2
+1318,90,CAX,carlisle,78,United Kingdom,England,Europe,2
+1319,90,CEG,chester,78,United Kingdom,England,Europe,2
+1320,90,CNG,canterbury,78,United Kingdom,England,Europe,2
+1321,90,COV,coventry,78,United Kingdom,England,Europe,2
+1322,90,CST,chichester,78,United Kingdom,England,Europe,2
+1323,90,DER,derby,78,United Kingdom,England,Europe,2
+1324,90,DUR,durham,78,United Kingdom,England,Europe,2
+1325,90,ELY,ely,78,United Kingdom,England,Europe,2
+1326,90,EXE,exeter,78,United Kingdom,England,Europe,2
+1327,90,GLO,gloucester,78,United Kingdom,England,Europe,2
+1328,90,HAF,hereford,78,United Kingdom,England,Europe,2
+1329,90,KUH,kingston upon hull,78,United Kingdom,England,Europe,2
+1330,90,LAN,lancaster,78,United Kingdom,England,Europe,2
+1331,90,LCE,leicester,78,United Kingdom,England,Europe,2
+1332,90,LCN,lincoln,78,United Kingdom,England,Europe,2
+1333,90,LDS,leeds,78,United Kingdom,England,Europe,2
+1334,90,LHF,lichfield,78,United Kingdom,England,Europe,2
+1335,90,LIV,liverpool,78,United Kingdom,England,Europe,2
+1336,90,LND,london,78,United Kingdom,England,Europe,2
+1337,90,MAN,manchester,78,United Kingdom,England,Europe,2
+1338,90,NCL,newcastle,78,United Kingdom,England,Europe,2
+1339,90,NGM,nottingham,78,United Kingdom,England,Europe,2
+1340,90,NRW,norwich,78,United Kingdom,England,Europe,2
+1341,90,OXF,oxford,78,United Kingdom,England,Europe,2
+1342,90,PLY,plymouth,78,United Kingdom,England,Europe,2
+1343,90,POR,portsmouth,78,United Kingdom,England,Europe,2
+1344,90,PRE,preston,78,United Kingdom,England,Europe,2
+1345,90,PTE,peterborough,78,United Kingdom,England,Europe,2
+1346,90,RIP,ripon,78,United Kingdom,England,Europe,2
+1347,90,SHE,sheffield,78,United Kingdom,England,Europe,2
+1348,90,SLF,salford,78,United Kingdom,England,Europe,2
+1349,90,SLS,salisbury,78,United Kingdom,England,Europe,2
+1350,90,SOT,stoke-on-trent,78,United Kingdom,England,Europe,2
+1351,90,STH,southampton,78,United Kingdom,England,Europe,2
+1352,90,SUN,sunderland,78,United Kingdom,England,Europe,2
+1353,90,TBL,saint albans,78,United Kingdom,England,Europe,2
+1354,90,TRU,truro,78,United Kingdom,England,Europe,2
+1355,90,WKF,wakefield,78,United Kingdom,England,Europe,2
+1356,90,WLS,wells,78,United Kingdom,England,Europe,2
+1357,90,WNE,winchester,78,United Kingdom,England,Europe,2
+1358,90,WOR,worcester,78,United Kingdom,England,Europe,2
+1359,90,WOV,wolverhampton,78,United Kingdom,England,Europe,2
+1360,90,YOR,york,78,United Kingdom,England,Europe,2
+1361,91,BFS,belfast,78,United Kingdom,Northern Ireland,Europe,2
+1362,91,DRY,derry,78,United Kingdom,Northern Ireland,Europe,2
+1363,91,LSB,lisburn,78,United Kingdom,Northern Ireland,Europe,2
+1364,91,NYM,newry,78,United Kingdom,Northern Ireland,Europe,2
+1365,92,ABD,aberdeen,78,United Kingdom,Scotland,Europe,2
+1366,92,DND,dundee,78,United Kingdom,Scotland,Europe,2
+1367,92,EDH,edinburgh,78,United Kingdom,Scotland,Europe,2
+1368,92,GLG,glasgow,78,United Kingdom,Scotland,Europe,2
+1369,92,INV,inverness,78,United Kingdom,Scotland,Europe,2
+1370,92,STG,stirling,78,United Kingdom,Scotland,Europe,2
+1371,93,BAN,bangor,78,United Kingdom,Wales,Europe,2
+1372,93,CDF,cardiff,78,United Kingdom,Wales,Europe,2
+1373,93,NWP,newport,78,United Kingdom,Wales,Europe,2
+1374,93,SWA,swansea,78,United Kingdom,Wales,Europe,2
+1375,94,AS,ashanti,81,Ghana,0,Africa,3
+1376,94,BA,brong ahafo,81,Ghana,0,Africa,3
+1377,94,CE,al-wusta,81,Ghana,0,Africa,3
+1378,94,EA,eastern,81,Ghana,0,Africa,3
+1379,94,GA,greater accra,81,Ghana,0,Africa,3
+1380,94,NO,northern,81,Ghana,0,Africa,3
+1381,94,UE,upper east,81,Ghana,0,Africa,3
+1382,94,UW,upper west,81,Ghana,0,Africa,3
+1383,94,VO,volta,81,Ghana,0,Africa,3
+1384,94,WE,western,81,Ghana,0,Africa,3
+1385,94,OBU,obuasi,81,Ghana,0,Africa,3
+1386,95,BOK,boke,83,Guinea,0,Africa,3
+1387,95,CNK,conakry,83,Guinea,0,Africa,3
+1388,95,FRN,faranah,83,Guinea,0,Africa,3
+1389,95,KND,kindia,83,Guinea,0,Africa,3
+1390,95,KNK,kankan,83,Guinea,0,Africa,3
+1391,95,LAB,labe,83,Guinea,0,Africa,3
+1392,95,MAM,mamou,83,Guinea,0,Africa,3
+1393,95,NZR,nzerekore,83,Guinea,0,Africa,3
+1394,96,CY,cyclades,87,Greece,0,Europe,2
+1395,96,DO,dodecanese,87,Greece,0,Europe,2
+1396,96,ATH,athens,87,Greece,0,Europe,2
+1397,96,CHQ,chanion,87,Greece,0,Europe,2
+1398,96,HER,irakleiou,87,Greece,0,Europe,2
+1399,96,LES,lesbos,87,Greece,0,Europe,2
+1400,96,LST,lasithiou,87,Greece,0,Europe,2
+1401,96,PRI,peiraievs,87,Greece,0,Europe,2
+1402,96,RET,rethymnis,87,Greece,0,Europe,2
+1403,96,SMI,samos,87,Greece,0,Europe,2
+1404,97,AV,alta verapaz,90,Guatemala,0,North America,6
+1405,97,BV,baja verapaz,90,Guatemala,0,North America,6
+1406,97,CM,chimaltenango,90,Guatemala,0,North America,6
+1407,97,CQ,chiquimula,90,Guatemala,0,North America,6
+1408,97,ES,escuintla,90,Guatemala,0,North America,6
+1409,97,GU,guatemala,90,Guatemala,0,North America,6
+1410,97,HU,huehuetenango,90,Guatemala,0,North America,6
+1411,97,IZ,izabal,90,Guatemala,0,North America,6
+1412,97,JA,jalapa,90,Guatemala,0,North America,6
+1413,97,JU,jutiapa,90,Guatemala,0,North America,6
+1414,97,PE,peten,90,Guatemala,0,North America,6
+1415,97,PR,el progreso,90,Guatemala,0,North America,6
+1416,97,QC,quiche,90,Guatemala,0,North America,6
+1417,97,QZ,quetzaltenango,90,Guatemala,0,North America,6
+1418,97,RE,retalhuleu,90,Guatemala,0,North America,6
+1419,97,SM,san marcos,90,Guatemala,0,North America,6
+1420,97,SO,solola,90,Guatemala,0,North America,6
+1421,97,SR,santa rosa,90,Guatemala,0,North America,6
+1422,97,ST,sacatepequez,90,Guatemala,0,North America,6
+1423,97,SU,suchitepequez,90,Guatemala,0,North America,6
+1424,97,TO,totonicapan,90,Guatemala,0,North America,6
+1425,97,ZA,zacapa,90,Guatemala,0,North America,6
+1426,97,MIX,mixco,90,Guatemala,0,North America,6
+1427,97,VIN,villa nueva,90,Guatemala,0,North America,6
+1428,98,BW,barima-waini,93,Guyana,0,South America,7
+1429,98,CM,cuyuni-mazaruni,93,Guyana,0,South America,7
+1430,98,DM,demerara-mahaica,93,Guyana,0,South America,7
+1431,98,EC,east berbice-corentyne,93,Guyana,0,South America,7
+1432,98,EW,essequibo islands-west demerara,93,Guyana,0,South America,7
+1433,98,MB,mahaica-berbice,93,Guyana,0,South America,7
+1434,98,PI,potaro-siparuni,93,Guyana,0,South America,7
+1435,98,PM,pomeroon-supenaam,93,Guyana,0,South America,7
+1436,98,UD,upper demerara-berbice,93,Guyana,0,South America,7
+1437,98,UT,upper takutu-upper essequibo,93,Guyana,0,South America,7
+1438,99,AT,atlantida,95,Honduras,0,North America,6
+1439,99,CH,choluteca,95,Honduras,0,North America,6
+1440,99,CL,cologne,95,Honduras,0,North America,6
+1441,99,CM,comayagua,95,Honduras,0,North America,6
+1442,99,CP,copan,95,Honduras,0,North America,6
+1443,99,CR,cortes,95,Honduras,0,North America,6
+1444,99,FM,francisco morazan,95,Honduras,0,North America,6
+1445,99,GD,gracias a dios,95,Honduras,0,North America,6
+1446,99,IB,islas de la bahia,95,Honduras,0,North America,6
+1447,99,IN,intibuca,95,Honduras,0,North America,6
+1448,99,LE,lempira,95,Honduras,0,North America,6
+1449,99,OC,ocotepeque,95,Honduras,0,North America,6
+1450,99,OL,olancho,95,Honduras,0,North America,6
+1451,99,PA,el paraiso,95,Honduras,0,North America,6
+1452,99,PZ,la paz,95,Honduras,0,North America,6
+1453,99,SB,santa barbara,95,Honduras,0,North America,6
+1454,99,VA,valle,95,Honduras,0,North America,6
+1455,99,YO,yoro,95,Honduras,0,North America,6
+1456,99,CHO,choloma,95,Honduras,0,North America,6
+1457,100,1,zagrebacka,96,Croatia,0,Europe,2
+1458,100,2,krapinsko-zagorska,96,Croatia,0,Europe,2
+1459,100,3,sisacko-moslavacka,96,Croatia,0,Europe,2
+1460,100,4,karlovacka,96,Croatia,0,Europe,2
+1461,100,5,varazdinska,96,Croatia,0,Europe,2
+1462,100,6,koprivnicko-krizevacka,96,Croatia,0,Europe,2
+1463,100,7,bjelovarsko-bilogorska,96,Croatia,0,Europe,2
+1464,100,8,primorsko-goranska,96,Croatia,0,Europe,2
+1465,100,9,licko-senjska,96,Croatia,0,Europe,2
+1466,100,10,viroviticko-podravska,96,Croatia,0,Europe,2
+1467,100,11,pozega-slavonia,96,Croatia,0,Europe,2
+1468,100,12,brodsko-posavska,96,Croatia,0,Europe,2
+1469,100,13,zadarska,96,Croatia,0,Europe,2
+1470,100,14,osjecko-baranjska,96,Croatia,0,Europe,2
+1471,100,15,sibensko-kninska,96,Croatia,0,Europe,2
+1472,100,16,vukovarsko-srijemska,96,Croatia,0,Europe,2
+1473,100,17,splitsko-dalmatinska,96,Croatia,0,Europe,2
+1474,100,18,istarska,96,Croatia,0,Europe,2
+1475,100,19,dubrovacko-neretvanska,96,Croatia,0,Europe,2
+1476,100,20,medimurska,96,Croatia,0,Europe,2
+1477,100,21,grad zagreb,96,Croatia,0,Europe,2
+1478,101,BA,baranya,98,Hungary,0,Europe,2
+1479,101,BE,bekes,98,Hungary,0,Europe,2
+1480,101,BK,bacs-kiskun,98,Hungary,0,Europe,2
+1481,101,BU,budapest,98,Hungary,0,Europe,2
+1482,101,BZ,borsod-abauj-zemplen,98,Hungary,0,Europe,2
+1483,101,CS,csongrad,98,Hungary,0,Europe,2
+1484,101,FE,fejer,98,Hungary,0,Europe,2
+1485,101,GS,gyor-moson-sopron,98,Hungary,0,Europe,2
+1486,101,HB,hajdu-bihar,98,Hungary,0,Europe,2
+1487,101,HE,heves,98,Hungary,0,Europe,2
+1488,101,JN,jasz-nagykun-szolnok,98,Hungary,0,Europe,2
+1489,101,KE,komarom-esztergom,98,Hungary,0,Europe,2
+1490,101,NO,nograd,98,Hungary,0,Europe,2
+1491,101,PE,pest,98,Hungary,0,Europe,2
+1492,101,SO,somogy,98,Hungary,0,Europe,2
+1493,101,SZ,szabolcs-szatmar-bereg,98,Hungary,0,Europe,2
+1494,101,TO,tolna,98,Hungary,0,Europe,2
+1495,101,VA,vas,98,Hungary,0,Europe,2
+1496,101,VE,veszprem,98,Hungary,0,Europe,2
+1497,101,ZA,zala,98,Hungary,0,Europe,2
+1498,102,AC,aceh,99,Indonesia,0,Asia,1
+1499,102,BA,bali,99,Indonesia,0,Asia,1
+1500,102,BB,kepulauan bangka belitung,99,Indonesia,0,Asia,1
+1501,102,BE,bengkulu,99,Indonesia,0,Asia,1
+1502,102,BT,banten,99,Indonesia,0,Asia,1
+1503,102,IJ,irian jaya,99,Indonesia,0,Asia,1
+1504,102,JA,jambi,99,Indonesia,0,Asia,1
+1505,102,JB,java barat,99,Indonesia,0,Asia,1
+1506,102,JI,java timur,99,Indonesia,0,Asia,1
+1507,102,JK,jakarta raya,99,Indonesia,0,Asia,1
+1508,102,JT,java tengah,99,Indonesia,0,Asia,1
+1509,102,KB,daerah tingkat i kalimantan barat,99,Indonesia,0,Asia,1
+1510,102,KI,kalimantan timur,99,Indonesia,0,Asia,1
+1511,102,KS,kalimantan selatan,99,Indonesia,0,Asia,1
+1512,102,KT,kalimantan tengah,99,Indonesia,0,Asia,1
+1513,102,LA,lampung,99,Indonesia,0,Asia,1
+1514,102,MA,maluku,99,Indonesia,0,Asia,1
+1515,102,NB,nusa tenggara barat,99,Indonesia,0,Asia,1
+1516,102,NT,nusa tenggara timur,99,Indonesia,0,Asia,1
+1517,102,RI,riau,99,Indonesia,0,Asia,1
+1518,102,SA,sulawesi utara,99,Indonesia,0,Asia,1
+1519,102,SG,sulawesi tenggara,99,Indonesia,0,Asia,1
+1520,102,SN,sulawesi selatan,99,Indonesia,0,Asia,1
+1521,102,SR,sumatera barat,99,Indonesia,0,Asia,1
+1522,102,SS,sumatera selatan,99,Indonesia,0,Asia,1
+1523,102,ST,sulawesi tengah,99,Indonesia,0,Asia,1
+1524,102,SU,sumatera utara,99,Indonesia,0,Asia,1
+1525,102,YO,daerah istimewa yogyakarta,99,Indonesia,0,Asia,1
+1526,103,AJL,aizawl,101,India,0,Asia,1
+1527,103,BBI,bhubaneswar,101,India,0,Asia,1
+1528,103,BHO,bhopal,101,India,0,Asia,1
+1529,103,BLR,bangalore,101,India,0,Asia,1
+1530,103,CCU,calcutta,101,India,0,Asia,1
+1531,103,CJB,coimbatore,101,India,0,Asia,1
+1532,103,DAM,dammam,101,India,0,Asia,1
+1533,103,DIU,diu,101,India,0,Asia,1
+1534,103,GTO,gangtok,101,India,0,Asia,1
+1535,103,ICD,new delhi,101,India,0,Asia,1
+1536,103,IDR,indore,101,India,0,Asia,1
+1537,103,IMF,imphal,101,India,0,Asia,1
+1538,103,IXC,chandigarh,101,India,0,Asia,1
+1539,103,IXM,madurai,101,India,0,Asia,1
+1540,103,JAI,jaipur,101,India,0,Asia,1
+1541,103,JDH,jodhpur,101,India,0,Asia,1
+1542,103,JLR,jabalpur,101,India,0,Asia,1
+1543,103,JUC,jalandhar,101,India,0,Asia,1
+1544,103,KOM,kohima,101,India,0,Asia,1
+1545,103,KRK,karaikal,101,India,0,Asia,1
+1546,103,KVA,kavaratti,101,India,0,Asia,1
+1547,103,MAA,chennai,101,India,0,Asia,1
+1548,103,MAH,mahe,101,India,0,Asia,1
+1549,103,PNY,pondicherry,101,India,0,Asia,1
+1550,103,SHL,shillong,101,India,0,Asia,1
+1551,103,SIL,silvassa,101,India,0,Asia,1
+1552,103,SLR,sambalpur,101,India,0,Asia,1
+1553,103,SRV,yanam,101,India,0,Asia,1
+1554,103,TRV,trivandrum,101,India,0,Asia,1
+1555,103,UDR,udaipur,101,India,0,Asia,1
+1556,104,CK,cork,103,Ireland,0,Europe,2
+1557,104,CL,clare,103,Ireland,0,Europe,2
+1558,104,CV,cavan,103,Ireland,0,Europe,2
+1559,104,CW,carlow,103,Ireland,0,Europe,2
+1560,104,DB,dublin,103,Ireland,0,Europe,2
+1561,104,DG,donegal,103,Ireland,0,Europe,2
+1562,104,GW,galway,103,Ireland,0,Europe,2
+1563,104,KD,kildare,103,Ireland,0,Europe,2
+1564,104,KK,kilkenny,103,Ireland,0,Europe,2
+1565,104,KR,kerry,103,Ireland,0,Europe,2
+1566,104,LA,laois,103,Ireland,0,Europe,2
+1567,104,LF,longford,103,Ireland,0,Europe,2
+1568,104,LM,limerick,103,Ireland,0,Europe,2
+1569,104,LR,leitrim,103,Ireland,0,Europe,2
+1570,104,LT,louth,103,Ireland,0,Europe,2
+1571,104,MG,monaghan,103,Ireland,0,Europe,2
+1572,104,MT,meath,103,Ireland,0,Europe,2
+1573,104,MY,mayo,103,Ireland,0,Europe,2
+1574,104,OF,offaly,103,Ireland,0,Europe,2
+1575,104,RC,roscommon,103,Ireland,0,Europe,2
+1576,104,SL,sligo,103,Ireland,0,Europe,2
+1577,104,TP,tipperary,103,Ireland,0,Europe,2
+1578,104,WF,waterford,103,Ireland,0,Europe,2
+1579,104,WK,wicklow,103,Ireland,0,Europe,2
+1580,104,WM,westmeath,103,Ireland,0,Europe,2
+1581,104,WX,wexford,103,Ireland,0,Europe,2
+1582,105,J,jerusalem,107,Israel,0,Asia,1
+1583,105,ASH,ashdod,107,Israel,0,Asia,1
+1584,105,BAT,bat yam,107,Israel,0,Asia,1
+1585,105,BEV,beersheba,107,Israel,0,Asia,1
+1586,105,HFA,haifa,107,Israel,0,Asia,1
+1587,105,HOL,holon,107,Israel,0,Asia,1
+1588,105,NAT,netanya,107,Israel,0,Asia,1
+1589,105,TLV,tel aviv-yafo,107,Israel,0,Asia,1
+1590,106,ALE,alessandria,108,Italy,0,Europe,2
+1591,106,AOI,ancona,108,Italy,0,Europe,2
+1592,106,AOT,aosta,108,Italy,0,Europe,2
+1593,106,ASP,ascoli piceno,108,Italy,0,Europe,2
+1594,106,AST,asti,108,Italy,0,Europe,2
+1595,106,BDS,brindisi,108,Italy,0,Europe,2
+1596,106,BEN,benevento,108,Italy,0,Europe,2
+1597,106,BGO,bergamo,108,Italy,0,Europe,2
+1598,106,BIE,biella,108,Italy,0,Europe,2
+1599,106,BLQ,bologna,108,Italy,0,Europe,2
+1600,106,BRC,brescia,108,Italy,0,Europe,2
+1601,106,BRI,barrie,108,Italy,0,Europe,2
+1602,106,CAG,cagliari,108,Italy,0,Europe,2
+1603,106,CAX,genova,108,Italy,0,Europe,2
+1604,106,CIY,como,108,Italy,0,Europe,2
+1605,106,COB,campobasso,108,Italy,0,Europe,2
+1606,106,CRV,crotone,108,Italy,0,Europe,2
+1607,106,CST,caserta,108,Italy,0,Europe,2
+1608,106,CTA,catania,108,Italy,0,Europe,2
+1609,106,CUN,cuneo,108,Italy,0,Europe,2
+1610,106,FLR,firenze,108,Italy,0,Europe,2
+1611,106,FOG,foggia,108,Italy,0,Europe,2
+1612,106,FRR,ferrara,108,Italy,0,Europe,2
+1613,106,ISE,isernia,108,Italy,0,Europe,2
+1614,106,LAQ,l'aquila,108,Italy,0,Europe,2
+1615,106,LCC,lecce,108,Italy,0,Europe,2
+1616,106,LCO,lecco,108,Italy,0,Europe,2
+1617,106,LIV,livorno,108,Italy,0,Europe,2
+1618,106,MCR,massa-carrara,108,Italy,0,Europe,2
+1619,106,MIL,milano,108,Italy,0,Europe,2
+1620,106,MOD,modena,108,Italy,0,Europe,2
+1621,106,MSN,messina,108,Italy,0,Europe,2
+1622,106,MTR,matera,108,Italy,0,Europe,2
+1623,106,MZA,monza e brianza,108,Italy,0,Europe,2
+1624,106,NAP,naples,108,Italy,0,Europe,2
+1625,106,NVR,novara,108,Italy,0,Europe,2
+1626,106,OLB,olbia-tempio,108,Italy,0,Europe,2
+1627,106,PAV,pavia,108,Italy,0,Europe,2
+1628,106,PEG,perugia,108,Italy,0,Europe,2
+1629,106,PMF,parma,108,Italy,0,Europe,2
+1630,106,PMO,palermo,108,Italy,0,Europe,2
+1631,106,PRD,pordenone,108,Italy,0,Europe,2
+1632,106,PSA,pisa,108,Italy,0,Europe,2
+1633,106,QCS,cosenza,108,Italy,0,Europe,2
+1634,106,QCZ,catanzaro,108,Italy,0,Europe,2
+1635,106,QNU,nuoro,108,Italy,0,Europe,2
+1636,106,QOS,oristano,108,Italy,0,Europe,2
+1637,106,QPO,potenza,108,Italy,0,Europe,2
+1638,106,QSS,sassari,108,Italy,0,Europe,2
+1639,106,REG,reggio calabria,108,Italy,0,Europe,2
+1640,106,RNE,reggio emilia,108,Italy,0,Europe,2
+1641,106,ROM,roma,108,Italy,0,Europe,2
+1642,106,SAL,salerno,108,Italy,0,Europe,2
+1643,106,SNA,siena,108,Italy,0,Europe,2
+1644,106,SPE,la spezia,108,Italy,0,Europe,2
+1645,106,SVN,savona,108,Italy,0,Europe,2
+1646,106,SYR,syracuse,108,Italy,0,Europe,2
+1647,106,TAR,taranto,108,Italy,0,Europe,2
+1648,106,TPS,trapani,108,Italy,0,Europe,2
+1649,106,TRN,turin,108,Italy,0,Europe,2
+1650,106,TRS,trieste,108,Italy,0,Europe,2
+1651,106,TRT,trento,108,Italy,0,Europe,2
+1652,106,UDN,udine,108,Italy,0,Europe,2
+1653,106,VCE,venice,108,Italy,0,Europe,2
+1654,106,VIT,viterbo,108,Italy,0,Europe,2
+1655,106,VRL,vercelli,108,Italy,0,Europe,2
+1656,107,AND,st. andrews,109,Jamaica,0,South America,7
+1657,107,ANN,santa ana,109,Jamaica,0,South America,7
+1658,107,CAT,st. catherine,109,Jamaica,0,South America,7
+1659,107,CLA,clarendon,109,Jamaica,0,South America,7
+1660,107,ELI,st. elizabeth,109,Jamaica,0,South America,7
+1661,107,HAN,hannover,109,Jamaica,0,South America,7
+1662,107,JAM,st. james,109,Jamaica,0,South America,7
+1663,107,KIN,kingston,109,Jamaica,0,South America,7
+1664,107,MAN,manchester,109,Jamaica,0,South America,7
+1665,107,MAR,st. mary,109,Jamaica,0,South America,7
+1666,107,POR,portland,109,Jamaica,0,South America,7
+1667,107,THO,st. thomas,109,Jamaica,0,South America,7
+1668,107,TRL,trelawny,109,Jamaica,0,South America,7
+1669,107,WML,westmoreland,109,Jamaica,0,South America,7
+1670,108,AJ,allun,111,Jordan,0,Asia,1
+1671,108,AM,amman,111,Jordan,0,Asia,1
+1672,108,AQ,aqaba,111,Jordan,0,Asia,1
+1673,108,BA,balqa,111,Jordan,0,Asia,1
+1674,108,IR,irbid,111,Jordan,0,Asia,1
+1675,108,JA,jarash,111,Jordan,0,Asia,1
+1676,108,KA,karak,111,Jordan,0,Asia,1
+1677,108,MD,madaba,111,Jordan,0,Asia,1
+1678,108,MF,mafraq,111,Jordan,0,Asia,1
+1679,108,MN,maan,111,Jordan,0,Asia,1
+1680,108,RU,rusayfah,111,Jordan,0,Asia,1
+1681,108,TA,tafiela,111,Jordan,0,Asia,1
+1682,108,ZA,zarqa,111,Jordan,0,Asia,1
+1683,109,1,hokkaido,112,Japan,0,Asia,1
+1684,109,2,aomori,112,Japan,0,Asia,1
+1685,109,3,iwate,112,Japan,0,Asia,1
+1686,109,4,miyagi,112,Japan,0,Asia,1
+1687,109,5,akita,112,Japan,0,Asia,1
+1688,109,6,yamagata,112,Japan,0,Asia,1
+1689,109,7,fukushima,112,Japan,0,Asia,1
+1690,109,8,ibaraki,112,Japan,0,Asia,1
+1691,109,9,tochigi,112,Japan,0,Asia,1
+1692,109,10,gunma,112,Japan,0,Asia,1
+1693,109,11,saitama,112,Japan,0,Asia,1
+1694,109,12,chiba,112,Japan,0,Asia,1
+1695,109,13,tokyo,112,Japan,0,Asia,1
+1696,109,14,kanagawa,112,Japan,0,Asia,1
+1697,109,15,niigata,112,Japan,0,Asia,1
+1698,109,16,toyama,112,Japan,0,Asia,1
+1699,109,17,ishikawa,112,Japan,0,Asia,1
+1700,109,18,fukui,112,Japan,0,Asia,1
+1701,109,19,yamanashi,112,Japan,0,Asia,1
+1702,109,20,nagano,112,Japan,0,Asia,1
+1703,109,21,gifu,112,Japan,0,Asia,1
+1704,109,22,shizuoka,112,Japan,0,Asia,1
+1705,109,23,aichi,112,Japan,0,Asia,1
+1706,109,24,mie,112,Japan,0,Asia,1
+1707,109,25,shiga,112,Japan,0,Asia,1
+1708,109,26,kyoto,112,Japan,0,Asia,1
+1709,109,27,osaka,112,Japan,0,Asia,1
+1710,109,28,hyogo,112,Japan,0,Asia,1
+1711,109,29,nara,112,Japan,0,Asia,1
+1712,109,30,wakayama,112,Japan,0,Asia,1
+1713,109,31,tottori,112,Japan,0,Asia,1
+1714,109,32,shimane,112,Japan,0,Asia,1
+1715,109,33,okayama,112,Japan,0,Asia,1
+1716,109,34,hiroshima,112,Japan,0,Asia,1
+1717,109,35,yamaguchi,112,Japan,0,Asia,1
+1718,109,36,tokushima,112,Japan,0,Asia,1
+1719,109,37,kagawa,112,Japan,0,Asia,1
+1720,109,38,ehime,112,Japan,0,Asia,1
+1721,109,39,kochi,112,Japan,0,Asia,1
+1722,109,40,fukuoka,112,Japan,0,Asia,1
+1723,109,41,saga,112,Japan,0,Asia,1
+1724,109,42,nagasaki,112,Japan,0,Asia,1
+1725,109,43,kumamoto,112,Japan,0,Asia,1
+1726,109,44,oita,112,Japan,0,Asia,1
+1727,109,45,miyazaki,112,Japan,0,Asia,1
+1728,109,46,kagoshima,112,Japan,0,Asia,1
+1729,109,47,okinawa,112,Japan,0,Asia,1
+1730,110,AKM,aqmola,113,Kazakhstan,0,Asia,1
+1731,110,AKS,aksu,113,Kazakhstan,0,Asia,1
+1732,110,AKT,aqtobe,113,Kazakhstan,0,Asia,1
+1733,110,ALA,almaty,113,Kazakhstan,0,Asia,1
+1734,110,ARY,arys,113,Kazakhstan,0,Asia,1
+1735,110,AST,astana,113,Kazakhstan,0,Asia,1
+1736,110,ATY,atyrau,113,Kazakhstan,0,Asia,1
+1737,110,AYK,arkalyk,113,Kazakhstan,0,Asia,1
+1738,110,BXH,balkhash,113,Kazakhstan,0,Asia,1
+1739,110,DMB,zhambyl,113,Kazakhstan,0,Asia,1
+1740,110,DZH,zhezkazgan,113,Kazakhstan,0,Asia,1
+1741,110,EKB,ekibastuz,113,Kazakhstan,0,Asia,1
+1742,110,KAP,kapchagay,113,Kazakhstan,0,Asia,1
+1743,110,KAR,qaraghandy,113,Kazakhstan,0,Asia,1
+1744,110,KEN,kentau,113,Kazakhstan,0,Asia,1
+1745,110,KGT,ongtustik qazaqstan,113,Kazakhstan,0,Asia,1
+1746,110,KST,qostanay,113,Kazakhstan,0,Asia,1
+1747,110,KUR,kurchatov,113,Kazakhstan,0,Asia,1
+1748,110,KZO,karazhal,113,Kazakhstan,0,Asia,1
+1749,110,KZY,qyzylorda,113,Kazakhstan,0,Asia,1
+1750,110,LEN,leninogorsk,113,Kazakhstan,0,Asia,1
+1751,110,LKK,lisakovsk,113,Kazakhstan,0,Asia,1
+1752,110,MAN,mangghystau,113,Kazakhstan,0,Asia,1
+1753,110,PAV,pavlodar,113,Kazakhstan,0,Asia,1
+1754,110,RUD,rudny,113,Kazakhstan,0,Asia,1
+1755,110,SAK,shakhtinsk,113,Kazakhstan,0,Asia,1
+1756,110,SAR,saran,113,Kazakhstan,0,Asia,1
+1757,110,SEM,semey,113,Kazakhstan,0,Asia,1
+1758,110,SEV,soltustik qazaqstan,113,Kazakhstan,0,Asia,1
+1759,110,STE,stepnogorsk,113,Kazakhstan,0,Asia,1
+1760,110,TEK,tekeli,113,Kazakhstan,0,Asia,1
+1761,110,TEM,temirtau,113,Kazakhstan,0,Asia,1
+1762,110,TUR,turkestan,113,Kazakhstan,0,Asia,1
+1763,110,VOS,shyghys qazaqstan,113,Kazakhstan,0,Asia,1
+1764,110,ZAP,batys qazaqstan,113,Kazakhstan,0,Asia,1
+1765,110,ZHA,zhanaozen,113,Kazakhstan,0,Asia,1
+1766,110,ZYR,zyryanovsk,113,Kazakhstan,0,Asia,1
+1767,111,CE,central,114,Kenya,0,Africa,3
+1768,111,NA,nairobi,114,Kenya,0,Africa,3
+1769,111,BAR,baringo,114,Kenya,0,Africa,3
+1770,111,BOM,bomet,114,Kenya,0,Africa,3
+1771,111,BUN,bungoma,114,Kenya,0,Africa,3
+1772,111,BUS,busia,114,Kenya,0,Africa,3
+1773,111,EMA,elgeyo-marakwet,114,Kenya,0,Africa,3
+1774,111,EMB,embu,114,Kenya,0,Africa,3
+1775,111,GAS,garissa,114,Kenya,0,Africa,3
+1776,111,HOB,homa bay,114,Kenya,0,Africa,3
+1777,111,ISI,isiolo,114,Kenya,0,Africa,3
+1778,111,KAJ,kajiado,114,Kenya,0,Africa,3
+1779,111,KAK,kakamega,114,Kenya,0,Africa,3
+1780,111,KEY,kericho,114,Kenya,0,Africa,3
+1781,111,KIA,kiambu,114,Kenya,0,Africa,3
+1782,111,KII,kisii,114,Kenya,0,Africa,3
+1783,111,KIL,kilifi,114,Kenya,0,Africa,3
+1784,111,KIR,kirinyaga,114,Kenya,0,Africa,3
+1785,111,KIS,kisumu,114,Kenya,0,Africa,3
+1786,111,KIT,kitui,114,Kenya,0,Africa,3
+1787,111,KWA,kwale,114,Kenya,0,Africa,3
+1788,111,LAI,laikipia,114,Kenya,0,Africa,3
+1789,111,LAU,lamu,114,Kenya,0,Africa,3
+1790,111,MAC,machakos,114,Kenya,0,Africa,3
+1791,111,MAK,makueni,114,Kenya,0,Africa,3
+1792,111,MAN,mandera,114,Kenya,0,Africa,3
+1793,111,MER,meru,114,Kenya,0,Africa,3
+1794,111,MIG,migori,114,Kenya,0,Africa,3
+1795,111,MOM,mombasa,114,Kenya,0,Africa,3
+1796,111,MUR,muranga,114,Kenya,0,Africa,3
+1797,111,NAN,nandi,114,Kenya,0,Africa,3
+1798,111,NAR,narok,114,Kenya,0,Africa,3
+1799,111,NIT,nithi,114,Kenya,0,Africa,3
+1800,111,NUU,nakuru,114,Kenya,0,Africa,3
+1801,111,NYE,nyeri,114,Kenya,0,Africa,3
+1802,111,NYM,nyamira,114,Kenya,0,Africa,3
+1803,111,NYN,nyandarua,114,Kenya,0,Africa,3
+1804,111,RBT,marsabit,114,Kenya,0,Africa,3
+1805,111,SIA,siaya,114,Kenya,0,Africa,3
+1806,111,TNZ,trans-nzoia,114,Kenya,0,Africa,3
+1807,111,TRI,tana river,114,Kenya,0,Africa,3
+1808,111,TTA,taita-taveta,114,Kenya,0,Africa,3
+1809,111,TUR,turkana,114,Kenya,0,Africa,3
+1810,111,UAS,samburu,114,Kenya,0,Africa,3
+1811,111,UGI,uasin gishu,114,Kenya,0,Africa,3
+1812,111,VIH,vihiga,114,Kenya,0,Africa,3
+1813,111,WJR,wajir,114,Kenya,0,Africa,3
+1814,111,WPO,west pokot,114,Kenya,0,Africa,3
+1815,112,B,batken,115,Kirghizia,0,Asia,1
+1816,112,C,chuy,115,Kirghizia,0,Asia,1
+1817,112,J,jalal-abad,115,Kirghizia,0,Asia,1
+1818,112,N,naryn,115,Kirghizia,0,Asia,1
+1819,112,O,osh,115,Kirghizia,0,Asia,1
+1820,112,T,talas,115,Kirghizia,0,Asia,1
+1821,112,Y,ysyk-kol,115,Kirghizia,0,Asia,1
+1822,112,GB,bishkek,115,Kirghizia,0,Asia,1
+1823,112,KJ,kok-jangak,115,Kirghizia,0,Asia,1
+1824,112,MS,mailuu-suu,115,Kirghizia,0,Asia,1
+1825,112,SU,suluktu,115,Kirghizia,0,Asia,1
+1826,112,TK,tash-kumyr,115,Kirghizia,0,Asia,1
+1827,112,UG,uzgen,115,Kirghizia,0,Asia,1
+1828,112,KAN,kant,115,Kirghizia,0,Asia,1
+1829,112,KBA,karabalta,115,Kirghizia,0,Asia,1
+1830,112,KKO,kara-kol,115,Kirghizia,0,Asia,1
+1831,113,BA,bat dambang,116,Cambodia,0,Asia,1
+1832,113,BM,banteay mean chey,116,Cambodia,0,Asia,1
+1833,113,KA,krong preah,116,Cambodia,0,Asia,1
+1834,113,KB,krong keb,116,Cambodia,0,Asia,1
+1835,113,KH,kracheh,116,Cambodia,0,Asia,1
+1836,113,KL,kandal,116,Cambodia,0,Asia,1
+1837,113,KM,kampong cham,116,Cambodia,0,Asia,1
+1838,113,KO,kampong spoe,116,Cambodia,0,Asia,1
+1839,113,OC,otdar mean chey,116,Cambodia,0,Asia,1
+1840,113,PG,prey veng,116,Cambodia,0,Asia,1
+1841,113,PL,krong pailin,116,Cambodia,0,Asia,1
+1842,113,PO,pouthĭsat,116,Cambodia,0,Asia,1
+1843,113,PR,preah vihear,116,Cambodia,0,Asia,1
+1844,113,TK,takev,116,Cambodia,0,Asia,1
+1845,113,KKZ,kaoh kong,116,Cambodia,0,Asia,1
+1846,113,KMT,kampot,116,Cambodia,0,Asia,1
+1847,113,KZC,kampong chhnang,116,Cambodia,0,Asia,1
+1848,113,KZK,kampong thum,116,Cambodia,0,Asia,1
+1849,113,MWV,mondol kiri,116,Cambodia,0,Asia,1
+1850,113,PNH,phnum penh,116,Cambodia,0,Asia,1
+1851,113,RBE,rotanak kiri,116,Cambodia,0,Asia,1
+1852,113,REP,siem reab,116,Cambodia,0,Asia,1
+1853,113,SVR,svay rieng,116,Cambodia,0,Asia,1
+1854,113,TNX,stoeng treng,116,Cambodia,0,Asia,1
+1855,114,GIL,gilberts islands,117,Kiribati,0,Oceania,4
+1856,114,LIN,line islands,117,Kiribati,0,Oceania,4
+1857,114,PHO,phoenix islands,117,Kiribati,0,Oceania,4
+1858,117,DSG,dalseong-gun,119,Korea,Daegu,Asia,1
+1859,117,SUS,suseong-gu,119,Korea,Daegu,Asia,1
+1860,117,TAE,daegu,119,Korea,Daegu,Asia,1
+1861,123,CHC,chuncheon,119,Korea,Gangwon-do,Asia,1
+1862,123,CWN,cheorwon county,119,Korea,Gangwon-do,Asia,1
+1863,123,GSG,goseong county,119,Korea,Gangwon-do,Asia,1
+1864,123,HCH,hwacheon county,119,Korea,Gangwon-do,Asia,1
+1865,123,HCN,hongcheon county,119,Korea,Gangwon-do,Asia,1
+1866,123,HSG,hoengseong county,119,Korea,Gangwon-do,Asia,1
+1867,123,IJE,inje county,119,Korea,Gangwon-do,Asia,1
+1868,123,JSE,jeongseon county,119,Korea,Gangwon-do,Asia,1
+1869,123,KAG,gangneung,119,Korea,Gangwon-do,Asia,1
+1870,123,POG,pyeongchang county,119,Korea,Gangwon-do,Asia,1
+1871,123,SHO,sokcho,119,Korea,Gangwon-do,Asia,1
+1872,123,SUK,samcheok,119,Korea,Gangwon-do,Asia,1
+1873,123,TBK,taebaek,119,Korea,Gangwon-do,Asia,1
+1874,123,TGH,donghae,119,Korea,Gangwon-do,Asia,1
+1875,123,WJU,wonju,119,Korea,Gangwon-do,Asia,1
+1876,123,YGU,yanggu county,119,Korea,Gangwon-do,Asia,1
+1877,123,YNY,yangyang county,119,Korea,Gangwon-do,Asia,1
+1878,123,YWL,yeongwol county,119,Korea,Gangwon-do,Asia,1
+1879,124,ADG,andong,119,Korea,Chungcheongbuk-do,Asia,1
+1880,124,BHA,bonghwa county,119,Korea,Chungcheongbuk-do,Asia,1
+1881,124,CDO,cheongdo county,119,Korea,Chungcheongbuk-do,Asia,1
+1882,124,CGK,chilgok county,119,Korea,Chungcheongbuk-do,Asia,1
+1883,124,CSG,cheongsong county,119,Korea,Chungcheongbuk-do,Asia,1
+1884,124,GJU,gyeongju,119,Korea,Chungcheongbuk-do,Asia,1
+1885,124,GRG,goryeong county,119,Korea,Chungcheongbuk-do,Asia,1
+1886,124,GWI,gunwi county,119,Korea,Chungcheongbuk-do,Asia,1
+1887,124,GYS,gyeongsan,119,Korea,Chungcheongbuk-do,Asia,1
+1888,124,KMC,gimcheon,119,Korea,Chungcheongbuk-do,Asia,1
+1889,124,KPO,pohang,119,Korea,Chungcheongbuk-do,Asia,1
+1890,124,KUM,gumi,119,Korea,Chungcheongbuk-do,Asia,1
+1891,124,MGG,mungyeong,119,Korea,Chungcheongbuk-do,Asia,1
+1892,124,SEJ,seongju county,119,Korea,Chungcheongbuk-do,Asia,1
+1893,124,SJU,sangju,119,Korea,Chungcheongbuk-do,Asia,1
+1894,124,UJN,uljin county,119,Korea,Chungcheongbuk-do,Asia,1
+1895,124,ULG,ulleung county,119,Korea,Chungcheongbuk-do,Asia,1
+1896,124,USG,uiseong county,119,Korea,Chungcheongbuk-do,Asia,1
+1897,124,YCH,yeongcheon,119,Korea,Chungcheongbuk-do,Asia,1
+1898,124,YDK,yeongdeok county,119,Korea,Chungcheongbuk-do,Asia,1
+1899,124,YEC,yecheon county,119,Korea,Chungcheongbuk-do,Asia,1
+1900,124,YEJ,yeongju,119,Korea,Chungcheongbuk-do,Asia,1
+1901,124,YYG,yeongyang county,119,Korea,Chungcheongbuk-do,Asia,1
+1902,125,CHF,jinhae,119,Korea,Chungcheongnam-do,Asia,1
+1903,125,CHW,changwon,119,Korea,Chungcheongnam-do,Asia,1
+1904,125,CNG,changnyeong county,119,Korea,Chungcheongnam-do,Asia,1
+1905,125,GCH,geochang county,119,Korea,Chungcheongnam-do,Asia,1
+1906,125,GSO,goseong county,119,Korea,Chungcheongnam-do,Asia,1
+1907,125,HAN,haman county,119,Korea,Chungcheongnam-do,Asia,1
+1908,125,HCE,hapcheon county,119,Korea,Chungcheongnam-do,Asia,1
+1909,125,HDG,hadong county,119,Korea,Chungcheongnam-do,Asia,1
+1910,125,HIN,jinju,119,Korea,Chungcheongnam-do,Asia,1
+1911,125,HYG,hamyang county,119,Korea,Chungcheongnam-do,Asia,1
+1912,125,KJE,geoje,119,Korea,Chungcheongnam-do,Asia,1
+1913,125,KMH,gimhae,119,Korea,Chungcheongnam-do,Asia,1
+1914,125,MAS,masan,119,Korea,Chungcheongnam-do,Asia,1
+1915,125,MIR,miryang,119,Korea,Chungcheongnam-do,Asia,1
+1916,125,NHE,namhae county,119,Korea,Chungcheongnam-do,Asia,1
+1917,125,SAH,sacheon,119,Korea,Chungcheongnam-do,Asia,1
+1918,125,SCH,sancheong county,119,Korea,Chungcheongnam-do,Asia,1
+1919,125,TYG,tongyeong,119,Korea,Chungcheongnam-do,Asia,1
+1920,125,URG,uiryeong county,119,Korea,Chungcheongnam-do,Asia,1
+1921,125,YSN,yangsan,119,Korea,Chungcheongnam-do,Asia,1
+1922,126,BEN,boeun county,119,Korea,Jeollabuk-do,Asia,1
+1923,126,CHU,chungju,119,Korea,Jeollabuk-do,Asia,1
+1924,126,CJJ,cheongju,119,Korea,Jeollabuk-do,Asia,1
+1925,126,CWO,cheongwon county,119,Korea,Jeollabuk-do,Asia,1
+1926,126,DYG,danyang county,119,Korea,Jeollabuk-do,Asia,1
+1927,126,ESG,eumseong county,119,Korea,Jeollabuk-do,Asia,1
+1928,126,GSN,goesan county,119,Korea,Jeollabuk-do,Asia,1
+1929,126,JCH,jecheon,119,Korea,Jeollabuk-do,Asia,1
+1930,126,JCN,jincheon county,119,Korea,Jeollabuk-do,Asia,1
+1931,126,JYG,jeungpyeong county,119,Korea,Jeollabuk-do,Asia,1
+1932,126,OCN,okcheon county,119,Korea,Jeollabuk-do,Asia,1
+1933,126,YDG,yeongdong county,119,Korea,Jeollabuk-do,Asia,1
+1934,127,ASA,asan,119,Korea,Jeollanam-do,Asia,1
+1935,127,BOR,boryeong,119,Korea,Jeollanam-do,Asia,1
+1936,127,BYO,buyeo county,119,Korea,Jeollanam-do,Asia,1
+1937,127,CHO,cheonan,119,Korea,Jeollanam-do,Asia,1
+1938,127,CYG,cheongyang county,119,Korea,Jeollanam-do,Asia,1
+1939,127,GOJ,gongju,119,Korea,Jeollanam-do,Asia,1
+1940,127,GSA,geumsan county,119,Korea,Jeollanam-do,Asia,1
+1941,127,GYE,gyeryong,119,Korea,Jeollanam-do,Asia,1
+1942,127,HSE,hongseong county,119,Korea,Jeollanam-do,Asia,1
+1943,127,NSN,nonsan,119,Korea,Jeollanam-do,Asia,1
+1944,127,SCE,seocheon county,119,Korea,Jeollanam-do,Asia,1
+1945,127,SSA,seosan,119,Korea,Jeollanam-do,Asia,1
+1946,127,TAN,taean county,119,Korea,Jeollanam-do,Asia,1
+1947,127,TJI,dangjin county,119,Korea,Jeollanam-do,Asia,1
+1948,127,YGI,yeongi county,119,Korea,Jeollanam-do,Asia,1
+1949,127,YOS,yesan county,119,Korea,Jeollanam-do,Asia,1
+1950,128,GCG,gochang county,119,Korea,Gyeongsangbuk-do,Asia,1
+1951,128,GJE,gimje,119,Korea,Gyeongsangbuk-do,Asia,1
+1952,128,IKS,iksan,119,Korea,Gyeongsangbuk-do,Asia,1
+1953,128,ISL,imsil county,119,Korea,Gyeongsangbuk-do,Asia,1
+1954,128,JAN,jinan county,119,Korea,Gyeongsangbuk-do,Asia,1
+1955,128,JEO,jeongeup,119,Korea,Gyeongsangbuk-do,Asia,1
+1956,128,JNJ,jeonju,119,Korea,Gyeongsangbuk-do,Asia,1
+1957,128,JSU,jangsu county,119,Korea,Gyeongsangbuk-do,Asia,1
+1958,128,KUV,gunsan,119,Korea,Gyeongsangbuk-do,Asia,1
+1959,128,MJU,muju county,119,Korea,Gyeongsangbuk-do,Asia,1
+1960,128,NWN,namwon,119,Korea,Gyeongsangbuk-do,Asia,1
+1961,128,PUS,buan county,119,Korea,Gyeongsangbuk-do,Asia,1
+1962,128,SCG,sunchang county,119,Korea,Gyeongsangbuk-do,Asia,1
+1963,128,WAJ,wanju county,119,Korea,Gyeongsangbuk-do,Asia,1
+1964,129,BSG,boseong county,119,Korea,Gyeongsangnam-do,Asia,1
+1965,129,DYA,damyang county,119,Korea,Gyeongsangnam-do,Asia,1
+1966,129,GHG,goheung county,119,Korea,Gyeongsangnam-do,Asia,1
+1967,129,GJN,gangjin county,119,Korea,Gyeongsangnam-do,Asia,1
+1968,129,GRE,gurye county,119,Korea,Gyeongsangnam-do,Asia,1
+1969,129,GSE,gokseong county,119,Korea,Gyeongsangnam-do,Asia,1
+1970,129,HAE,haenam county,119,Korea,Gyeongsangnam-do,Asia,1
+1971,129,HPG,hampyeong county,119,Korea,Gyeongsangnam-do,Asia,1
+1972,129,HSN,hwasun county,119,Korea,Gyeongsangnam-do,Asia,1
+1973,129,JDO,jindo county,119,Korea,Gyeongsangnam-do,Asia,1
+1974,129,JHG,jangheung county,119,Korea,Gyeongsangnam-do,Asia,1
+1975,129,JSN,jangseong county,119,Korea,Gyeongsangnam-do,Asia,1
+1976,129,KAN,gwangyang,119,Korea,Gyeongsangnam-do,Asia,1
+1977,129,MAN,muan county,119,Korea,Gyeongsangnam-do,Asia,1
+1978,129,MOK,mokpo,119,Korea,Gyeongsangnam-do,Asia,1
+1979,129,NJU,naju,119,Korea,Gyeongsangnam-do,Asia,1
+1980,129,SAN,sinan county,119,Korea,Gyeongsangnam-do,Asia,1
+1981,129,SYS,suncheon,119,Korea,Gyeongsangnam-do,Asia,1
+1982,129,WND,wando county,119,Korea,Gyeongsangnam-do,Asia,1
+1983,129,YAM,yeongam county,119,Korea,Gyeongsangnam-do,Asia,1
+1984,129,YGG,yeonggwang county,119,Korea,Gyeongsangnam-do,Asia,1
+1985,129,YOS,yeosu,119,Korea,Gyeongsangnam-do,Asia,1
+1986,130,ANY,anyang,119,Korea,Gyeonggi-do,Asia,1
+1987,130,ASG,anseong,119,Korea,Gyeonggi-do,Asia,1
+1988,130,ASN,ansan,119,Korea,Gyeonggi-do,Asia,1
+1989,130,BCN,bucheon,119,Korea,Gyeonggi-do,Asia,1
+1990,130,DDC,dongducheon,119,Korea,Gyeonggi-do,Asia,1
+1991,130,GCN,gwacheon,119,Korea,Gyeonggi-do,Asia,1
+1992,130,GMG,gwangmyeong,119,Korea,Gyeonggi-do,Asia,1
+1993,130,GMP,gimpo,119,Korea,Gyeonggi-do,Asia,1
+1994,130,GPG,gapyeong county,119,Korea,Gyeonggi-do,Asia,1
+1995,130,GRI,guri,119,Korea,Gyeonggi-do,Asia,1
+1996,130,GUN,gunpo,119,Korea,Gyeonggi-do,Asia,1
+1997,130,GYG,goyang,119,Korea,Gyeonggi-do,Asia,1
+1998,130,HCH,hwaseong,119,Korea,Gyeonggi-do,Asia,1
+1999,130,HNM,hanam,119,Korea,Gyeonggi-do,Asia,1
+2000,130,ICE,icheon,119,Korea,Gyeonggi-do,Asia,1
+2001,130,KWU,gwangju,119,Korea,Gyeonggi-do,Asia,1
+2002,130,NYU,namyangju,119,Korea,Gyeonggi-do,Asia,1
+2003,130,OSN,osan,119,Korea,Gyeonggi-do,Asia,1
+2004,130,PJU,paju,119,Korea,Gyeonggi-do,Asia,1
+2005,130,POC,pocheon,119,Korea,Gyeonggi-do,Asia,1
+2006,130,PTK,pyeongtaek,119,Korea,Gyeonggi-do,Asia,1
+2007,130,SEO,seongnam,119,Korea,Gyeonggi-do,Asia,1
+2008,130,SHE,siheung,119,Korea,Gyeonggi-do,Asia,1
+2009,130,SUO,suwon,119,Korea,Gyeonggi-do,Asia,1
+2010,130,UIJ,uijeongbu,119,Korea,Gyeonggi-do,Asia,1
+2011,130,UWN,uiwang,119,Korea,Gyeonggi-do,Asia,1
+2012,130,YCN,yeoncheon county,119,Korea,Gyeonggi-do,Asia,1
+2013,130,YJU,yeoju county,119,Korea,Gyeonggi-do,Asia,1
+2014,130,YNG,yongin,119,Korea,Gyeonggi-do,Asia,1
+2015,130,YPG,yangpyeong county,119,Korea,Gyeonggi-do,Asia,1
+2016,130,YYU,yangju,119,Korea,Gyeonggi-do,Asia,1
+2017,131,AT,attapu,121,Laos,0,Asia,1
+2018,131,BK,bokeo,121,Laos,0,Asia,1
+2019,131,BL,bolikhamxai,121,Laos,0,Asia,1
+2020,131,CH,champasak,121,Laos,0,Asia,1
+2021,131,HO,houaphan,121,Laos,0,Asia,1
+2022,131,KH,khammouan,121,Laos,0,Asia,1
+2023,131,LM,louang namtha,121,Laos,0,Asia,1
+2024,131,LP,louangphrabang,121,Laos,0,Asia,1
+2025,131,OU,oudomxai,121,Laos,0,Asia,1
+2026,131,PH,phongsali,121,Laos,0,Asia,1
+2027,131,SL,saravan,121,Laos,0,Asia,1
+2028,131,SV,savannakhet,121,Laos,0,Asia,1
+2029,131,VI,vientiane,121,Laos,0,Asia,1
+2030,131,XA,xaignabouri,121,Laos,0,Asia,1
+2031,131,XE,xekong,121,Laos,0,Asia,1
+2032,131,XI,xiangkhoang,121,Laos,0,Asia,1
+2033,131,XN,xaisomboun,121,Laos,0,Asia,1
+2034,132,AS,northern,122,Lebanon,0,Asia,1
+2035,132,BA,bayrut,122,Lebanon,0,Asia,1
+2036,132,BI,al-biqa,122,Lebanon,0,Asia,1
+2037,132,JA,debub,122,Lebanon,0,Asia,1
+2038,132,JL,jabal lubnan,122,Lebanon,0,Asia,1
+2039,132,NA,an-nabatiyah,122,Lebanon,0,Asia,1
+2040,133,BG,bong,123,Liberia,0,Africa,3
+2041,133,BM,bomi,123,Liberia,0,Africa,3
+2042,133,CM,grand cape mount,123,Liberia,0,Africa,3
+2043,133,FT,fish town,123,Liberia,0,Africa,3
+2044,133,GB,grand bassa,123,Liberia,0,Africa,3
+2045,133,GG,grand gedeh,123,Liberia,0,Africa,3
+2046,133,GK,grand kru,123,Liberia,0,Africa,3
+2047,133,LO,lofa,123,Liberia,0,Africa,3
+2048,133,MG,margibi,123,Liberia,0,Africa,3
+2049,133,MO,montserrado,123,Liberia,0,Africa,3
+2050,133,MY,maryland,123,Liberia,0,Africa,3
+2051,133,NI,nimba,123,Liberia,0,Africa,3
+2052,133,RG,river gee,123,Liberia,0,Africa,3
+2053,133,RI,river cess,123,Liberia,0,Africa,3
+2054,133,SI,sinoe,123,Liberia,0,Africa,3
+2055,133,BOP,bopolu,123,Liberia,0,Africa,3
+2056,133,GBA,gbarpolu,123,Liberia,0,Africa,3
+2057,134,ADP,anuradhapura,127,Sri Lanka,0,Asia,1
+2058,134,AMP,ampara,127,Sri Lanka,0,Asia,1
+2059,134,BAD,badulla,127,Sri Lanka,0,Asia,1
+2060,134,BTC,batticaloa,127,Sri Lanka,0,Asia,1
+2061,134,CMB,colombo,127,Sri Lanka,0,Asia,1
+2062,134,GAL,galle,127,Sri Lanka,0,Asia,1
+2063,134,GAM,gampaha,127,Sri Lanka,0,Asia,1
+2064,134,HBA,hambantota,127,Sri Lanka,0,Asia,1
+2065,134,JAF,jaffna,127,Sri Lanka,0,Asia,1
+2066,134,KAN,kandy,127,Sri Lanka,0,Asia,1
+2067,134,KEG,kegalle,127,Sri Lanka,0,Asia,1
+2068,134,KIL,kilinochchi,127,Sri Lanka,0,Asia,1
+2069,134,KLT,kalutara,127,Sri Lanka,0,Asia,1
+2070,134,KUR,kurunegala,127,Sri Lanka,0,Asia,1
+2071,134,MAA,matara,127,Sri Lanka,0,Asia,1
+2072,134,MAN,mannar,127,Sri Lanka,0,Asia,1
+2073,134,MAT,matale,127,Sri Lanka,0,Asia,1
+2074,134,MON,monaragala,127,Sri Lanka,0,Asia,1
+2075,134,MUL,mullathivu,127,Sri Lanka,0,Asia,1
+2076,134,NUE,nuwara eliya,127,Sri Lanka,0,Asia,1
+2077,134,POL,polonnaruwa,127,Sri Lanka,0,Asia,1
+2078,134,PUT,puttalam,127,Sri Lanka,0,Asia,1
+2079,134,RAT,ratnapura,127,Sri Lanka,0,Asia,1
+2080,134,TRR,trincomalee,127,Sri Lanka,0,Asia,1
+2081,134,VAV,vavuniya,127,Sri Lanka,0,Asia,1
+2082,135,A,maseru,128,Lesotho,0,Africa,3
+2083,135,B,butha-buthe,128,Lesotho,0,Africa,3
+2084,135,C,leribe,128,Lesotho,0,Africa,3
+2085,135,D,berea,128,Lesotho,0,Africa,3
+2086,135,E,mafeteng,128,Lesotho,0,Africa,3
+2087,135,F,mohales hoek,128,Lesotho,0,Africa,3
+2088,135,G,quthing,128,Lesotho,0,Africa,3
+2089,135,H,qachas nek,128,Lesotho,0,Africa,3
+2090,135,J,mokhotlong,128,Lesotho,0,Africa,3
+2091,135,K,thaba-tseka,128,Lesotho,0,Africa,3
+2092,136,AL,alytus,129,Lithuania,0,Europe,2
+2093,136,KA,kaunas,129,Lithuania,0,Europe,2
+2094,136,KL,klaipeda,129,Lithuania,0,Europe,2
+2095,136,MA,marijampole,129,Lithuania,0,Europe,2
+2096,136,PA,panevezys,129,Lithuania,0,Europe,2
+2097,136,SI,siauliai,129,Lithuania,0,Europe,2
+2098,136,TA,taurages,129,Lithuania,0,Europe,2
+2099,136,TE,telsiu,129,Lithuania,0,Europe,2
+2100,136,UT,utenos,129,Lithuania,0,Europe,2
+2101,136,VI,vilnius,129,Lithuania,0,Europe,2
+2102,136,AKM,akmenes,129,Lithuania,0,Europe,2
+2103,137,DD,diekirch,130,Luxembourg,0,Europe,2
+2104,137,GG,grevenmacher,130,Luxembourg,0,Europe,2
+2105,137,LL,luxembourg,130,Luxembourg,0,Europe,2
+2106,138,AIZ,aizkraukles,131,Latvia,0,Europe,2
+2107,138,ALU,aluksnes,131,Latvia,0,Europe,2
+2108,138,BAL,balvu,131,Latvia,0,Europe,2
+2109,138,BAU,bauskas,131,Latvia,0,Europe,2
+2110,138,CES,cesu,131,Latvia,0,Europe,2
+2111,138,DGR,daugavpils,131,Latvia,0,Europe,2
+2112,138,DOB,dobeles,131,Latvia,0,Europe,2
+2113,138,GUL,gulbenes,131,Latvia,0,Europe,2
+2114,138,JEK,jekabpils,131,Latvia,0,Europe,2
+2115,138,JGR,jelgavas,131,Latvia,0,Europe,2
+2116,138,KRA,kraslavas,131,Latvia,0,Europe,2
+2117,138,KUL,kuldigas,131,Latvia,0,Europe,2
+2118,138,LIM,limbazu,131,Latvia,0,Europe,2
+2119,138,LPK,liepajas,131,Latvia,0,Europe,2
+2120,138,LUD,ludzas,131,Latvia,0,Europe,2
+2121,138,MAD,madonas,131,Latvia,0,Europe,2
+2122,138,OGR,ogres,131,Latvia,0,Europe,2
+2123,138,PRE,preilu,131,Latvia,0,Europe,2
+2124,138,RGA,rigas,131,Latvia,0,Europe,2
+2125,138,RZR,rezeknes,131,Latvia,0,Europe,2
+2126,138,SAL,saldus,131,Latvia,0,Europe,2
+2127,138,TAL,talsu,131,Latvia,0,Europe,2
+2128,138,TUK,tukuma,131,Latvia,0,Europe,2
+2129,138,VLK,valga,131,Latvia,0,Europe,2
+2130,138,VLM,valmieras,131,Latvia,0,Europe,2
+2131,138,VSL,ventspils,131,Latvia,0,Europe,2
+2132,139,CBL,casablanca,132,Morocco,0,Africa,3
+2133,139,FES,fes,132,Morocco,0,Africa,3
+2134,139,MKN,meknes,132,Morocco,0,Africa,3
+2135,139,MRK,marrakech,132,Morocco,0,Africa,3
+2136,139,OUJ,oujda,132,Morocco,0,Africa,3
+2137,139,RSA,rabat,132,Morocco,0,Africa,3
+2138,139,TET,tetouan,132,Morocco,0,Africa,3
+2139,139,TGR,tangier,132,Morocco,0,Africa,3
+2140,139,WSH,western sahara,132,Morocco,0,Africa,3
+2141,140,AN,antananarivo,135,Madagascar,0,Africa,3
+2142,140,AS,antsiranana,135,Madagascar,0,Africa,3
+2143,140,FN,fianarantsoa,135,Madagascar,0,Africa,3
+2144,140,MJ,mahajanga,135,Madagascar,0,Africa,3
+2145,140,TL,toliary,135,Madagascar,0,Africa,3
+2146,140,TM,toamasina,135,Madagascar,0,Africa,3
+2147,141,AAD,north ari atoll,136,Maldives,0,Asia,1
+2148,141,AAU,south ari atoll,136,Maldives,0,Asia,1
+2149,141,ADD,addu atoll,136,Maldives,0,Asia,1
+2150,141,FAA,faadhippolhu,136,Maldives,0,Asia,1
+2151,141,FEA,felidhu atoll,136,Maldives,0,Asia,1
+2152,141,FMU,foammulah,136,Maldives,0,Asia,1
+2153,141,HAD,north huvadhu atoll,136,Maldives,0,Asia,1
+2154,141,HAU,south huvadhu atoll,136,Maldives,0,Asia,1
+2155,141,HDH,hadhdhunmathi,136,Maldives,0,Asia,1
+2156,141,KLH,kolhumadulu,136,Maldives,0,Asia,1
+2157,141,MAA,male atoll,136,Maldives,0,Asia,1
+2158,141,MAD,north maalhosmadhulu,136,Maldives,0,Asia,1
+2159,141,MAL,male,136,Maldives,0,Asia,1
+2160,141,MAU,south maalhosmadulu,136,Maldives,0,Asia,1
+2161,141,MLD,north miladhunmadhulu,136,Maldives,0,Asia,1
+2162,141,MLU,south miladhunmadhulu,136,Maldives,0,Asia,1
+2163,141,MUA,mulakatholhu,136,Maldives,0,Asia,1
+2164,141,NAD,north nilandhe atoll,136,Maldives,0,Asia,1
+2165,141,NAU,south nilandhe atoll,136,Maldives,0,Asia,1
+2166,141,THD,north thiladhunmathi,136,Maldives,0,Asia,1
+2167,141,THU,south thiladhunmathi,136,Maldives,0,Asia,1
+2168,142,ACA,acapulco,137,Mexico,0,North America,6
+2169,142,AGU,aguascalientes,137,Mexico,0,North America,6
+2170,142,BJU,benito juare,137,Mexico,0,North America,6
+2171,142,CAM,campeche,137,Mexico,0,North America,6
+2172,142,CAR,carmen,137,Mexico,0,North America,6
+2173,142,CHH,chihuahua,137,Mexico,0,North America,6
+2174,142,CHI,chilpancingo,137,Mexico,0,North America,6
+2175,142,CLY,celaya,137,Mexico,0,North America,6
+2176,142,COA,coatzacoalcos,137,Mexico,0,North America,6
+2177,142,COL,colima,137,Mexico,0,North America,6
+2178,142,CTM,cheturnal,137,Mexico,0,North America,6
+2179,142,CUL,culiacan,137,Mexico,0,North America,6
+2180,142,CVC,cuernavaca,137,Mexico,0,North America,6
+2181,142,DUR,durango,137,Mexico,0,North America,6
+2182,142,ESE,ensenada,137,Mexico,0,North America,6
+2183,142,GDL,guadalajara,137,Mexico,0,North America,6
+2184,142,GUA,guanajuato,137,Mexico,0,North America,6
+2185,142,HMO,hermosillo,137,Mexico,0,North America,6
+2186,142,IRP,irapuato,137,Mexico,0,North America,6
+2187,142,JAL,jalapa,137,Mexico,0,North America,6
+2188,142,JUZ,juarez,137,Mexico,0,North America,6
+2189,142,LAP,la paz,137,Mexico,0,North America,6
+2190,142,LEN,leon,137,Mexico,0,North America,6
+2191,142,LMM,los mochis,137,Mexico,0,North America,6
+2192,142,LOV,monclova,137,Mexico,0,North America,6
+2193,142,MAM,matamoros,137,Mexico,0,North America,6
+2194,142,MEX,mexico city,137,Mexico,0,North America,6
+2195,142,MID,merida,137,Mexico,0,North America,6
+2196,142,MLM,morelia,137,Mexico,0,North America,6
+2197,142,MTY,monterrey,137,Mexico,0,North America,6
+2198,142,MXL,mexicali,137,Mexico,0,North America,6
+2199,142,MZT,mazatlan,137,Mexico,0,North America,6
+2200,142,NLE,nuevo laredo,137,Mexico,0,North America,6
+2201,142,NOG,nogales,137,Mexico,0,North America,6
+2202,142,OAX,oaxaca,137,Mexico,0,North America,6
+2203,142,OBR,obregon,137,Mexico,0,North America,6
+2204,142,ORI,orizaba,137,Mexico,0,North America,6
+2205,142,PAC,pachuca,137,Mexico,0,North America,6
+2206,142,PRH,poza rica de hidalgo,137,Mexico,0,North America,6
+2207,142,PUE,puebla,137,Mexico,0,North America,6
+2208,142,PVR,puerto vallarta,137,Mexico,0,North America,6
+2209,142,QUE,queretaro,137,Mexico,0,North America,6
+2210,142,REX,reynosa,137,Mexico,0,North America,6
+2211,142,SLP,san luis potosi,137,Mexico,0,North America,6
+2212,142,SLW,saltillo,137,Mexico,0,North America,6
+2213,142,TAM,tampico,137,Mexico,0,North America,6
+2214,142,TAP,tapachula,137,Mexico,0,North America,6
+2215,142,TCN,tehuacan,137,Mexico,0,North America,6
+2216,142,TGZ,tuxtla gutierrez,137,Mexico,0,North America,6
+2217,142,TIJ,tijuana,137,Mexico,0,North America,6
+2218,142,TLA,tlaxcala,137,Mexico,0,North America,6
+2219,142,TLC,toluca,137,Mexico,0,North America,6
+2220,142,TPQ,tepic,137,Mexico,0,North America,6
+2221,142,TRC,torreon,137,Mexico,0,North America,6
+2222,142,UPN,uruapan,137,Mexico,0,North America,6
+2223,142,VER,veracruz,137,Mexico,0,North America,6
+2224,142,VHM,valles,137,Mexico,0,North America,6
+2225,142,VIC,victoria,137,Mexico,0,North America,6
+2226,142,VSA,villahermosa,137,Mexico,0,North America,6
+2227,142,ZAC,zacatecas,137,Mexico,0,North America,6
+2228,143,CD,bamako,140,Mali,0,Africa,3
+2229,143,GA,gao,140,Mali,0,Africa,3
+2230,143,KD,kidal,140,Mali,0,Africa,3
+2231,143,KL,koulikoro,140,Mali,0,Africa,3
+2232,143,KY,kayes,140,Mali,0,Africa,3
+2233,143,MP,mopti,140,Mali,0,Africa,3
+2234,143,SG,segou,140,Mali,0,Africa,3
+2235,143,SK,sikasso,140,Mali,0,Africa,3
+2236,143,TB,tombouctou,140,Mali,0,Africa,3
+2237,144,AY,ayeyarwady,142,Myanmar,0,Asia,1
+2238,144,BG,bago,142,Myanmar,0,Asia,1
+2239,144,CH,chin,142,Myanmar,0,Asia,1
+2240,144,KC,kachin,142,Myanmar,0,Asia,1
+2241,144,KH,kayah,142,Myanmar,0,Asia,1
+2242,144,KN,kayin,142,Myanmar,0,Asia,1
+2243,144,MD,mandalay,142,Myanmar,0,Asia,1
+2244,144,MG,magway,142,Myanmar,0,Asia,1
+2245,144,MN,mon,142,Myanmar,0,Asia,1
+2246,144,RK,rakhine,142,Myanmar,0,Asia,1
+2247,144,SG,sagaing,142,Myanmar,0,Asia,1
+2248,144,SH,shan,142,Myanmar,0,Asia,1
+2249,144,TN,tanintharyi,142,Myanmar,0,Asia,1
+2250,144,YG,yangon,142,Myanmar,0,Asia,1
+2251,145,1,ulaanbaatar hot,143,Mongolia,0,Asia,1
+2252,145,35,orhon,143,Mongolia,0,Asia,1
+2253,145,37,darhan-uul,143,Mongolia,0,Asia,1
+2254,145,39,hentiy,143,Mongolia,0,Asia,1
+2255,145,41,hovsgol,143,Mongolia,0,Asia,1
+2256,145,43,hovd,143,Mongolia,0,Asia,1
+2257,145,46,uvs,143,Mongolia,0,Asia,1
+2258,145,47,central,143,Mongolia,0,Asia,1
+2259,145,49,selenge,143,Mongolia,0,Asia,1
+2260,145,51,suhbaatar,143,Mongolia,0,Asia,1
+2261,145,57,dzavhan,143,Mongolia,0,Asia,1
+2262,145,59,dundgovi,143,Mongolia,0,Asia,1
+2263,145,61,dornod,143,Mongolia,0,Asia,1
+2264,145,63,dornogovi,143,Mongolia,0,Asia,1
+2265,145,64,govisumber,143,Mongolia,0,Asia,1
+2266,145,65,govi-altay,143,Mongolia,0,Asia,1
+2267,145,67,bulgan,143,Mongolia,0,Asia,1
+2268,145,69,bayanhongor,143,Mongolia,0,Asia,1
+2269,145,71,bayan-ulgiy,143,Mongolia,0,Asia,1
+2270,145,73,arhangay,143,Mongolia,0,Asia,1
+2271,145,UMN,umnogovi,143,Mongolia,0,Asia,1
+2272,145,UVO,uvorhangay,143,Mongolia,0,Asia,1
+2273,146,AD,adrar,146,Mauritania,0,Africa,3
+2274,146,AS,el-acaba,146,Mauritania,0,Africa,3
+2275,146,BR,brakna,146,Mauritania,0,Africa,3
+2276,146,DN,dakhlet nouadhibou,146,Mauritania,0,Africa,3
+2277,146,GM,guidimaka,146,Mauritania,0,Africa,3
+2278,146,GO,gorgol,146,Mauritania,0,Africa,3
+2279,146,HC,hodh ech-chargui,146,Mauritania,0,Africa,3
+2280,146,HG,hodh el-gharbi,146,Mauritania,0,Africa,3
+2281,146,IN,inchiri,146,Mauritania,0,Africa,3
+2282,146,NO,nouakchott,146,Mauritania,0,Africa,3
+2283,146,TA,tagant,146,Mauritania,0,Africa,3
+2284,146,TR,trarza,146,Mauritania,0,Africa,3
+2285,146,TZ,tiris zemmour,146,Mauritania,0,Africa,3
+2286,147,C,central,150,Malawi,0,Africa,3
+2287,147,N,northern,150,Malawi,0,Africa,3
+2288,147,S,southern,150,Malawi,0,Africa,3
+2289,148,BAT,batu pahat,151,Malaysia,Johor,Asia,1
+2290,148,JHB,johor bahru,151,Malaysia,Johor,Asia,1
+2291,148,KLA,kluang,151,Malaysia,Johor,Asia,1
+2292,148,KTI,kota tinggi,151,Malaysia,Johor,Asia,1
+2293,148,MEP,mersing,151,Malaysia,Johor,Asia,1
+2294,148,MUA,muar,151,Malaysia,Johor,Asia,1
+2295,148,POW,pontian,151,Malaysia,Johor,Asia,1
+2296,148,SGM,segamat,151,Malaysia,Johor,Asia,1
+2297,149,BLZ,baling,151,Malaysia,Kedah,Asia,1
+2298,149,BMA,bandar baharu,151,Malaysia,Kedah,Asia,1
+2299,149,KLM,kulim,151,Malaysia,Kedah,Asia,1
+2300,149,KMU,kuala muda,151,Malaysia,Kedah,Asia,1
+2301,149,KOR,kota setar,151,Malaysia,Kedah,Asia,1
+2302,149,KPA,kubang pasu,151,Malaysia,Kedah,Asia,1
+2303,149,LGK,langkawi,151,Malaysia,Kedah,Asia,1
+2304,149,PEN,pendang,151,Malaysia,Kedah,Asia,1
+2305,149,PGT,padang terap,151,Malaysia,Kedah,Asia,1
+2306,150,KUL,kuala lumpur,151,Malaysia,Kuala Lumpur,Asia,1
+2307,151,BAC,bachok,151,Malaysia,Kelantan,Asia,1
+2308,151,GMU,gua musang,151,Malaysia,Kelantan,Asia,1
+2309,151,JEL,jeli,151,Malaysia,Kelantan,Asia,1
+2310,151,KBR,kota bharu,151,Malaysia,Kelantan,Asia,1
+2311,151,KUG,kuala krai,151,Malaysia,Kelantan,Asia,1
+2312,151,MAC,machang,151,Malaysia,Kelantan,Asia,1
+2313,151,PMA,pasir mas,151,Malaysia,Kelantan,Asia,1
+2314,151,PPU,pasir putih,151,Malaysia,Kelantan,Asia,1
+2315,151,TMR,tanah merah,151,Malaysia,Kelantan,Asia,1
+2316,151,TUM,tumpat,151,Malaysia,Kelantan,Asia,1
+2317,152,LBU,labuan,151,Malaysia,Labuan,Asia,1
+2318,152,VIC,victoria,151,Malaysia,Labuan,Asia,1
+2319,153,AOG,alor gajah,151,Malaysia,Malacca,Asia,1
+2320,153,JAS,jasin,151,Malaysia,Malacca,Asia,1
+2321,153,MEL,melaka,151,Malaysia,Malacca,Asia,1
+2322,154,JEL,jelebu,151,Malaysia,Negeri Sembilan,Asia,1
+2323,154,JEP,jempol,151,Malaysia,Negeri Sembilan,Asia,1
+2324,154,KPI,kuala pilah,151,Malaysia,Negeri Sembilan,Asia,1
+2325,154,PDI,port dickson,151,Malaysia,Negeri Sembilan,Asia,1
+2326,154,REM,rembau,151,Malaysia,Negeri Sembilan,Asia,1
+2327,154,SRB,seremban,151,Malaysia,Negeri Sembilan,Asia,1
+2328,154,TAI,tampin,151,Malaysia,Negeri Sembilan,Asia,1
+2329,155,BEN,bentong,151,Malaysia,Pahang,Asia,1
+2330,155,BER,bera,151,Malaysia,Pahang,Asia,1
+2331,155,CAH,cameron highlands,151,Malaysia,Pahang,Asia,1
+2332,155,JER,jerantut,151,Malaysia,Pahang,Asia,1
+2333,155,KUA,kuantan,151,Malaysia,Pahang,Asia,1
+2334,155,KUL,kuala lipis,151,Malaysia,Pahang,Asia,1
+2335,155,MAR,maran,151,Malaysia,Pahang,Asia,1
+2336,155,PEK,pekan,151,Malaysia,Pahang,Asia,1
+2337,155,RAU,raub,151,Malaysia,Pahang,Asia,1
+2338,155,TEM,temerloh,151,Malaysia,Pahang,Asia,1
+2339,155,TOM,rompin,151,Malaysia,Pahang,Asia,1
+2340,156,BMJ,bukit mertajam,151,Malaysia,Pulau Pinang,Asia,1
+2341,156,BWH,beihai,151,Malaysia,Pulau Pinang,Asia,1
+2342,156,NTE,nibong tebal,151,Malaysia,Pulau Pinang,Asia,1
+2343,156,PEN,george town,151,Malaysia,Pulau Pinang,Asia,1
+2344,157,BGA,batu gajah,151,Malaysia,Perak,Asia,1
+2345,157,IPH,ipoh,151,Malaysia,Perak,Asia,1
+2346,157,KAR,kuala kangsar,151,Malaysia,Perak,Asia,1
+2347,157,LUM,lumut,151,Malaysia,Perak,Asia,1
+2348,157,SSP,sungai siput,151,Malaysia,Perak,Asia,1
+2349,157,TAM,tanjung malim,151,Malaysia,Perak,Asia,1
+2350,157,TAS,anshun,151,Malaysia,Perak,Asia,1
+2351,157,TPG,taiping,151,Malaysia,Perak,Asia,1
+2352,158,KGR,kangar,151,Malaysia,Perlis,Asia,1
+2353,159,BEF,beaufort,151,Malaysia,Sabah,Asia,1
+2354,159,BEL,beluran,151,Malaysia,Sabah,Asia,1
+2355,159,BKI,kota kinabalu,151,Malaysia,Sabah,Asia,1
+2356,159,KBD,kota belud,151,Malaysia,Sabah,Asia,1
+2357,159,KBT,kinabatangan,151,Malaysia,Sabah,Asia,1
+2358,159,KEG,keningau,151,Malaysia,Sabah,Asia,1
+2359,159,KMU,kota marudu,151,Malaysia,Sabah,Asia,1
+2360,159,KPU,kuala penyu,151,Malaysia,Sabah,Asia,1
+2361,159,KUD,kudat,151,Malaysia,Sabah,Asia,1
+2362,159,KUN,kunak,151,Malaysia,Sabah,Asia,1
+2363,159,LDU,lahad datu,151,Malaysia,Sabah,Asia,1
+2364,159,NAB,nabawan,151,Malaysia,Sabah,Asia,1
+2365,159,PAP,papar,151,Malaysia,Sabah,Asia,1
+2366,159,PIT,pitas,151,Malaysia,Sabah,Asia,1
+2367,159,PMP,penampang,151,Malaysia,Sabah,Asia,1
+2368,159,RNU,ranau,151,Malaysia,Sabah,Asia,1
+2369,159,SDK,sandakan,151,Malaysia,Sabah,Asia,1
+2370,159,SMM,semporna,151,Malaysia,Sabah,Asia,1
+2371,159,SPT,sipitang,151,Malaysia,Sabah,Asia,1
+2372,159,TAB,tambunan,151,Malaysia,Sabah,Asia,1
+2373,159,TAW,tawau,151,Malaysia,Sabah,Asia,1
+2374,159,TEN,tenom,151,Malaysia,Sabah,Asia,1
+2375,159,TUR,tuaran,151,Malaysia,Sabah,Asia,1
+2376,160,GOM,gombak,151,Malaysia,Selangor,Asia,1
+2377,160,HUL,hulu langat,151,Malaysia,Selangor,Asia,1
+2378,160,HUS,hulu selangor,151,Malaysia,Selangor,Asia,1
+2379,160,KLG,kuala langat,151,Malaysia,Selangor,Asia,1
+2380,160,KSL,kuala selangor,151,Malaysia,Selangor,Asia,1
+2381,160,PJA,petaling,151,Malaysia,Selangor,Asia,1
+2382,160,SBM,sabak bernam,151,Malaysia,Selangor,Asia,1
+2383,160,SEP,sepang,151,Malaysia,Selangor,Asia,1
+2384,161,BTG,betong,151,Malaysia,Sarawak,Asia,1
+2385,161,BTU,bintulu,151,Malaysia,Sarawak,Asia,1
+2386,161,KCH,kuching,151,Malaysia,Sarawak,Asia,1
+2387,161,KPI,kapit,151,Malaysia,Sarawak,Asia,1
+2388,161,LMN,limbang,151,Malaysia,Sarawak,Asia,1
+2389,161,MKM,mukah,151,Malaysia,Sarawak,Asia,1
+2390,161,MYY,miri,151,Malaysia,Sarawak,Asia,1
+2391,161,SAM,sri aman,151,Malaysia,Sarawak,Asia,1
+2392,161,SAR,sarikei,151,Malaysia,Sarawak,Asia,1
+2393,161,SBW,sibu,151,Malaysia,Sarawak,Asia,1
+2394,161,SMH,samarahan,151,Malaysia,Sarawak,Asia,1
+2395,162,BES,besut,151,Malaysia,Terengganu,Asia,1
+2396,162,DGN,dungun,151,Malaysia,Terengganu,Asia,1
+2397,162,HUL,hulu,151,Malaysia,Terengganu,Asia,1
+2398,162,KEM,kemaman,151,Malaysia,Terengganu,Asia,1
+2399,162,MAR,marang,151,Malaysia,Terengganu,Asia,1
+2400,162,SET,setiu,151,Malaysia,Terengganu,Asia,1
+2401,162,TGG,kuala terengganu,151,Malaysia,Terengganu,Asia,1
+2402,163,CA,caprivi,153,Namibia,0,Africa,3
+2403,163,ER,erongo,153,Namibia,0,Africa,3
+2404,163,HA,hardap,153,Namibia,0,Africa,3
+2405,163,KH,khomas,153,Namibia,0,Africa,3
+2406,163,KR,karas,153,Namibia,0,Africa,3
+2407,163,KU,cunene,153,Namibia,0,Africa,3
+2408,163,KV,okavango,153,Namibia,0,Africa,3
+2409,163,OJ,otjozondjupa,153,Namibia,0,Africa,3
+2410,163,OK,omaheke,153,Namibia,0,Africa,3
+2411,163,ON,oshana,153,Namibia,0,Africa,3
+2412,163,OO,oshikoto,153,Namibia,0,Africa,3
+2413,163,OT,omusati,153,Namibia,0,Africa,3
+2414,163,OW,ohangwena,153,Namibia,0,Africa,3
+2415,164,AJY,agadez,155,Niger,0,Africa,3
+2416,164,DIF,diffa,155,Niger,0,Africa,3
+2417,164,DSS,dosso,155,Niger,0,Africa,3
+2418,164,MFQ,maradi,155,Niger,0,Africa,3
+2419,164,NIM,niamey c.u.,155,Niger,0,Africa,3
+2420,164,THZ,tahoua,155,Niger,0,Africa,3
+2421,164,TIL,tillaberi,155,Niger,0,Africa,3
+2422,164,ZND,zinder,155,Niger,0,Africa,3
+2423,165,ABV,abuja,157,Nigeria,0,Africa,3
+2424,165,IBA,ibadan,157,Nigeria,0,Africa,3
+2425,165,KAN,kano,157,Nigeria,0,Africa,3
+2426,165,LOS,lagos,157,Nigeria,0,Africa,3
+2427,165,OGB,ogbomosho,157,Nigeria,0,Africa,3
+2428,166,AN,atlantico norte,158,Nicaragua,0,North America,6
+2429,166,AS,atlantico sur,158,Nicaragua,0,North America,6
+2430,166,BO,boaco,158,Nicaragua,0,North America,6
+2431,166,CA,carazo,158,Nicaragua,0,North America,6
+2432,166,CD,chinandega,158,Nicaragua,0,North America,6
+2433,166,CT,chontales,158,Nicaragua,0,North America,6
+2434,166,ES,esteli,158,Nicaragua,0,North America,6
+2435,166,GR,granada,158,Nicaragua,0,North America,6
+2436,166,JI,jinotega,158,Nicaragua,0,North America,6
+2437,166,LE,leon,158,Nicaragua,0,North America,6
+2438,166,MD,madriz,158,Nicaragua,0,North America,6
+2439,166,MN,managua,158,Nicaragua,0,North America,6
+2440,166,MS,masaya,158,Nicaragua,0,North America,6
+2441,166,MT,matagalpa,158,Nicaragua,0,North America,6
+2442,166,NS,nueva segovia,158,Nicaragua,0,North America,6
+2443,166,RV,rivas,158,Nicaragua,0,North America,6
+2444,166,SJ,rio san juan,158,Nicaragua,0,North America,6
+2445,167,AER,almere,160,Netherlands,0,Europe,2
+2446,167,AME,amersfoort,160,Netherlands,0,Europe,2
+2447,167,AMS,amsterdam,160,Netherlands,0,Europe,2
+2448,167,APE,apeldoorn,160,Netherlands,0,Europe,2
+2449,167,ARN,arnhem,160,Netherlands,0,Europe,2
+2450,167,ASS,assen,160,Netherlands,0,Europe,2
+2451,167,BRD,breda,160,Netherlands,0,Europe,2
+2452,167,DOR,dordrecht,160,Netherlands,0,Europe,2
+2453,167,EDE,ede,160,Netherlands,0,Europe,2
+2454,167,EIN,eindhoven,160,Netherlands,0,Europe,2
+2455,167,EMM,emmen,160,Netherlands,0,Europe,2
+2456,167,ENS,enschede,160,Netherlands,0,Europe,2
+2457,167,GRQ,groningen,160,Netherlands,0,Europe,2
+2458,167,HAG,hague,160,Netherlands,0,Europe,2
+2459,167,HFD,hoofddorp,160,Netherlands,0,Europe,2
+2460,167,HRA,haarlem,160,Netherlands,0,Europe,2
+2461,167,HTB,'s-hertogenbosch,160,Netherlands,0,Europe,2
+2462,167,LEY,lelystad,160,Netherlands,0,Europe,2
+2463,167,LID,leiden,160,Netherlands,0,Europe,2
+2464,167,LWR,leeuwarden,160,Netherlands,0,Europe,2
+2465,167,MDL,middelburg,160,Netherlands,0,Europe,2
+2466,167,MST,maastricht,160,Netherlands,0,Europe,2
+2467,167,NIJ,nijmegen,160,Netherlands,0,Europe,2
+2468,167,RTM,rotterdam,160,Netherlands,0,Europe,2
+2469,167,TLB,tilburg,160,Netherlands,0,Europe,2
+2470,167,UTC,utrecht,160,Netherlands,0,Europe,2
+2471,167,ZTM,zoetermeer,160,Netherlands,0,Europe,2
+2472,167,ZWO,zwolle,160,Netherlands,0,Europe,2
+2473,168,1,ostfold,161,Norway,0,Europe,2
+2474,168,2,akershus,161,Norway,0,Europe,2
+2475,168,3,oslo,161,Norway,0,Europe,2
+2476,168,4,hedmark,161,Norway,0,Europe,2
+2477,168,5,oppland,161,Norway,0,Europe,2
+2478,168,6,buskerud,161,Norway,0,Europe,2
+2479,168,7,vestfold,161,Norway,0,Europe,2
+2480,168,8,telemark,161,Norway,0,Europe,2
+2481,168,9,aust-agder,161,Norway,0,Europe,2
+2482,168,10,vest-agder,161,Norway,0,Europe,2
+2483,168,11,rogaland,161,Norway,0,Europe,2
+2484,168,12,hordaland,161,Norway,0,Europe,2
+2485,168,14,sogn og fjordane,161,Norway,0,Europe,2
+2486,168,15,more og romsdal,161,Norway,0,Europe,2
+2487,168,16,sor-trondelag,161,Norway,0,Europe,2
+2488,168,17,nord-trondelag,161,Norway,0,Europe,2
+2489,168,18,nordland,161,Norway,0,Europe,2
+2490,168,19,troms,161,Norway,0,Europe,2
+2491,168,20,finnmark,161,Norway,0,Europe,2
+2492,169,BA,bagmati,162,Nepal,0,Asia,1
+2493,169,BH,bheri,162,Nepal,0,Asia,1
+2494,169,DH,dhawalagiri,162,Nepal,0,Asia,1
+2495,169,GA,gandaki,162,Nepal,0,Asia,1
+2496,169,JA,janakpur,162,Nepal,0,Asia,1
+2497,169,KA,karnali,162,Nepal,0,Asia,1
+2498,169,KO,kosi,162,Nepal,0,Asia,1
+2499,169,LU,lumbini,162,Nepal,0,Asia,1
+2500,169,MA,mahakali,162,Nepal,0,Asia,1
+2501,169,ME,mechi,162,Nepal,0,Asia,1
+2502,169,NA,narayani,162,Nepal,0,Asia,1
+2503,169,RA,rapti,162,Nepal,0,Asia,1
+2504,169,SA,sogarmatha,162,Nepal,0,Asia,1
+2505,169,SE,seti,162,Nepal,0,Asia,1
+2506,170,AUK,auckland,164,New Zealand,0,Oceania,4
+2507,170,BHE,blenheim,164,New Zealand,0,Oceania,4
+2508,170,CHC,christchurch,164,New Zealand,0,Oceania,4
+2509,170,DUD,dunedin,164,New Zealand,0,Oceania,4
+2510,170,FNR,far north,164,New Zealand,0,Oceania,4
+2511,170,GIS,gisborne,164,New Zealand,0,Oceania,4
+2512,170,GMN,greymouth,164,New Zealand,0,Oceania,4
+2513,170,HAS,hastings,164,New Zealand,0,Oceania,4
+2514,170,HLZ,hamilton,164,New Zealand,0,Oceania,4
+2515,170,IVC,invercargill,164,New Zealand,0,Oceania,4
+2516,170,KAI,kaipara,164,New Zealand,0,Oceania,4
+2517,170,MNK,manukau,164,New Zealand,0,Oceania,4
+2518,170,NPE,napier,164,New Zealand,0,Oceania,4
+2519,170,NPL,new plymouth,164,New Zealand,0,Oceania,4
+2520,170,NSH,north shore,164,New Zealand,0,Oceania,4
+2521,170,NSN,nelson,164,New Zealand,0,Oceania,4
+2522,170,PMR,palmerston north,164,New Zealand,0,Oceania,4
+2523,170,RMD,richmond,164,New Zealand,0,Oceania,4
+2524,170,STR,stratford,164,New Zealand,0,Oceania,4
+2525,170,TAU,taumarunui,164,New Zealand,0,Oceania,4
+2526,170,WAE,waitakere,164,New Zealand,0,Oceania,4
+2527,170,WAG,wanganui,164,New Zealand,0,Oceania,4
+2528,170,WHK,whakatane,164,New Zealand,0,Oceania,4
+2529,170,WRE,whangarei,164,New Zealand,0,Oceania,4
+2530,171,BA,al-batinah,165,Oman,0,Asia,1
+2531,171,DA,ad-dakhiliyah,165,Oman,0,Asia,1
+2532,171,MA,masqat,165,Oman,0,Asia,1
+2533,171,MU,musandam,165,Oman,0,Asia,1
+2534,171,SH,ash-sharqiyah,165,Oman,0,Asia,1
+2535,171,WU,al-wusta,165,Oman,0,Asia,1
+2536,171,ZA,az-zahirah,165,Oman,0,Asia,1
+2537,171,ZU,zufar,165,Oman,0,Asia,1
+2538,172,GUJ,gujranwala,166,Pakistan,0,Asia,1
+2539,172,HDD,hyderabad,166,Pakistan,0,Asia,1
+2540,172,ISB,islamabad,166,Pakistan,0,Asia,1
+2541,172,KCT,karachi,166,Pakistan,0,Asia,1
+2542,172,LHE,lahore,166,Pakistan,0,Asia,1
+2543,172,LYP,faisalabad,166,Pakistan,0,Asia,1
+2544,172,MUX,multan,166,Pakistan,0,Asia,1
+2545,172,PEW,peshawar,166,Pakistan,0,Asia,1
+2546,172,RWP,rawalpindi,166,Pakistan,0,Asia,1
+2547,173,AM,amazonas,169,Peru,0,South America,7
+2548,173,AN,ancash,169,Peru,0,South America,7
+2549,173,AP,apurimac,169,Peru,0,South America,7
+2550,173,AR,arequipa,169,Peru,0,South America,7
+2551,173,AY,ayacucho,169,Peru,0,South America,7
+2552,173,CJ,cajamarca,169,Peru,0,South America,7
+2553,173,CL,callao,169,Peru,0,South America,7
+2554,173,CU,cusco,169,Peru,0,South America,7
+2555,173,HO,huanuco,169,Peru,0,South America,7
+2556,173,HV,huancavelica,169,Peru,0,South America,7
+2557,173,IC,ica,169,Peru,0,South America,7
+2558,173,JU,junin,169,Peru,0,South America,7
+2559,173,LD,la libertad,169,Peru,0,South America,7
+2560,173,LI,lima,169,Peru,0,South America,7
+2561,173,LO,loreto,169,Peru,0,South America,7
+2562,173,LY,lambayeque,169,Peru,0,South America,7
+2563,173,MD,madre de dios,169,Peru,0,South America,7
+2564,173,MO,moquegua,169,Peru,0,South America,7
+2565,173,PA,pasco,169,Peru,0,South America,7
+2566,173,PI,piura,169,Peru,0,South America,7
+2567,173,PU,puno,169,Peru,0,South America,7
+2568,173,SM,san martin,169,Peru,0,South America,7
+2569,173,TA,tacna,169,Peru,0,South America,7
+2570,173,TU,tumbes,169,Peru,0,South America,7
+2571,173,UC,ucayali,169,Peru,0,South America,7
+2572,173,CHI,chincha alta,169,Peru,0,South America,7
+2573,173,CHM,chimbote,169,Peru,0,South America,7
+2574,173,JUL,juliaca,169,Peru,0,South America,7
+2575,173,SUL,sullana,169,Peru,0,South America,7
+2576,174,CAO,caloocan,170,Philippines,0,Asia,1
+2577,174,CEB,cebu,170,Philippines,0,Asia,1
+2578,174,DOR,davao,170,Philippines,0,Asia,1
+2579,174,MNL,manila,170,Philippines,0,Asia,1
+2580,175,BV,bougainville,172,Papua New Guinea,0,Oceania,4
+2581,175,EB,east new britain,172,Papua New Guinea,0,Oceania,4
+2582,175,EH,eastern highlands,172,Papua New Guinea,0,Oceania,4
+2583,175,EN,enga,172,Papua New Guinea,0,Oceania,4
+2584,175,ES,east sepik,172,Papua New Guinea,0,Oceania,4
+2585,175,GU,gulf,172,Papua New Guinea,0,Oceania,4
+2586,175,MB,milne bay,172,Papua New Guinea,0,Oceania,4
+2587,175,MD,madang,172,Papua New Guinea,0,Oceania,4
+2588,175,MN,manus,172,Papua New Guinea,0,Oceania,4
+2589,175,MR,morobe,172,Papua New Guinea,0,Oceania,4
+2590,175,NC,port moresby,172,Papua New Guinea,0,Oceania,4
+2591,175,NI,new ireland,172,Papua New Guinea,0,Oceania,4
+2592,175,NO,northern,172,Papua New Guinea,0,Oceania,4
+2593,175,SA,sandaun,172,Papua New Guinea,0,Oceania,4
+2594,175,SH,southern highlands,172,Papua New Guinea,0,Oceania,4
+2595,175,SI,simbu,172,Papua New Guinea,0,Oceania,4
+2596,175,WB,west new britain,172,Papua New Guinea,0,Oceania,4
+2597,175,WE,western,172,Papua New Guinea,0,Oceania,4
+2598,175,WH,western highlands,172,Papua New Guinea,0,Oceania,4
+2599,176,BAP,biała podlaska,173,Poland,0,Europe,2
+2600,176,BIA,białystok,173,Poland,0,Europe,2
+2601,176,BYT,bytom,173,Poland,0,Europe,2
+2602,176,BZG,bydgoszcz,173,Poland,0,Europe,2
+2603,176,CHO,chełm,173,Poland,0,Europe,2
+2604,176,CHZ,chorzow,173,Poland,0,Europe,2
+2605,176,CIE,ciechanow,173,Poland,0,Europe,2
+2606,176,DAB,dabrowa gornicza,173,Poland,0,Europe,2
+2607,176,ELB,elbląg,173,Poland,0,Europe,2
+2608,176,GDN,gdansk,173,Poland,0,Europe,2
+2609,176,GDY,gdynia,173,Poland,0,Europe,2
+2610,176,GOW,gorzow wlkp,173,Poland,0,Europe,2
+2611,176,GRU,grudziadz,173,Poland,0,Europe,2
+2612,176,GWC,gliwice,173,Poland,0,Europe,2
+2613,176,IEG,zielona gora,173,Poland,0,Europe,2
+2614,176,JAW,jaworzno,173,Poland,0,Europe,2
+2615,176,JEG,jelenia gora,173,Poland,0,Europe,2
+2616,176,KAL,kalisz,173,Poland,0,Europe,2
+2617,176,KLC,kielce,173,Poland,0,Europe,2
+2618,176,KON,konin,173,Poland,0,Europe,2
+2619,176,KRK,krakow,173,Poland,0,Europe,2
+2620,176,KRO,krosno,173,Poland,0,Europe,2
+2621,176,KTW,katowice,173,Poland,0,Europe,2
+2622,176,LEG,legnica,173,Poland,0,Europe,2
+2623,176,LEZ,leszno,173,Poland,0,Europe,2
+2624,176,LOD,lodz,173,Poland,0,Europe,2
+2625,176,LUL,lublin,173,Poland,0,Europe,2
+2626,176,MYL,mysłowice,173,Poland,0,Europe,2
+2627,176,NOW,nowy sacz,173,Poland,0,Europe,2
+2628,176,OLS,olsztyn,173,Poland,0,Europe,2
+2629,176,OPO,opole,173,Poland,0,Europe,2
+2630,176,OSS,ostrołeka,173,Poland,0,Europe,2
+2631,176,OSZ,koszalin,173,Poland,0,Europe,2
+2632,176,PIL,piła,173,Poland,0,Europe,2
+2633,176,PIO,piotrkow,173,Poland,0,Europe,2
+2634,176,PLO,plock,173,Poland,0,Europe,2
+2635,176,POZ,poznan,173,Poland,0,Europe,2
+2636,176,PRZ,przemysl,173,Poland,0,Europe,2
+2637,176,QEP,tarnobrzeg,173,Poland,0,Europe,2
+2638,176,QOY,lomza,173,Poland,0,Europe,2
+2639,176,RDM,radom,173,Poland,0,Europe,2
+2640,176,RDS,ruda sl,173,Poland,0,Europe,2
+2641,176,RZE,rzeszow,173,Poland,0,Europe,2
+2642,176,SDC,siedlce,173,Poland,0,Europe,2
+2643,176,SIR,sieradz,173,Poland,0,Europe,2
+2644,176,SKI,skierniewice,173,Poland,0,Europe,2
+2645,176,SLP,slupsk,173,Poland,0,Europe,2
+2646,176,SOP,sopot,173,Poland,0,Europe,2
+2647,176,SOW,siemianowice sl,173,Poland,0,Europe,2
+2648,176,SWC,sosnowiec,173,Poland,0,Europe,2
+2649,176,SWI,swinoujscie,173,Poland,0,Europe,2
+2650,176,SWL,suwałki,173,Poland,0,Europe,2
+2651,176,SWT,swietochłowice,173,Poland,0,Europe,2
+2652,176,SZZ,szczecin,173,Poland,0,Europe,2
+2653,176,TAR,tarnow,173,Poland,0,Europe,2
+2654,176,TOR,torun,173,Poland,0,Europe,2
+2655,176,TYY,tychy,173,Poland,0,Europe,2
+2656,176,WAW,warszawa,173,Poland,0,Europe,2
+2657,176,WLO,wlocławek,173,Poland,0,Europe,2
+2658,176,WRO,wroclaw,173,Poland,0,Europe,2
+2659,176,WZH,walbrzych,173,Poland,0,Europe,2
+2660,176,ZAB,zabrze,173,Poland,0,Europe,2
+2661,176,ZAM,zamosc,173,Poland,0,Europe,2
+2662,177,CHO,ch'ongjin,175,"Korea,DPR",0,Asia,1
+2663,177,FNJ,pyongyang,175,"Korea,DPR",0,Asia,1
+2664,177,HAE,haeju,175,"Korea,DPR",0,Asia,1
+2665,177,HAM,hamhung,175,"Korea,DPR",0,Asia,1
+2666,177,HYE,hyesan,175,"Korea,DPR",0,Asia,1
+2667,177,KAN,kanggye,175,"Korea,DPR",0,Asia,1
+2668,177,KSN,kaesong,175,"Korea,DPR",0,Asia,1
+2669,177,NAM,namp'o,175,"Korea,DPR",0,Asia,1
+2670,177,NAS,naseon,175,"Korea,DPR",0,Asia,1
+2671,177,SAR,sariwon,175,"Korea,DPR",0,Asia,1
+2672,177,SII,sinuiju,175,"Korea,DPR",0,Asia,1
+2673,177,WON,wonsan,175,"Korea,DPR",0,Asia,1
+2674,178,AAT,alto alentejo,176,Portugal,0,Europe,2
+2675,178,AES,ave,176,Portugal,0,Europe,2
+2676,178,ALC,alentejo central,176,Portugal,0,Europe,2
+2677,178,ALL,alentejo litoral,176,Portugal,0,Europe,2
+2678,178,ATM,alto tros-os-montes,176,Portugal,0,Europe,2
+2679,178,BAL,baixo alentejo,176,Portugal,0,Europe,2
+2680,178,BIN,beira interior norte,176,Portugal,0,Europe,2
+2681,178,BIS,beira interior sul,176,Portugal,0,Europe,2
+2682,178,BMO,baixo mondego,176,Portugal,0,Europe,2
+2683,178,BVO,baixo vouga,176,Portugal,0,Europe,2
+2684,178,CAV,cavado,176,Portugal,0,Europe,2
+2685,178,CLB,cova da beira,176,Portugal,0,Europe,2
+2686,178,EDV,entre douro e vouga,176,Portugal,0,Europe,2
+2687,178,FAO,faro,176,Portugal,0,Europe,2
+2688,178,FUN,funchal,176,Portugal,0,Europe,2
+2689,178,LIS,lisboa,176,Portugal,0,Europe,2
+2690,178,LTE,leziria do tejo,176,Portugal,0,Europe,2
+2691,178,MDR,douro,176,Portugal,0,Europe,2
+2692,178,MLI,minho-lima,176,Portugal,0,Europe,2
+2693,178,MTE,medio tejo,176,Portugal,0,Europe,2
+2694,178,OES,western,176,Portugal,0,Europe,2
+2695,178,PDL,ponta delgada,176,Portugal,0,Europe,2
+2696,178,PIN,pinhal interior norte,176,Portugal,0,Europe,2
+2697,178,PIS,pinhal interior sul,176,Portugal,0,Europe,2
+2698,178,PLT,pinhal litoral,176,Portugal,0,Europe,2
+2699,178,PSE,peninsula de setubal,176,Portugal,0,Europe,2
+2700,178,SES,serra da estrela,176,Portugal,0,Europe,2
+2701,178,TAM,tamega,176,Portugal,0,Europe,2
+2702,178,VDP,porto,176,Portugal,0,Europe,2
+2703,179,AG,alto paraguay,177,Paraguay,0,South America,7
+2704,179,AM,amambay,177,Paraguay,0,South America,7
+2705,179,AN,alto parana,177,Paraguay,0,South America,7
+2706,179,AS,asuncion,177,Paraguay,0,South America,7
+2707,179,BO,boqueron,177,Paraguay,0,South America,7
+2708,179,CC,concepcion,177,Paraguay,0,South America,7
+2709,179,CD,cordillera,177,Paraguay,0,South America,7
+2710,179,CE,central,177,Paraguay,0,South America,7
+2711,179,CG,caaguazu,177,Paraguay,0,South America,7
+2712,179,CN,canindeyu,177,Paraguay,0,South America,7
+2713,179,CZ,caazapa,177,Paraguay,0,South America,7
+2714,179,GU,guaira,177,Paraguay,0,South America,7
+2715,179,IT,itapua,177,Paraguay,0,South America,7
+2716,179,MI,misiones,177,Paraguay,0,South America,7
+2717,179,NE,neembucu,177,Paraguay,0,South America,7
+2718,179,PA,paraguari,177,Paraguay,0,South America,7
+2719,179,PH,presidente hayes,177,Paraguay,0,South America,7
+2720,179,SP,san pedro,177,Paraguay,0,South America,7
+2721,180,GZ,gaza strip,178,Palestine,0,Asia,1
+2722,180,WE,west bank,178,Palestine,0,Asia,1
+2723,181,DW,ad dawhah,180,Qatar,0,Asia,1
+2724,181,GW,al ghuwariyah,180,Qatar,0,Asia,1
+2725,181,JB,jariyan al batnah,180,Qatar,0,Asia,1
+2726,181,JM,al jumaliyah,180,Qatar,0,Asia,1
+2727,181,KR,al khawr,180,Qatar,0,Asia,1
+2728,181,MS,northern,180,Qatar,0,Asia,1
+2729,181,RN,ar rayyan,180,Qatar,0,Asia,1
+2730,181,UL,umm salal,180,Qatar,0,Asia,1
+2731,181,WK,al wakrah,180,Qatar,0,Asia,1
+2732,182,AD,alexandria,182,Romania,0,Europe,2
+2733,182,AL,alba iulia,182,Romania,0,Europe,2
+2734,182,AR,arad,182,Romania,0,Europe,2
+2735,182,BA,bacau,182,Romania,0,Europe,2
+2736,182,BC,bucuresti,182,Romania,0,Europe,2
+2737,182,BL,braila,182,Romania,0,Europe,2
+2738,182,BM,baia mare,182,Romania,0,Europe,2
+2739,182,BN,bistrita,182,Romania,0,Europe,2
+2740,182,BO,botosani,182,Romania,0,Europe,2
+2741,182,BS,brasov,182,Romania,0,Europe,2
+2742,182,BZ,buzau,182,Romania,0,Europe,2
+2743,182,CN,cluj-napoca,182,Romania,0,Europe,2
+2744,182,CR,calarasi,182,Romania,0,Europe,2
+2745,182,CT,constanta,182,Romania,0,Europe,2
+2746,182,DE,deva,182,Romania,0,Europe,2
+2747,182,DO,craiova,182,Romania,0,Europe,2
+2748,182,DT,drobeta-turnu severin,182,Romania,0,Europe,2
+2749,182,FO,focsani,182,Romania,0,Europe,2
+2750,182,GG,giurgiu,182,Romania,0,Europe,2
+2751,182,GL,galati,182,Romania,0,Europe,2
+2752,182,IS,iasi,182,Romania,0,Europe,2
+2753,182,MC,miercurea-ciuc,182,Romania,0,Europe,2
+2754,182,OR,oradea,182,Romania,0,Europe,2
+2755,182,PI,pitesti,182,Romania,0,Europe,2
+2756,182,PL,ploiesti,182,Romania,0,Europe,2
+2757,182,PN,piatra neamt,182,Romania,0,Europe,2
+2758,182,RE,resita,182,Romania,0,Europe,2
+2759,182,SB,slobozia,182,Romania,0,Europe,2
+2760,182,SG,sfantu-gheorghe,182,Romania,0,Europe,2
+2761,182,SM,satu mare,182,Romania,0,Europe,2
+2762,182,SO,sibiu,182,Romania,0,Europe,2
+2763,182,ST,slatina,182,Romania,0,Europe,2
+2764,182,SU,suceava,182,Romania,0,Europe,2
+2765,182,TA,targovişte,182,Romania,0,Europe,2
+2766,182,TI,timisoara,182,Romania,0,Europe,2
+2767,182,TJ,tirgu-jiu,182,Romania,0,Europe,2
+2768,182,TM,tirgu mures,182,Romania,0,Europe,2
+2769,182,TU,tulcea,182,Romania,0,Europe,2
+2770,182,VA,vaslui,182,Romania,0,Europe,2
+2771,182,VI,xrimnicu vilcea,182,Romania,0,Europe,2
+2772,182,ZA,zalau,182,Romania,0,Europe,2
+2773,183,IN,magas,183,Russia,0,Europe,2
+2774,183,ABA,abakan,183,Russia,0,Europe,2
+2775,183,AGI,aginskoye,183,Russia,0,Europe,2
+2776,183,ARK,arkhangelsk,183,Russia,0,Europe,2
+2777,183,AST,astrakhan,183,Russia,0,Europe,2
+2778,183,BAX,barnaul,183,Russia,0,Europe,2
+2779,183,BBZ,birobidzan,183,Russia,0,Europe,2
+2780,183,BEL,belgorod,183,Russia,0,Europe,2
+2781,183,BQS,blagoveshchensk,183,Russia,0,Europe,2
+2782,183,BRY,bryansk,183,Russia,0,Europe,2
+2783,183,CHE,chelyabinsk,183,Russia,0,Europe,2
+2784,183,CHI,chita,183,Russia,0,Europe,2
+2785,183,CKS,cherkessk,183,Russia,0,Europe,2
+2786,183,COK,chabarovsk,183,Russia,0,Europe,2
+2787,183,CSY,cheboksary,183,Russia,0,Europe,2
+2788,183,DYR,anadyr,183,Russia,0,Europe,2
+2789,183,ESL,elista,183,Russia,0,Europe,2
+2790,183,GOA,gorno-altajsk,183,Russia,0,Europe,2
+2791,183,GOJ,niznij novgorod,183,Russia,0,Europe,2
+2792,183,GRV,grozny,183,Russia,0,Europe,2
+2793,183,IJK,izhevsk,183,Russia,0,Europe,2
+2794,183,IKT,irkutsk,183,Russia,0,Europe,2
+2795,183,IVO,ivanovo,183,Russia,0,Europe,2
+2796,183,JAK,jakutsk,183,Russia,0,Europe,2
+2797,183,JAR,jaroslavl,183,Russia,0,Europe,2
+2798,183,JEK,jekaterinburg,183,Russia,0,Europe,2
+2799,183,JSA,juzno-sachalinsk,183,Russia,0,Europe,2
+2800,183,KEM,kemerovo,183,Russia,0,Europe,2
+2801,183,KGD,kaliningrad,183,Russia,0,Europe,2
+2802,183,KHM,khanty-mansiysk,183,Russia,0,Europe,2
+2803,183,KIR,kirov,183,Russia,0,Europe,2
+2804,183,KLF,kaluga,183,Russia,0,Europe,2
+2805,183,KOS,kostroma,183,Russia,0,Europe,2
+2806,183,KRO,kurgan,183,Russia,0,Europe,2
+2807,183,KRR,krasnodar,183,Russia,0,Europe,2
+2808,183,KUD,kudymkar,183,Russia,0,Europe,2
+2809,183,KYA,krasnojarsk,183,Russia,0,Europe,2
+2810,183,KYZ,kyzyl,183,Russia,0,Europe,2
+2811,183,KZN,kazan,183,Russia,0,Europe,2
+2812,183,LIP,lipeck,183,Russia,0,Europe,2
+2813,183,LNX,smolensk,183,Russia,0,Europe,2
+2814,183,MAG,magadan,183,Russia,0,Europe,2
+2815,183,MAY,maykop,183,Russia,0,Europe,2
+2816,183,MCX,makhachkala,183,Russia,0,Europe,2
+2817,183,MMK,murmansk,183,Russia,0,Europe,2
+2818,183,MOW,moscow,183,Russia,0,Europe,2
+2819,183,NAL,nalchik,183,Russia,0,Europe,2
+2820,183,NNM,naryan-mar,183,Russia,0,Europe,2
+2821,183,NVS,novosibirsk,183,Russia,0,Europe,2
+2822,183,OMS,omsk,183,Russia,0,Europe,2
+2823,183,ORE,orenburg,183,Russia,0,Europe,2
+2824,183,ORL,orel,183,Russia,0,Europe,2
+2825,183,PAL,palana,183,Russia,0,Europe,2
+2826,183,PER,perm,183,Russia,0,Europe,2
+2827,183,PES,petrozavodsk,183,Russia,0,Europe,2
+2828,183,PKC,petropavlovsk-kamchatskiy,183,Russia,0,Europe,2
+2829,183,PNZ,penza,183,Russia,0,Europe,2
+2830,183,PSK,pskov,183,Russia,0,Europe,2
+2831,183,ROS,rostov-na-donu,183,Russia,0,Europe,2
+2832,183,RYA,ryazan,183,Russia,0,Europe,2
+2833,183,SAM,samara,183,Russia,0,Europe,2
+2834,183,SAR,saratov,183,Russia,0,Europe,2
+2835,183,SCW,syktyvkar,183,Russia,0,Europe,2
+2836,183,SKX,saransk,183,Russia,0,Europe,2
+2837,183,SLY,salekhard,183,Russia,0,Europe,2
+2838,183,SPE,st. peterburg,183,Russia,0,Europe,2
+2839,183,STA,stavropol,183,Russia,0,Europe,2
+2840,183,TAM,tambov,183,Russia,0,Europe,2
+2841,183,TOM,tomsk,183,Russia,0,Europe,2
+2842,183,TUL,tula,183,Russia,0,Europe,2
+2843,183,TVE,tver,183,Russia,0,Europe,2
+2844,183,TYU,tyumen,183,Russia,0,Europe,2
+2845,183,UFA,ufa,183,Russia,0,Europe,2
+2846,183,ULY,uljanovsk,183,Russia,0,Europe,2
+2847,183,UOB,ust-ordynsky,183,Russia,0,Europe,2
+2848,183,URS,kursk,183,Russia,0,Europe,2
+2849,183,UUD,ulan-ude,183,Russia,0,Europe,2
+2850,183,VLA,vladikavkaz,183,Russia,0,Europe,2
+2851,183,VLG,vologda,183,Russia,0,Europe,2
+2852,183,VMR,vladimir,183,Russia,0,Europe,2
+2853,183,VOG,volgograd,183,Russia,0,Europe,2
+2854,183,VOR,voronezh,183,Russia,0,Europe,2
+2855,183,VUS,velikij novgorod,183,Russia,0,Europe,2
+2856,183,VVO,vladivostok,183,Russia,0,Europe,2
+2857,183,YOL,yoshkar-ola,183,Russia,0,Europe,2
+2858,184,BU,butare,184,Rwanda,0,Africa,3
+2859,184,BY,byumba,184,Rwanda,0,Africa,3
+2860,184,CY,cyangugu,184,Rwanda,0,Africa,3
+2861,184,GK,gikongoro,184,Rwanda,0,Africa,3
+2862,184,GS,gisenyi,184,Rwanda,0,Africa,3
+2863,184,GT,gitarama,184,Rwanda,0,Africa,3
+2864,184,KA,kabuga,184,Rwanda,0,Africa,3
+2865,184,KG,kibungo,184,Rwanda,0,Africa,3
+2866,184,KR,kigali-ngali,184,Rwanda,0,Africa,3
+2867,184,KV,kigali-ville,184,Rwanda,0,Africa,3
+2868,184,KY,kibuye,184,Rwanda,0,Africa,3
+2869,184,NY,nyanza,184,Rwanda,0,Africa,3
+2870,184,RH,ruhango,184,Rwanda,0,Africa,3
+2871,184,RU,ruhengeri,184,Rwanda,0,Africa,3
+2872,184,RW,rwamagana,184,Rwanda,0,Africa,3
+2873,184,UM,umutara,184,Rwanda,0,Africa,3
+2874,185,BH,al bahah,185,Saudi Arabia,0,Asia,1
+2875,185,HL,hail,185,Saudi Arabia,0,Asia,1
+2876,185,JZ,jizan,185,Saudi Arabia,0,Asia,1
+2877,185,ML,makkah,185,Saudi Arabia,0,Asia,1
+2878,185,NR,najran,185,Saudi Arabia,0,Asia,1
+2879,185,RD,riyad,185,Saudi Arabia,0,Asia,1
+2880,185,TB,tabuk,185,Saudi Arabia,0,Asia,1
+2881,185,AHB,abha,185,Saudi Arabia,0,Asia,1
+2882,185,AKH,al-kharj,185,Saudi Arabia,0,Asia,1
+2883,185,ARA,arar,185,Saudi Arabia,0,Asia,1
+2884,185,BUR,buraydah,185,Saudi Arabia,0,Asia,1
+2885,185,DAM,dammam,185,Saudi Arabia,0,Asia,1
+2886,185,HBT,hafar al-batin,185,Saudi Arabia,0,Asia,1
+2887,185,HFF,al-hufuf,185,Saudi Arabia,0,Asia,1
+2888,185,JBI,al-jubayl,185,Saudi Arabia,0,Asia,1
+2889,185,JED,jiddah,185,Saudi Arabia,0,Asia,1
+2890,185,KMX,khamis mushayt,185,Saudi Arabia,0,Asia,1
+2891,185,MBR,al-mubarraz,185,Saudi Arabia,0,Asia,1
+2892,185,MED,medina,185,Saudi Arabia,0,Asia,1
+2893,185,SAK,sakaka,185,Saudi Arabia,0,Asia,1
+2894,185,TAR,at tarif,185,Saudi Arabia,0,Asia,1
+2895,185,YNB,yanbu al-bahr,185,Saudi Arabia,0,Asia,1
+2896,186,BEG,beograd,186,#N/A,0,#N/A,#N/A
+2897,186,INI,nis,186,#N/A,0,#N/A,#N/A
+2898,186,KGV,kragujevac,186,#N/A,0,#N/A,#N/A
+2899,186,NVS,novi sad,186,#N/A,0,#N/A,#N/A
+2900,186,POD,podgorica,186,#N/A,0,#N/A,#N/A
+2901,186,PRN,pristina,186,#N/A,0,#N/A,#N/A
+2902,186,SUB,subotica,186,#N/A,0,#N/A,#N/A
+2903,186,ZEM,zemun,186,#N/A,0,#N/A,#N/A
+2904,187,ANB,aali an-nil,187,Sudan,0,Africa,3
+2905,187,ASH,northern,187,Sudan,0,Africa,3
+2906,187,GKU,kurdufan,187,Sudan,0,Africa,3
+2907,187,KRT,al-khartum,187,Sudan,0,Africa,3
+2908,187,SBG,bahr al-ghazal,187,Sudan,0,Africa,3
+2909,187,SDA,darfur,187,Sudan,0,Africa,3
+2910,187,SHA,eastern,187,Sudan,0,Africa,3
+2911,187,SIS,al-istiwaiyah,187,Sudan,0,Africa,3
+2912,187,WDH,al-wusta,187,Sudan,0,Africa,3
+2913,188,DA,dakar,188,Senegal,0,Africa,3
+2914,188,DI,diourbel,188,Senegal,0,Africa,3
+2915,188,FA,fatick,188,Senegal,0,Africa,3
+2916,188,KA,kaolack,188,Senegal,0,Africa,3
+2917,188,KO,kolda,188,Senegal,0,Africa,3
+2918,188,LO,louga,188,Senegal,0,Africa,3
+2919,188,MA,matam,188,Senegal,0,Africa,3
+2920,188,SL,saint-louis,188,Senegal,0,Africa,3
+2921,188,TA,tambacounda,188,Senegal,0,Africa,3
+2922,188,TH,thies,188,Senegal,0,Africa,3
+2923,188,ZI,ziguinchor,188,Senegal,0,Africa,3
+2924,189,CE,central islands,193,Solomon Is,0,Oceania,4
+2925,189,CH,choiseul,193,Solomon Is,0,Oceania,4
+2926,189,GC,guadalcanal,193,Solomon Is,0,Oceania,4
+2927,189,HO,honiara,193,Solomon Is,0,Oceania,4
+2928,189,IS,isabel,193,Solomon Is,0,Oceania,4
+2929,189,MK,makira,193,Solomon Is,0,Oceania,4
+2930,189,ML,malaita,193,Solomon Is,0,Oceania,4
+2931,189,RB,rennell and bellona,193,Solomon Is,0,Oceania,4
+2932,189,TM,temotu,193,Solomon Is,0,Oceania,4
+2933,189,WE,western,193,Solomon Is,0,Oceania,4
+2934,190,E,eastern,194,Sierra Leone,0,Africa,3
+2935,190,N,northern,194,Sierra Leone,0,Africa,3
+2936,190,S,debub,194,Sierra Leone,0,Africa,3
+2937,190,W,western,194,Sierra Leone,0,Africa,3
+2938,191,AH,ahuachapan,195,El Salvador,0,North America,6
+2939,191,CA,cabanas,195,El Salvador,0,North America,6
+2940,191,CH,chalatenango,195,El Salvador,0,North America,6
+2941,191,CS,centro sur,195,El Salvador,0,North America,6
+2942,191,CU,cuscatlan,195,El Salvador,0,North America,6
+2943,191,DE,delgado,195,El Salvador,0,North America,6
+2944,191,IL,ilopango,195,El Salvador,0,North America,6
+2945,191,KN,kie-ntem,195,El Salvador,0,North America,6
+2946,191,LB,la libertad,195,El Salvador,0,North America,6
+2947,191,LI,littoral,195,El Salvador,0,North America,6
+2948,191,MO,morazan,195,El Salvador,0,North America,6
+2949,191,PZ,la paz,195,El Salvador,0,North America,6
+2950,191,SA,santa ana,195,El Salvador,0,North America,6
+2951,191,SM,san miguel,195,El Salvador,0,North America,6
+2952,191,SO,sonsonate,195,El Salvador,0,North America,6
+2953,191,SS,san salvador,195,El Salvador,0,North America,6
+2954,191,SV,san vicente,195,El Salvador,0,North America,6
+2955,191,UN,la union,195,El Salvador,0,North America,6
+2956,191,US,usulutan,195,El Salvador,0,North America,6
+2957,191,WN,wele-nzas,195,El Salvador,0,North America,6
+2958,191,APO,apopa,195,El Salvador,0,North America,6
+2959,191,MEJ,mejicanos,195,El Salvador,0,North America,6
+2960,191,SOY,soyapango,195,El Salvador,0,North America,6
+2961,192,BR,brokopondo,200,Suriname,0,South America,7
+2962,192,CM,commewijne,200,Suriname,0,South America,7
+2963,192,CR,coronie,200,Suriname,0,South America,7
+2964,192,MA,marowijne,200,Suriname,0,South America,7
+2965,192,NI,nickerie,200,Suriname,0,South America,7
+2966,192,PA,para,200,Suriname,0,South America,7
+2967,192,PM,paramaribo,200,Suriname,0,South America,7
+2968,192,SA,saramacca,200,Suriname,0,South America,7
+2969,192,SI,sipaliwini,200,Suriname,0,South America,7
+2970,192,WA,wanica,200,Suriname,0,South America,7
+2971,193,BBY,banskobystricky,201,Slovak,0,Europe,2
+2972,193,BTS,bratislavsky,201,Slovak,0,Europe,2
+2973,193,KOR,koricky,201,Slovak,0,Europe,2
+2974,193,NRA,nitriansky,201,Slovak,0,Europe,2
+2975,193,POV,prerovsky,201,Slovak,0,Europe,2
+2976,193,RIL,rilinsky,201,Slovak,0,Europe,2
+2977,193,TNA,trnavsky,201,Slovak,0,Europe,2
+2978,193,TRE,trenriansky,201,Slovak,0,Europe,2
+2979,194,DLJ,dolenjska,202,Slovenia,0,Europe,2
+2980,194,GSK,goriska,202,Slovenia,0,Europe,2
+2981,194,GSZ,gorenjska,202,Slovenia,0,Europe,2
+2982,194,KOR,koroska,202,Slovenia,0,Europe,2
+2983,194,NKR,notranjsko-kraska,202,Slovenia,0,Europe,2
+2984,194,OKR,obalno-kraska,202,Slovenia,0,Europe,2
+2985,194,OSR,osrednjeslovenska,202,Slovenia,0,Europe,2
+2986,194,POD,podravska,202,Slovenia,0,Europe,2
+2987,194,POM,pomurska,202,Slovenia,0,Europe,2
+2988,194,SAV,savinjska,202,Slovenia,0,Europe,2
+2989,194,SPO,spodnjeposavska,202,Slovenia,0,Europe,2
+2990,194,ZAS,zasavska,202,Slovenia,0,Europe,2
+2991,195,C,uppsala,203,Sweden,0,Europe,2
+2992,195,D,sodermanlands,203,Sweden,0,Europe,2
+2993,195,F,jonkopings,203,Sweden,0,Europe,2
+2994,195,G,kronobergs,203,Sweden,0,Europe,2
+2995,195,H,kalmar,203,Sweden,0,Europe,2
+2996,195,I,gotlands,203,Sweden,0,Europe,2
+2997,195,K,blekinge,203,Sweden,0,Europe,2
+2998,195,M,skane,203,Sweden,0,Europe,2
+2999,195,N,hallands,203,Sweden,0,Europe,2
+3000,195,O,vastra gotalands,203,Sweden,0,Europe,2
+3001,195,S,varmlands,203,Sweden,0,Europe,2
+3002,195,T,orebro,203,Sweden,0,Europe,2
+3003,195,U,vastmanlands,203,Sweden,0,Europe,2
+3004,195,X,gavleborgs,203,Sweden,0,Europe,2
+3005,195,Y,vasternorrlands,203,Sweden,0,Europe,2
+3006,195,Z,jamtlands,203,Sweden,0,Europe,2
+3007,195,AB,stockholms,203,Sweden,0,Europe,2
+3008,195,AC,vasterbottens,203,Sweden,0,Europe,2
+3009,195,BD,norrbottens,203,Sweden,0,Europe,2
+3010,195,DLN,dalarnas,203,Sweden,0,Europe,2
+3011,195,UGL,ustergotland,203,Sweden,0,Europe,2
+3012,196,DA,dara,206,Syrian,0,Asia,1
+3013,196,DI,madinat dimashq,206,Syrian,0,Asia,1
+3014,196,DZ,dayr az zawr,206,Syrian,0,Asia,1
+3015,196,GH,al ghab,206,Syrian,0,Asia,1
+3016,196,HA,al hasakah,206,Syrian,0,Asia,1
+3017,196,HI,hims,206,Syrian,0,Asia,1
+3018,196,HL,halab,206,Syrian,0,Asia,1
+3019,196,HM,hamah,206,Syrian,0,Asia,1
+3020,196,ID,idlib,206,Syrian,0,Asia,1
+3021,196,LA,al ladhiqiyah,206,Syrian,0,Asia,1
+3022,196,QA,al-qamishli,206,Syrian,0,Asia,1
+3023,196,QU,al qunaytirah,206,Syrian,0,Asia,1
+3024,196,RD,rif dimashq,206,Syrian,0,Asia,1
+3025,196,RQ,ar raqqah,206,Syrian,0,Asia,1
+3026,196,SU,as suwayda,206,Syrian,0,Asia,1
+3027,196,TA,tartus,206,Syrian,0,Asia,1
+3028,197,C,centre,210,Togo,0,Africa,3
+3029,197,K,kara,210,Togo,0,Africa,3
+3030,197,M,maritime,210,Togo,0,Africa,3
+3031,197,P,plateaux,210,Togo,0,Africa,3
+3032,197,S,savanes,210,Togo,0,Africa,3
+3033,198,10,bangkok,211,Thailand,0,Asia,1
+3034,198,11,samut prakan,211,Thailand,0,Asia,1
+3035,198,12,nonthaburi,211,Thailand,0,Asia,1
+3036,198,13,pathum thani,211,Thailand,0,Asia,1
+3037,198,14,phra nakhon si ayutthaya,211,Thailand,0,Asia,1
+3038,198,15,ang thong,211,Thailand,0,Asia,1
+3039,198,16,lop buri,211,Thailand,0,Asia,1
+3040,198,17,sing buri,211,Thailand,0,Asia,1
+3041,198,18,chai nat,211,Thailand,0,Asia,1
+3042,198,19,saraburi,211,Thailand,0,Asia,1
+3043,198,20,chon buri,211,Thailand,0,Asia,1
+3044,198,21,rayong,211,Thailand,0,Asia,1
+3045,198,22,chanthaburi,211,Thailand,0,Asia,1
+3046,198,23,trat,211,Thailand,0,Asia,1
+3047,198,24,chachoengsao,211,Thailand,0,Asia,1
+3048,198,25,prachin buri,211,Thailand,0,Asia,1
+3049,198,26,nakhon nayok,211,Thailand,0,Asia,1
+3050,198,27,sa kaeo,211,Thailand,0,Asia,1
+3051,198,31,buri ram,211,Thailand,0,Asia,1
+3052,198,32,surin,211,Thailand,0,Asia,1
+3053,198,33,si sa ket,211,Thailand,0,Asia,1
+3054,198,34,ubon ratchathani,211,Thailand,0,Asia,1
+3055,198,35,yasothon,211,Thailand,0,Asia,1
+3056,198,36,chaiyaphum,211,Thailand,0,Asia,1
+3057,198,37,amnat charoen,211,Thailand,0,Asia,1
+3058,198,39,nong bua lamphu,211,Thailand,0,Asia,1
+3059,198,40,khon kaen,211,Thailand,0,Asia,1
+3060,198,41,udon thani,211,Thailand,0,Asia,1
+3061,198,42,loei,211,Thailand,0,Asia,1
+3062,198,43,nong khai,211,Thailand,0,Asia,1
+3063,198,44,maha sarakham,211,Thailand,0,Asia,1
+3064,198,45,roi et,211,Thailand,0,Asia,1
+3065,198,46,kalasin,211,Thailand,0,Asia,1
+3066,198,47,sakon nakhon,211,Thailand,0,Asia,1
+3067,198,48,nakhon phanom,211,Thailand,0,Asia,1
+3068,198,49,mukdahan,211,Thailand,0,Asia,1
+3069,198,50,chiang mai,211,Thailand,0,Asia,1
+3070,198,51,lamphun,211,Thailand,0,Asia,1
+3071,198,53,uttaradit,211,Thailand,0,Asia,1
+3072,198,54,phrae,211,Thailand,0,Asia,1
+3073,198,55,nan,211,Thailand,0,Asia,1
+3074,198,56,phayao,211,Thailand,0,Asia,1
+3075,198,57,chiang rai,211,Thailand,0,Asia,1
+3076,198,58,mae hong son,211,Thailand,0,Asia,1
+3077,198,60,nakhon sawan,211,Thailand,0,Asia,1
+3078,198,61,uthai thani,211,Thailand,0,Asia,1
+3079,198,62,kamphaeng phet,211,Thailand,0,Asia,1
+3080,198,63,tak,211,Thailand,0,Asia,1
+3081,198,64,sukhothai,211,Thailand,0,Asia,1
+3082,198,65,phitsanulok,211,Thailand,0,Asia,1
+3083,198,66,phichit,211,Thailand,0,Asia,1
+3084,198,70,ratchaburi,211,Thailand,0,Asia,1
+3085,198,71,kanchanaburi,211,Thailand,0,Asia,1
+3086,198,72,suphan buri,211,Thailand,0,Asia,1
+3087,198,73,nakhon pathom,211,Thailand,0,Asia,1
+3088,198,74,samut sakhon,211,Thailand,0,Asia,1
+3089,198,75,samut songkhram,211,Thailand,0,Asia,1
+3090,198,76,phetchabun,211,Thailand,0,Asia,1
+3091,198,77,prachuap khiri khan,211,Thailand,0,Asia,1
+3092,198,78,phetchaburi,211,Thailand,0,Asia,1
+3093,198,80,nakhon si thammarat,211,Thailand,0,Asia,1
+3094,198,81,krabi,211,Thailand,0,Asia,1
+3095,198,82,phangnga,211,Thailand,0,Asia,1
+3096,198,83,phuket,211,Thailand,0,Asia,1
+3097,198,84,surat thani,211,Thailand,0,Asia,1
+3098,198,85,ranong,211,Thailand,0,Asia,1
+3099,198,86,chumphon,211,Thailand,0,Asia,1
+3100,198,90,songkhla,211,Thailand,0,Asia,1
+3101,198,91,satun,211,Thailand,0,Asia,1
+3102,198,92,trang,211,Thailand,0,Asia,1
+3103,198,93,phatthalung,211,Thailand,0,Asia,1
+3104,198,94,pattani,211,Thailand,0,Asia,1
+3105,198,95,yala,211,Thailand,0,Asia,1
+3106,198,96,narathiwat,211,Thailand,0,Asia,1
+3107,199,DYU,dushanbe,212,Tajikistan,0,Asia,1
+3108,199,ISF,isfara,212,Tajikistan,0,Asia,1
+3109,199,KAN,kanibadam,212,Tajikistan,0,Asia,1
+3110,199,KHO,khorugh,212,Tajikistan,0,Asia,1
+3111,199,KHU,khujand,212,Tajikistan,0,Asia,1
+3112,199,KLB,kulob,212,Tajikistan,0,Asia,1
+3113,199,KOF,kofarnihon,212,Tajikistan,0,Asia,1
+3114,199,KTJ,kurgan-tjube,212,Tajikistan,0,Asia,1
+3115,199,NUR,nurek,212,Tajikistan,0,Asia,1
+3116,199,PJK,pendzhikent,212,Tajikistan,0,Asia,1
+3117,199,RGU,rogun,212,Tajikistan,0,Asia,1
+3118,199,SBA,sarband,212,Tajikistan,0,Asia,1
+3119,199,TBS,taboshar,212,Tajikistan,0,Asia,1
+3120,199,TSZ,tursunzade,212,Tajikistan,0,Asia,1
+3121,199,UTJ,ura-tjube,212,Tajikistan,0,Asia,1
+3122,200,A,ahal,214,Turkmenistan,0,Asia,1
+3123,200,B,balkan,214,Turkmenistan,0,Asia,1
+3124,200,D,dashoguz,214,Turkmenistan,0,Asia,1
+3125,200,L,lebap,214,Turkmenistan,0,Asia,1
+3126,200,M,mary,214,Turkmenistan,0,Asia,1
+3127,200,ASB,ashgabat,214,Turkmenistan,0,Asia,1
+3128,200,NEB,nebitdag,214,Turkmenistan,0,Asia,1
+3129,201,AL,aileu,215,East Timor,0,Asia,1
+3130,201,AM,ambeno,215,East Timor,0,Asia,1
+3131,201,AN,ainaro,215,East Timor,0,Asia,1
+3132,201,BA,baucau,215,East Timor,0,Asia,1
+3133,201,BO,bobonaro,215,East Timor,0,Asia,1
+3134,201,DI,dili,215,East Timor,0,Asia,1
+3135,201,ER,ermera,215,East Timor,0,Asia,1
+3136,201,KO,kovalima,215,East Timor,0,Asia,1
+3137,201,LA,lautem,215,East Timor,0,Asia,1
+3138,201,LI,liquica,215,East Timor,0,Asia,1
+3139,201,MF,manofahi,215,East Timor,0,Asia,1
+3140,201,MT,manatuto,215,East Timor,0,Asia,1
+3141,201,VI,viqueque,215,East Timor,0,Asia,1
+3142,202,E,eua,216,Tonga,0,Oceania,4
+3143,202,H,haapai,216,Tonga,0,Oceania,4
+3144,202,N,niuas,216,Tonga,0,Oceania,4
+3145,202,T,tongatapu,216,Tonga,0,Oceania,4
+3146,202,V,vavau,216,Tonga,0,Oceania,4
+3147,203,AR,ariana,218,Tunisia,0,Africa,3
+3148,203,BA,ben arous,218,Tunisia,0,Africa,3
+3149,203,BI,bizerte,218,Tunisia,0,Africa,3
+3150,203,BJ,beja,218,Tunisia,0,Africa,3
+3151,203,GB,gabes,218,Tunisia,0,Africa,3
+3152,203,GF,gafsa,218,Tunisia,0,Africa,3
+3153,203,JE,jendouba,218,Tunisia,0,Africa,3
+3154,203,KB,kebili,218,Tunisia,0,Africa,3
+3155,203,KR,kairouan,218,Tunisia,0,Africa,3
+3156,203,KS,kasserine,218,Tunisia,0,Africa,3
+3157,203,LK,le kef,218,Tunisia,0,Africa,3
+3158,203,ME,medenine,218,Tunisia,0,Africa,3
+3159,203,MH,mahdia,218,Tunisia,0,Africa,3
+3160,203,MN,manouba,218,Tunisia,0,Africa,3
+3161,203,MO,monastir,218,Tunisia,0,Africa,3
+3162,203,NA,nabeul,218,Tunisia,0,Africa,3
+3163,203,SD,sidi bouzid,218,Tunisia,0,Africa,3
+3164,203,SF,sfax,218,Tunisia,0,Africa,3
+3165,203,SL,siliana,218,Tunisia,0,Africa,3
+3166,203,SO,sousse,218,Tunisia,0,Africa,3
+3167,203,TA,tataouine,218,Tunisia,0,Africa,3
+3168,203,TO,tozeur,218,Tunisia,0,Africa,3
+3169,203,TU,tunis,218,Tunisia,0,Africa,3
+3170,203,ZA,zaghouan,218,Tunisia,0,Africa,3
+3171,204,ADA,adana,219,Turkey,0,Asia,1
+3172,204,ADI,adiyaman,219,Turkey,0,Asia,1
+3173,204,AFY,afyon,219,Turkey,0,Asia,1
+3174,204,AGR,agri,219,Turkey,0,Asia,1
+3175,204,AKS,aksaray,219,Turkey,0,Asia,1
+3176,204,AMA,amasya,219,Turkey,0,Asia,1
+3177,204,ANK,ankara,219,Turkey,0,Asia,1
+3178,204,ANT,antalya,219,Turkey,0,Asia,1
+3179,204,ARD,ardahan,219,Turkey,0,Asia,1
+3180,204,ART,artvin,219,Turkey,0,Asia,1
+3181,204,AYI,aydin,219,Turkey,0,Asia,1
+3182,204,BAL,balikesir,219,Turkey,0,Asia,1
+3183,204,BAR,bartin,219,Turkey,0,Asia,1
+3184,204,BAT,batman,219,Turkey,0,Asia,1
+3185,204,BAY,bayburt,219,Turkey,0,Asia,1
+3186,204,BIL,bilecik,219,Turkey,0,Asia,1
+3187,204,BIN,bingol,219,Turkey,0,Asia,1
+3188,204,BIT,bitlis,219,Turkey,0,Asia,1
+3189,204,BOL,bolu,219,Turkey,0,Asia,1
+3190,204,BRD,burdur,219,Turkey,0,Asia,1
+3191,204,BRS,bursa,219,Turkey,0,Asia,1
+3192,204,CKL,canakkale,219,Turkey,0,Asia,1
+3193,204,CKR,cankiri,219,Turkey,0,Asia,1
+3194,204,COR,corum,219,Turkey,0,Asia,1
+3195,204,DEN,denizli,219,Turkey,0,Asia,1
+3196,204,DIY,diyarbakir,219,Turkey,0,Asia,1
+3197,204,EDI,edirne,219,Turkey,0,Asia,1
+3198,204,ELA,elazig,219,Turkey,0,Asia,1
+3199,204,ESK,eskisehir,219,Turkey,0,Asia,1
+3200,204,EZC,erzincan,219,Turkey,0,Asia,1
+3201,204,EZR,erzurum,219,Turkey,0,Asia,1
+3202,204,GAZ,gaziantep,219,Turkey,0,Asia,1
+3203,204,GIR,giresun,219,Turkey,0,Asia,1
+3204,204,GMS,gumushane,219,Turkey,0,Asia,1
+3205,204,HKR,hakkari,219,Turkey,0,Asia,1
+3206,204,HTY,hatay,219,Turkey,0,Asia,1
+3207,204,ICE,icel,219,Turkey,0,Asia,1
+3208,204,IGD,igdir,219,Turkey,0,Asia,1
+3209,204,ISP,isparta,219,Turkey,0,Asia,1
+3210,204,IST,istanbul,219,Turkey,0,Asia,1
+3211,204,IZM,izmir,219,Turkey,0,Asia,1
+3212,204,KAH,kahraman maras,219,Turkey,0,Asia,1
+3213,204,KAS,kastamonu,219,Turkey,0,Asia,1
+3214,204,KAY,kayseri,219,Turkey,0,Asia,1
+3215,204,KLR,kirklareli,219,Turkey,0,Asia,1
+3216,204,KLS,kilis,219,Turkey,0,Asia,1
+3217,204,KOC,kocaeli,219,Turkey,0,Asia,1
+3218,204,KON,konya,219,Turkey,0,Asia,1
+3219,204,KRB,karabuk,219,Turkey,0,Asia,1
+3220,204,KRH,kirsehir,219,Turkey,0,Asia,1
+3221,204,KRK,kirikkale,219,Turkey,0,Asia,1
+3222,204,KRM,karaman,219,Turkey,0,Asia,1
+3223,204,KRS,kars,219,Turkey,0,Asia,1
+3224,204,KUT,kutahya,219,Turkey,0,Asia,1
+3225,204,MAL,malatya,219,Turkey,0,Asia,1
+3226,204,MAN,manisa,219,Turkey,0,Asia,1
+3227,204,MAR,mardin,219,Turkey,0,Asia,1
+3228,204,MUG,mugla,219,Turkey,0,Asia,1
+3229,204,MUS,mus,219,Turkey,0,Asia,1
+3230,204,NEV,nevsehir,219,Turkey,0,Asia,1
+3231,204,NIG,nigde,219,Turkey,0,Asia,1
+3232,204,ORD,ordu,219,Turkey,0,Asia,1
+3233,204,RIZ,rize,219,Turkey,0,Asia,1
+3234,204,SAK,sakarya,219,Turkey,0,Asia,1
+3235,204,SAM,samsun,219,Turkey,0,Asia,1
+3236,204,SII,siirt,219,Turkey,0,Asia,1
+3237,204,SIN,sinop,219,Turkey,0,Asia,1
+3238,204,SIR,sirnak,219,Turkey,0,Asia,1
+3239,204,SIV,sivas,219,Turkey,0,Asia,1
+3240,204,TEL,tekirdag,219,Turkey,0,Asia,1
+3241,204,TOK,tokat,219,Turkey,0,Asia,1
+3242,204,TRA,trabzon,219,Turkey,0,Asia,1
+3243,204,TUN,tunceli,219,Turkey,0,Asia,1
+3244,204,URF,urfa,219,Turkey,0,Asia,1
+3245,204,USK,usak,219,Turkey,0,Asia,1
+3246,204,VAN,van,219,Turkey,0,Asia,1
+3247,204,YOZ,yozgat,219,Turkey,0,Asia,1
+3248,204,ZON,zonguldak,219,Turkey,0,Asia,1
+3249,205,AR,arusha,221,Tanzania,0,Africa,3
+3250,205,DO,dodoma,221,Tanzania,0,Africa,3
+3251,205,DS,dar es salaam,221,Tanzania,0,Africa,3
+3252,205,IR,iringa,221,Tanzania,0,Africa,3
+3253,205,KA,kagera,221,Tanzania,0,Africa,3
+3254,205,KI,kigoma,221,Tanzania,0,Africa,3
+3255,205,KJ,kilimanjaro,221,Tanzania,0,Africa,3
+3256,205,LN,lindi,221,Tanzania,0,Africa,3
+3257,205,MB,mbeya,221,Tanzania,0,Africa,3
+3258,205,MM,mjini magharibi,221,Tanzania,0,Africa,3
+3259,205,MO,morogoro,221,Tanzania,0,Africa,3
+3260,205,MR,mara,221,Tanzania,0,Africa,3
+3261,205,MT,mtwara,221,Tanzania,0,Africa,3
+3262,205,MW,mwanza,221,Tanzania,0,Africa,3
+3263,205,MY,manyara,221,Tanzania,0,Africa,3
+3264,205,PN,kaskazini pemba,221,Tanzania,0,Africa,3
+3265,205,PS,kusini pemba,221,Tanzania,0,Africa,3
+3266,205,PW,littoral,221,Tanzania,0,Africa,3
+3267,205,RK,rukwa,221,Tanzania,0,Africa,3
+3268,205,RV,ruvuma,221,Tanzania,0,Africa,3
+3269,205,SH,shinyanga,221,Tanzania,0,Africa,3
+3270,205,SI,singida,221,Tanzania,0,Africa,3
+3271,205,TB,tabora,221,Tanzania,0,Africa,3
+3272,205,TN,tanga,221,Tanzania,0,Africa,3
+3273,205,UN,kaskazini unguja,221,Tanzania,0,Africa,3
+3274,205,US,kusini unguja,221,Tanzania,0,Africa,3
+3275,205,ZN,zanzibar,221,Tanzania,0,Africa,3
+3276,206,ADJ,adjumani,222,Uganda,0,Africa,3
+3277,206,APC,apac,222,Uganda,0,Africa,3
+3278,206,ARU,arua,222,Uganda,0,Africa,3
+3279,206,BSH,bushenyi,222,Uganda,0,Africa,3
+3280,206,BUG,bugiri,222,Uganda,0,Africa,3
+3281,206,BUN,bundibugyo,222,Uganda,0,Africa,3
+3282,206,BUS,busia,222,Uganda,0,Africa,3
+3283,206,GUL,gulu,222,Uganda,0,Africa,3
+3284,206,HOI,hoima,222,Uganda,0,Africa,3
+3285,206,IGA,iganga,222,Uganda,0,Africa,3
+3286,206,JIN,jinja,222,Uganda,0,Africa,3
+3287,206,KAB,kaberamaido,222,Uganda,0,Africa,3
+3288,206,KAL,kalangala,222,Uganda,0,Africa,3
+3289,206,KAM,kamwenge,222,Uganda,0,Africa,3
+3290,206,KAN,kanungu,222,Uganda,0,Africa,3
+3291,206,KAR,kabarole,222,Uganda,0,Africa,3
+3292,206,KAS,kasese,222,Uganda,0,Africa,3
+3293,206,KAY,kayunga,222,Uganda,0,Africa,3
+3294,206,KBA,kibaale,222,Uganda,0,Africa,3
+3295,206,KBL,kabale,222,Uganda,0,Africa,3
+3296,206,KIB,kiboga,222,Uganda,0,Africa,3
+3297,206,KIS,kisoro,222,Uganda,0,Africa,3
+3298,206,KIT,kitgum,222,Uganda,0,Africa,3
+3299,206,KML,kamuli,222,Uganda,0,Africa,3
+3300,206,KMP,kampala,222,Uganda,0,Africa,3
+3301,206,KOT,kotido,222,Uganda,0,Africa,3
+3302,206,KPC,kapchorwa,222,Uganda,0,Africa,3
+3303,206,KTK,katakwi,222,Uganda,0,Africa,3
+3304,206,KUM,kumi,222,Uganda,0,Africa,3
+3305,206,KYE,kyenjojo,222,Uganda,0,Africa,3
+3306,206,LIR,lira,222,Uganda,0,Africa,3
+3307,206,LUW,luwero,222,Uganda,0,Africa,3
+3308,206,MAS,masaka,222,Uganda,0,Africa,3
+3309,206,MAY,mayuge,222,Uganda,0,Africa,3
+3310,206,MBA,mbale,222,Uganda,0,Africa,3
+3311,206,MBR,mbarara,222,Uganda,0,Africa,3
+3312,206,MOY,moyo,222,Uganda,0,Africa,3
+3313,206,MPI,mpigi,222,Uganda,0,Africa,3
+3314,206,MRT,moroto,222,Uganda,0,Africa,3
+3315,206,MSN,masindi,222,Uganda,0,Africa,3
+3316,206,MUB,mubende,222,Uganda,0,Africa,3
+3317,206,MUK,mukono,222,Uganda,0,Africa,3
+3318,206,NAK,nakapiripirit,222,Uganda,0,Africa,3
+3319,206,NEB,nebbi,222,Uganda,0,Africa,3
+3320,206,NKS,nakasongola,222,Uganda,0,Africa,3
+3321,206,NTU,ntungamo,222,Uganda,0,Africa,3
+3322,206,PAD,pader,222,Uganda,0,Africa,3
+3323,206,PAL,pallisa,222,Uganda,0,Africa,3
+3324,206,RAK,rakai,222,Uganda,0,Africa,3
+3325,206,RUK,rukungiri,222,Uganda,0,Africa,3
+3326,206,SEM,sembabule,222,Uganda,0,Africa,3
+3327,206,SIR,sironko,222,Uganda,0,Africa,3
+3328,206,SOR,soroti,222,Uganda,0,Africa,3
+3329,206,TOR,tororo,222,Uganda,0,Africa,3
+3330,206,WAK,wakiso,222,Uganda,0,Africa,3
+3331,206,YUM,yumbe,222,Uganda,0,Africa,3
+3332,207,5,vinnytsya,223,Ukraine,0,Europe,2
+3333,207,7,volyn,223,Ukraine,0,Europe,2
+3334,207,9,luhansk,223,Ukraine,0,Europe,2
+3335,207,12,dnipropetrovsk,223,Ukraine,0,Europe,2
+3336,207,14,donetsk,223,Ukraine,0,Europe,2
+3337,207,18,zhytomyr,223,Ukraine,0,Europe,2
+3338,207,21,zakarpatska,223,Ukraine,0,Europe,2
+3339,207,23,zaporizhzhya,223,Ukraine,0,Europe,2
+3340,207,26,ivano-frankivsk,223,Ukraine,0,Europe,2
+3341,207,30,kyiv,223,Ukraine,0,Europe,2
+3342,207,35,kirovohrad,223,Ukraine,0,Europe,2
+3343,207,43,respublika krym,223,Ukraine,0,Europe,2
+3344,207,46,lviv,223,Ukraine,0,Europe,2
+3345,207,48,mykolayiv,223,Ukraine,0,Europe,2
+3346,207,51,odessa,223,Ukraine,0,Europe,2
+3347,207,53,poltava,223,Ukraine,0,Europe,2
+3348,207,56,rivne,223,Ukraine,0,Europe,2
+3349,207,59,sumy,223,Ukraine,0,Europe,2
+3350,207,61,ternopil,223,Ukraine,0,Europe,2
+3351,207,63,kharkiv,223,Ukraine,0,Europe,2
+3352,207,65,khersonsrka,223,Ukraine,0,Europe,2
+3353,207,68,khmelnytsky,223,Ukraine,0,Europe,2
+3354,207,71,cherkasy,223,Ukraine,0,Europe,2
+3355,207,74,chernihiv,223,Ukraine,0,Europe,2
+3356,207,77,chernivtsi,223,Ukraine,0,Europe,2
+3357,208,AR,artigas,225,Uruguay,0,South America,7
+3358,208,CA,canelones,225,Uruguay,0,South America,7
+3359,208,CL,cerro largo,225,Uruguay,0,South America,7
+3360,208,CO,colonia,225,Uruguay,0,South America,7
+3361,208,DU,durazno,225,Uruguay,0,South America,7
+3362,208,FA,florida,225,Uruguay,0,South America,7
+3363,208,FS,flores,225,Uruguay,0,South America,7
+3364,208,LA,lavalleja,225,Uruguay,0,South America,7
+3365,208,MA,maldonado,225,Uruguay,0,South America,7
+3366,208,MO,montevideo,225,Uruguay,0,South America,7
+3367,208,PA,paysandu,225,Uruguay,0,South America,7
+3368,208,RN,rio negro,225,Uruguay,0,South America,7
+3369,208,RO,rocha,225,Uruguay,0,South America,7
+3370,208,RV,rivera,225,Uruguay,0,South America,7
+3371,208,SJ,san jose,225,Uruguay,0,South America,7
+3372,208,SL,salto,225,Uruguay,0,South America,7
+3373,208,SO,soriano,225,Uruguay,0,South America,7
+3374,208,TT,treinta y tres,225,Uruguay,0,South America,7
+3375,208,TAW,tacuarembo,225,Uruguay,0,South America,7
+3376,209,ANC,anchorage,226,United States,Alaska,North America,6
+3377,209,FAI,fairbanks,226,United States,Alaska,North America,6
+3378,209,JNU,juneau,226,United States,Alaska,North America,6
+3379,210,BHM,birmingham,226,United States,Alabama,North America,6
+3380,210,MGM,montgomery,226,United States,Alabama,North America,6
+3381,210,MOB,mobile,226,United States,Alabama,North America,6
+3382,211,FSM,fort smith,226,United States,Arkansas,North America,6
+3383,211,FYV,fayetteville,226,United States,Arkansas,North America,6
+3384,211,LIT,little rock,226,United States,Arkansas,North America,6
+3385,212,GDA,glendale,226,United States,Arizona,North America,6
+3386,212,MQA,mesa,226,United States,Arizona,North America,6
+3387,212,PHX,phoenix,226,United States,Arizona,North America,6
+3388,212,STZ,scottsdale,226,United States,Arizona,North America,6
+3389,212,TPE,tempe,226,United States,Arizona,North America,6
+3390,212,TUC,tucson,226,United States,Arizona,North America,6
+3391,212,YUM,yuma,226,United States,Arizona,North America,6
+3392,213,LAX,los angeles,226,United States,California,North America,6
+3393,213,SAN,san diego,226,United States,California,North America,6
+3394,213,SFO,san francisco,226,United States,California,North America,6
+3395,213,SJC,san jose,226,United States,California,North America,6
+3396,214,ASE,aspen,226,United States,Colorado,North America,6
+3397,214,AUX,aurora,226,United States,Colorado,North America,6
+3398,214,COS,colorado springs,226,United States,Colorado,North America,6
+3399,214,DEN,denver,226,United States,Colorado,North America,6
+3400,214,FNL,fort collins,226,United States,Colorado,North America,6
+3401,214,GJT,grand junction,226,United States,Colorado,North America,6
+3402,214,VAC,vail,226,United States,Colorado,North America,6
+3403,214,WBU,boulder,226,United States,Colorado,North America,6
+3404,215,BDR,bridgeport,226,United States,Connecticut,North America,6
+3405,215,DAQ,darien,226,United States,Connecticut,North America,6
+3406,215,GRH,greenwich,226,United States,Connecticut,North America,6
+3407,215,HFD,hartford,226,United States,Connecticut,North America,6
+3408,215,HVN,new haven,226,United States,Connecticut,North America,6
+3409,215,NWT,new britain,226,United States,Connecticut,North America,6
+3410,215,WAT,waterbury,226,United States,Connecticut,North America,6
+3411,215,WPT,westport,226,United States,Connecticut,North America,6
+3412,215,XIN,middletown,226,United States,Connecticut,North America,6
+3413,216,WAS,washington d.c.,226,United States,District of Columbia,North America,6
+3414,217,DOR,dover,226,United States,Delaware,North America,6
+3415,217,ILG,wilmington,226,United States,Delaware,North America,6
+3416,217,NWK,newark,226,United States,Delaware,North America,6
+3417,218,CPV,cape canaveral,226,United States,Florida,North America,6
+3418,218,EYW,key west,226,United States,Florida,North America,6
+3419,218,FLL,fort lauderdale,226,United States,Florida,North America,6
+3420,218,JAX,jacksonville,226,United States,Florida,North America,6
+3421,218,MIA,miami,226,United States,Florida,North America,6
+3422,218,ORL,orlando,226,United States,Florida,North America,6
+3423,218,PIE,st. petersburg,226,United States,Florida,North America,6
+3424,218,TLH,tallahassee,226,United States,Florida,North America,6
+3425,218,TPA,tampa,226,United States,Florida,North America,6
+3426,219,AUT,augusta,226,United States,Georgia,North America,6
+3427,219,CZX,columbus,226,United States,Georgia,North America,6
+3428,219,MCN,macon,226,United States,Georgia,North America,6
+3429,219,SAV,savannah,226,United States,Georgia,North America,6
+3430,219,TAT,atlanta,226,United States,Georgia,North America,6
+3431,220,HNL,honolulu,226,United States,Hawaii,North America,6
+3432,220,ITO,hilo,226,United States,Hawaii,North America,6
+3433,220,KHH,kailua,226,United States,Hawaii,North America,6
+3434,221,CID,cedar rapids,226,United States,Iowa,North America,6
+3435,221,DSM,des moines,226,United States,Iowa,North America,6
+3436,221,DVN,davenport,226,United States,Iowa,North America,6
+3437,222,BLK,blackfoot,226,United States,Idaho,North America,6
+3438,222,BOI,boise,226,United States,Idaho,North America,6
+3439,222,COE,coeur d'alene,226,United States,Idaho,North America,6
+3440,222,IDA,idaho falls,226,United States,Idaho,North America,6
+3441,222,LWS,lewiston,226,United States,Idaho,North America,6
+3442,222,MJL,moscow,226,United States,Idaho,North America,6
+3443,222,NPA,nampa,226,United States,Idaho,North America,6
+3444,222,PIH,pocatello,226,United States,Idaho,North America,6
+3445,222,QKM,ketchum,226,United States,Idaho,North America,6
+3446,222,SVY,sun valley,226,United States,Idaho,North America,6
+3447,222,YAF,american falls,226,United States,Idaho,North America,6
+3448,222,ZMU,murphy,226,United States,Idaho,North America,6
+3449,223,ALN,alton,226,United States,Illinois,North America,6
+3450,223,AUZ,aurora,226,United States,Illinois,North America,6
+3451,223,BLO,bloomington,226,United States,Illinois,North America,6
+3452,223,CHI,chicago,226,United States,Illinois,North America,6
+3453,223,CMI,champaign-urbana,226,United States,Illinois,North America,6
+3454,223,CRA,centralia,226,United States,Illinois,North America,6
+3455,223,DEC,decatur,226,United States,Illinois,North America,6
+3456,223,DEK,de kalb,226,United States,Illinois,North America,6
+3457,223,DVI,danville,226,United States,Illinois,North America,6
+3458,223,ESL,east st louis,226,United States,Illinois,North America,6
+3459,223,GSU,galesburg,226,United States,Illinois,North America,6
+3460,223,MDH,carbondale,226,United States,Illinois,North America,6
+3461,223,NOM,normal,226,United States,Illinois,North America,6
+3462,223,PLA,peoria,226,United States,Illinois,North America,6
+3463,223,RFD,rockford,226,United States,Illinois,North America,6
+3464,223,RKI,rock island,226,United States,Illinois,North America,6
+3465,223,SPI,springfield,226,United States,Illinois,North America,6
+3466,223,UGN,waukegan,226,United States,Illinois,North America,6
+3467,224,EVV,evansville,226,United States,Indiana,North America,6
+3468,224,FWA,fort wayne,226,United States,Indiana,North America,6
+3469,224,IND,indianapolis,226,United States,Indiana,North America,6
+3470,225,ABZ,abilene,226,United States,Kansas,North America,6
+3471,225,HCH,hutchinson,226,United States,Kansas,North America,6
+3472,225,ICT,wichita,226,United States,Kansas,North America,6
+3473,225,KCK,kansas city,226,United States,Kansas,North America,6
+3474,225,LWC,lawrence,226,United States,Kansas,North America,6
+3475,225,MHK,manhattan,226,United States,Kansas,North America,6
+3476,225,OVL,overland park,226,United States,Kansas,North America,6
+3477,225,TOP,topeka,226,United States,Kansas,North America,6
+3478,225,XIA,leavenworth,226,United States,Kansas,North America,6
+3479,226,LEX,lexington,226,United States,Kentucky,North America,6
+3480,226,LUI,louisville,226,United States,Kentucky,North America,6
+3481,226,OWB,owensboro,226,United States,Kentucky,North America,6
+3482,227,BTR,baton rouge,226,United States,Louisiana,North America,6
+3483,227,MSY,new orleans,226,United States,Louisiana,North America,6
+3484,227,SHV,shreveport,226,United States,Louisiana,North America,6
+3485,228,BZD,boston,226,United States,Massachusetts,North America,6
+3486,228,ORH,worcester,226,United States,Massachusetts,North America,6
+3487,228,SFY,springfield,226,United States,Massachusetts,North America,6
+3488,229,BAL,balitmore,226,United States,Maryland,North America,6
+3489,229,GAI,gaithersburg,226,United States,Maryland,North America,6
+3490,229,RKV,rockville,226,United States,Maryland,North America,6
+3491,230,BNQ,bangor,226,United States,Maine,North America,6
+3492,230,POL,portland,226,United States,Maine,North America,6
+3493,230,QLW,lewiston,226,United States,Maine,North America,6
+3494,231,ARB,ann arbor,226,United States,Michigan,North America,6
+3495,231,AZO,kalamazoo,226,United States,Michigan,North America,6
+3496,231,BCY,bay city,226,United States,Michigan,North America,6
+3497,231,BTL,battle creek,226,United States,Michigan,North America,6
+3498,231,DEO,dearborn,226,United States,Michigan,North America,6
+3499,231,DET,detroit,226,United States,Michigan,North America,6
+3500,231,FNT,flint,226,United States,Michigan,North America,6
+3501,231,GRR,grand rapids,226,United States,Michigan,North America,6
+3502,231,LAN,lansing,226,United States,Michigan,North America,6
+3503,231,MKG,muskegon,226,United States,Michigan,North America,6
+3504,231,PHN,port huron,226,United States,Michigan,North America,6
+3505,231,PTK,pontiac,226,United States,Michigan,North America,6
+3506,231,SGM,saginaw,226,United States,Michigan,North America,6
+3507,231,SSM,sault ste marie,226,United States,Michigan,North America,6
+3508,231,WAM,volyn,226,United States,Michigan,North America,6
+3509,231,WYD,wyandotte,226,United States,Michigan,North America,6
+3510,232,MES,minneapolis,226,United States,Minnesota,North America,6
+3511,232,RST,rochester,226,United States,Minnesota,North America,6
+3512,232,STP,sao paulo,226,United States,Minnesota,North America,6
+3513,233,COV,columbia,226,United States,Missouri,North America,6
+3514,233,JEF,jefferson city,226,United States,Missouri,North America,6
+3515,233,MKC,kansas city,226,United States,Missouri,North America,6
+3516,233,SGF,springfield,226,United States,Missouri,North America,6
+3517,233,STL,san luis,226,United States,Missouri,North America,6
+3518,234,BIX,biloxi,226,United States,Mississippi,North America,6
+3519,234,GLH,greenville,226,United States,Mississippi,North America,6
+3520,234,GPT,gulfport,226,United States,Mississippi,North America,6
+3521,234,HBG,hattiesburg,226,United States,Mississippi,North America,6
+3522,234,JAN,jackson,226,United States,Mississippi,North America,6
+3523,234,MEI,meridian,226,United States,Mississippi,North America,6
+3524,234,VKS,vicksburg,226,United States,Mississippi,North America,6
+3525,235,BGS,billings,226,United States,Montana,North America,6
+3526,235,GTF,great falls,226,United States,Montana,North America,6
+3527,235,MSO,missoula,226,United States,Montana,North America,6
+3528,236,AEV,asheville,226,United States,North Carolina,North America,6
+3529,236,CHE,chapel hill,226,United States,North Carolina,North America,6
+3530,236,CRQ,charlotte,226,United States,North Carolina,North America,6
+3531,236,DHH,durham,226,United States,North Carolina,North America,6
+3532,236,GBO,greensboro,226,United States,North Carolina,North America,6
+3533,236,RAG,raleigh,226,United States,North Carolina,North America,6
+3534,236,RDU,raleigh-durham,226,United States,North Carolina,North America,6
+3535,237,BIS,bismarck,226,United States,North Dakota,North America,6
+3536,237,FAR,fargo,226,United States,North Dakota,North America,6
+3537,237,GFK,grand forks,226,United States,North Dakota,North America,6
+3538,237,MOT,minot,226,United States,North Dakota,North America,6
+3539,238,LNK,lincoln,226,United States,Nebraska,North America,6
+3540,238,OMA,omaha,226,United States,Nebraska,North America,6
+3541,238,XDE,bellevue,226,United States,Nebraska,North America,6
+3542,239,ASH,nashua,226,United States,New Hampshire,North America,6
+3543,239,CON,concord,226,United States,New Hampshire,North America,6
+3544,239,MHT,manchester,226,United States,New Hampshire,North America,6
+3545,240,JEC,jersey city,226,United States,New Jersey,North America,6
+3546,240,NRK,newark,226,United States,New Jersey,North America,6
+3547,240,PAT,paterson,226,United States,New Jersey,North America,6
+3548,241,ABQ,albuquerque,226,United States,New Mexico,North America,6
+3549,241,LRU,las cruces,226,United States,New Mexico,North America,6
+3550,241,ROW,roswell,226,United States,New Mexico,North America,6
+3551,241,SAF,santa fe,226,United States,New Mexico,North America,6
+3552,242,CSN,carson city,226,United States,Nevada,North America,6
+3553,242,EKO,elko,226,United States,Nevada,North America,6
+3554,242,HNZ,henderson,226,United States,Nevada,North America,6
+3555,242,LAS,las vegas,226,United States,Nevada,North America,6
+3556,242,NVS,north las vegas,226,United States,Nevada,North America,6
+3557,242,RNO,reno,226,United States,Nevada,North America,6
+3558,242,SPK,sparks,226,United States,Nevada,North America,6
+3559,242,VGI,virginia city,226,United States,Nevada,North America,6
+3560,243,FFO,buffalo,226,United States,New York,North America,6
+3561,243,QEE,new york,226,United States,New York,North America,6
+3562,243,ROC,rochester,226,United States,New York,North America,6
+3563,244,CLE,cleveland,226,United States,Ohio,North America,6
+3564,244,CVG,cincinnati,226,United States,Ohio,North America,6
+3565,244,CZX,columbus,226,United States,Ohio,North America,6
+3566,244,DYT,dayton,226,United States,Ohio,North America,6
+3567,244,TOL,toledo,226,United States,Ohio,North America,6
+3568,245,OKC,oklahoma city,226,United States,Oklahoma,North America,6
+3569,245,OUN,norman,226,United States,Oklahoma,North America,6
+3570,245,TUL,tulsa,226,United States,Oklahoma,North America,6
+3571,246,BZO,bend,226,United States,Oregon,North America,6
+3572,246,COB,coos bay,226,United States,Oregon,North America,6
+3573,246,CTR,crater lake,226,United States,Oregon,North America,6
+3574,246,DAC,dallas,226,United States,Oregon,North America,6
+3575,246,DLS,the dalles,226,United States,Oregon,North America,6
+3576,246,EUG,eugene,226,United States,Oregon,North America,6
+3577,246,HDX,hood river,226,United States,Oregon,North America,6
+3578,246,MFR,medford,226,United States,Oregon,North America,6
+3579,246,PDX,portland,226,United States,Oregon,North America,6
+3580,246,SLE,salem,226,United States,Oregon,North America,6
+3581,246,SPY,springfield,226,United States,Oregon,North America,6
+3582,246,STH,st helens,226,United States,Oregon,North America,6
+3583,246,TLM,tillamook,226,United States,Oregon,North America,6
+3584,246,XFX,grant's pass,226,United States,Oregon,North America,6
+3585,246,YCV,corvallis,226,United States,Oregon,North America,6
+3586,247,AEW,allentown,226,United States,Pennsylvania,North America,6
+3587,247,PHL,philadephia,226,United States,Pennsylvania,North America,6
+3588,247,PIT,pittsburgh,226,United States,Pennsylvania,North America,6
+3589,248,CQH,cranston,226,United States,Rhode Island,North America,6
+3590,248,NPO,newport,226,United States,Rhode Island,North America,6
+3591,248,PAW,pawtucket,226,United States,Rhode Island,North America,6
+3592,248,PVD,providence,226,United States,Rhode Island,North America,6
+3593,248,SFN,woonsocket,226,United States,Rhode Island,North America,6
+3594,248,UZO,warwick,226,United States,Rhode Island,North America,6
+3595,248,WST,westerly,226,United States,Rhode Island,North America,6
+3596,249,CHS,charleston,226,United States,South Carolina,North America,6
+3597,249,COV,columbia,226,United States,South Carolina,North America,6
+3598,249,NTS,north charleston,226,United States,South Carolina,North America,6
+3599,250,ABK,aberdeen,226,United States,South Dakota,North America,6
+3600,250,FSD,sioux falls,226,United States,South Dakota,North America,6
+3601,250,RAP,rapid city,226,United States,South Dakota,North America,6
+3602,251,BNA,nashville,226,United States,Tennessee,North America,6
+3603,251,BSJ,bristol,226,United States,Tennessee,North America,6
+3604,251,CHA,chattanooga,226,United States,Tennessee,North America,6
+3605,251,JCY,johnson city,226,United States,Tennessee,North America,6
+3606,251,MEM,memphis,226,United States,Tennessee,North America,6
+3607,251,MQY,smyrna,226,United States,Tennessee,North America,6
+3608,251,RGI,spring hill,226,United States,Tennessee,North America,6
+3609,251,TRI,kingsport,226,United States,Tennessee,North America,6
+3610,251,TYS,knoxville,226,United States,Tennessee,North America,6
+3611,251,YTC,tri-city area,226,United States,Tennessee,North America,6
+3612,252,AUS,austin,226,United States,Texas,North America,6
+3613,252,CRP,corpus christi,226,United States,Texas,North America,6
+3614,252,DAL,dallas,226,United States,Texas,North America,6
+3615,252,ELP,el paso,226,United States,Texas,North America,6
+3616,252,GLS,galveston,226,United States,Texas,North America,6
+3617,252,HOU,houston,226,United States,Texas,North America,6
+3618,252,LRD,laredo,226,United States,Texas,North America,6
+3619,252,SAT,san antonio,226,United States,Texas,North America,6
+3620,252,TXC,mcallen,226,United States,Texas,North America,6
+3621,253,LTJ,layton,226,United States,Utah,North America,6
+3622,253,OEU,orem,226,United States,Utah,North America,6
+3623,253,OGD,ogden,226,United States,Utah,North America,6
+3624,253,PAC,park city,226,United States,Utah,North America,6
+3625,253,PVU,provo,226,United States,Utah,North America,6
+3626,253,SGU,st.george,226,United States,Utah,North America,6
+3627,253,SLC,salt lake city,226,United States,Utah,North America,6
+3628,253,WVC,west valley city,226,United States,Utah,North America,6
+3629,254,HTW,chesapeake,226,United States,Virginia,North America,6
+3630,254,ORF,norfolk,226,United States,Virginia,North America,6
+3631,254,VAB,virginia beach,226,United States,Virginia,North America,6
+3632,255,BTV,burlington,226,United States,Vermont,North America,6
+3633,255,RUT,rutland,226,United States,Vermont,North America,6
+3634,255,ZBR,south burlington,226,United States,Vermont,North America,6
+3635,256,GEG,spokane,226,United States,Washington,North America,6
+3636,256,SEA,seattle,226,United States,Washington,North America,6
+3637,256,TTW,tacoma,226,United States,Washington,North America,6
+3638,257,ATW,appleton,226,United States,Wisconsin,North America,6
+3639,257,AUW,wausau,226,United States,Wisconsin,North America,6
+3640,257,EAU,eau claire,226,United States,Wisconsin,North America,6
+3641,257,ENW,kenosha,226,United States,Wisconsin,North America,6
+3642,257,GBK,green bay,226,United States,Wisconsin,North America,6
+3643,257,LSE,lacrosse,226,United States,Wisconsin,North America,6
+3644,257,MKE,milwaukee,226,United States,Wisconsin,North America,6
+3645,257,MTW,manitowoc,226,United States,Wisconsin,North America,6
+3646,257,OSH,oshkosh,226,United States,Wisconsin,North America,6
+3647,257,QMD,madison,226,United States,Wisconsin,North America,6
+3648,257,RAC,racine,226,United States,Wisconsin,North America,6
+3649,257,SBM,sheboygan,226,United States,Wisconsin,North America,6
+3650,258,CRW,charleston,226,United States,West Virginia,North America,6
+3651,258,HNU,huntington,226,United States,West Virginia,North America,6
+3652,258,PKB,parkersburg,226,United States,West Virginia,North America,6
+3653,259,CPR,casper,226,United States,Wyoming,North America,6
+3654,259,CYS,cheyenne,226,United States,Wyoming,North America,6
+3655,259,EVD,evanston,226,United States,Wyoming,North America,6
+3656,259,LAR,laramie,226,United States,Wyoming,North America,6
+3657,259,RKS,rock springs,226,United States,Wyoming,North America,6
+3658,259,SHR,sheridan,226,United States,Wyoming,North America,6
+3659,260,AN,andijon,227,Uzbekstan,0,Asia,1
+3660,260,BU,buxoro,227,Uzbekstan,0,Asia,1
+3661,260,FA,fargona,227,Uzbekstan,0,Asia,1
+3662,260,JI,jizzax,227,Uzbekstan,0,Asia,1
+3663,260,NG,namangan,227,Uzbekstan,0,Asia,1
+3664,260,NW,navoiy,227,Uzbekstan,0,Asia,1
+3665,260,QA,qasqadaryo,227,Uzbekstan,0,Asia,1
+3666,260,QR,qoraqalpogiston,227,Uzbekstan,0,Asia,1
+3667,260,SA,samarqand,227,Uzbekstan,0,Asia,1
+3668,260,SI,sirdaryo,227,Uzbekstan,0,Asia,1
+3669,260,SU,surxondaryo,227,Uzbekstan,0,Asia,1
+3670,260,TK,toshkent,227,Uzbekstan,0,Asia,1
+3671,260,TO,toshkent shahri,227,Uzbekstan,0,Asia,1
+3672,260,XO,xorazm,227,Uzbekstan,0,Asia,1
+3673,261,A,caracas,230,Venezuela,0,South America,7
+3674,261,B,anzoategui,230,Venezuela,0,South America,7
+3675,261,C,apure,230,Venezuela,0,South America,7
+3676,261,D,aragua,230,Venezuela,0,South America,7
+3677,261,E,barinas,230,Venezuela,0,South America,7
+3678,261,F,bolivar,230,Venezuela,0,South America,7
+3679,261,G,carabobo,230,Venezuela,0,South America,7
+3680,261,H,cojedes,230,Venezuela,0,South America,7
+3681,261,I,falcon,230,Venezuela,0,South America,7
+3682,261,J,guarico,230,Venezuela,0,South America,7
+3683,261,K,lara,230,Venezuela,0,South America,7
+3684,261,L,merida,230,Venezuela,0,South America,7
+3685,261,M,miranda,230,Venezuela,0,South America,7
+3686,261,N,monagas,230,Venezuela,0,South America,7
+3687,261,O,estado nueva esparta,230,Venezuela,0,South America,7
+3688,261,P,portuguesa,230,Venezuela,0,South America,7
+3689,261,R,sucre,230,Venezuela,0,South America,7
+3690,261,S,tachira,230,Venezuela,0,South America,7
+3691,261,T,trujillo,230,Venezuela,0,South America,7
+3692,261,U,yaracuy,230,Venezuela,0,South America,7
+3693,261,V,zulia,230,Venezuela,0,South America,7
+3694,261,W,dependencias federales,230,Venezuela,0,South America,7
+3695,261,Y,delta amacuro,230,Venezuela,0,South America,7
+3696,261,Z,amazonas,230,Venezuela,0,South America,7
+3697,262,HC,ho chi minh city,233,Vietnam,0,Asia,1
+3698,262,HI,hanoi,233,Vietnam,0,Asia,1
+3699,262,HP,haiphong,233,Vietnam,0,Asia,1
+3700,263,MA,malampa,234,Vanuatu,0,Oceania,4
+3701,263,PE,penama,234,Vanuatu,0,Oceania,4
+3702,263,SA,sanma,234,Vanuatu,0,Oceania,4
+3703,263,SH,shefa,234,Vanuatu,0,Oceania,4
+3704,263,TA,tafea,234,Vanuatu,0,Oceania,4
+3705,263,TO,torba,234,Vanuatu,0,Oceania,4
+3706,264,AB,abyan,237,Yemen,0,Asia,1
+3707,264,AD,adan,237,Yemen,0,Asia,1
+3708,264,AM,amran sana,237,Yemen,0,Asia,1
+3709,264,BA,al-bayda,237,Yemen,0,Asia,1
+3710,264,DA,ad-dali,237,Yemen,0,Asia,1
+3711,264,DH,dhamar,237,Yemen,0,Asia,1
+3712,264,HD,hadramawt,237,Yemen,0,Asia,1
+3713,264,HJ,hajjah,237,Yemen,0,Asia,1
+3714,264,HU,al-hudaydah,237,Yemen,0,Asia,1
+3715,264,IB,ibb,237,Yemen,0,Asia,1
+3716,264,JA,al-jawf,237,Yemen,0,Asia,1
+3717,264,LA,lahij,237,Yemen,0,Asia,1
+3718,264,MA,marib,237,Yemen,0,Asia,1
+3719,264,MR,al-mahrah,237,Yemen,0,Asia,1
+3720,264,MW,al-mahwit,237,Yemen,0,Asia,1
+3721,264,SD,sadah,237,Yemen,0,Asia,1
+3722,264,SH,shabwah,237,Yemen,0,Asia,1
+3723,264,SN,sana,237,Yemen,0,Asia,1
+3724,264,TA,taizz,237,Yemen,0,Asia,1
+3725,264,ASR,ash-shihr,237,Yemen,0,Asia,1
+3726,264,GXF,seiyun,237,Yemen,0,Asia,1
+3727,265,BAE,barkley east,238,South Africa,0,Africa,3
+3728,265,BDD,bredasdorp,238,South Africa,0,Africa,3
+3729,265,BEW,beaufort west,238,South Africa,0,Africa,3
+3730,265,BFN,bloemfontein,238,South Africa,0,Africa,3
+3731,265,BHT,bronkhorstspruit,238,South Africa,0,Africa,3
+3732,265,BIY,bisho,238,South Africa,0,Africa,3
+3733,265,CPT,cape town,238,South Africa,0,Africa,3
+3734,265,DAA,de aar,238,South Africa,0,Africa,3
+3735,265,DUN,dundee,238,South Africa,0,Africa,3
+3736,265,DUR,durban,238,South Africa,0,Africa,3
+3737,265,ELS,east london,238,South Africa,0,Africa,3
+3738,265,GBD,groblersdal,238,South Africa,0,Africa,3
+3739,265,GIY,giyani,238,South Africa,0,Africa,3
+3740,265,GRJ,george,238,South Africa,0,Africa,3
+3741,265,IXO,ixopo,238,South Africa,0,Africa,3
+3742,265,JNB,johannesburg,238,South Africa,0,Africa,3
+3743,265,KIM,kimberley,238,South Africa,0,Africa,3
+3744,265,KMH,kuruman,238,South Africa,0,Africa,3
+3745,265,KXE,klerksdorp,238,South Africa,0,Africa,3
+3746,265,LAY,ladysmith,238,South Africa,0,Africa,3
+3747,265,MAY,mount ayliff,238,South Africa,0,Africa,3
+3748,265,MDB,middelburg,238,South Africa,0,Africa,3
+3749,265,MOO,moorreesburg,238,South Africa,0,Africa,3
+3750,265,MZQ,mkuze,238,South Africa,0,Africa,3
+3751,265,NCS,newcastle,238,South Africa,0,Africa,3
+3752,265,NLP,nelspruit,238,South Africa,0,Africa,3
+3753,265,NYL,nylstroom,238,South Africa,0,Africa,3
+3754,265,PLZ,port elizabeth,238,South Africa,0,Africa,3
+3755,265,PRY,pretoria,238,South Africa,0,Africa,3
+3756,265,PSS,port shepstone,238,South Africa,0,Africa,3
+3757,265,PTG,pietersburg,238,South Africa,0,Africa,3
+3758,265,PZB,pietermaritzburg,238,South Africa,0,Africa,3
+3759,265,RCB,richards bay,238,South Africa,0,Africa,3
+3760,265,RFT,randfontein,238,South Africa,0,Africa,3
+3761,265,RSB,rustenburg,238,South Africa,0,Africa,3
+3762,265,SAS,sasolburg,238,South Africa,0,Africa,3
+3763,265,SBU,springbok,238,South Africa,0,Africa,3
+3764,265,THY,thohoyandou,238,South Africa,0,Africa,3
+3765,265,TLH,thulamahashe,238,South Africa,0,Africa,3
+3766,265,TPB,trompsburg,238,South Africa,0,Africa,3
+3767,265,ULD,ulundi,238,South Africa,0,Africa,3
+3768,265,UTN,upington,238,South Africa,0,Africa,3
+3769,265,UTT,umtata,238,South Africa,0,Africa,3
+3770,265,UTW,queenstown,238,South Africa,0,Africa,3
+3771,265,VGG,vereeniging,238,South Africa,0,Africa,3
+3772,265,VRU,vryburg,238,South Africa,0,Africa,3
+3773,265,WEL,welkom,238,South Africa,0,Africa,3
+3774,265,WOR,worcester,238,South Africa,0,Africa,3
+3775,265,WSH,witsieshoek,238,South Africa,0,Africa,3
+3776,265,ZEC,secunda,238,South Africa,0,Africa,3
+3777,266,CB,copperbelt,239,Zambia,0,Africa,3
+3778,266,CE,central,239,Zambia,0,Africa,3
+3779,266,EA,dornod,239,Zambia,0,Africa,3
+3780,266,LK,lusaka,239,Zambia,0,Africa,3
+3781,266,LP,luapula,239,Zambia,0,Africa,3
+3782,266,NO,northern,239,Zambia,0,Africa,3
+3783,266,NW,nord-oueste,239,Zambia,0,Africa,3
+3784,266,SO,southern,239,Zambia,0,Africa,3
+3785,266,WE,western,239,Zambia,0,Africa,3
+3786,267,BU,bulawayo,240,Zimbabwe,0,Africa,3
+3787,267,HA,harare,240,Zimbabwe,0,Africa,3
+3788,267,MC,mashonaland central,240,Zimbabwe,0,Africa,3
+3789,267,MD,al-wusta,240,Zimbabwe,0,Africa,3
+3790,267,ME,mashonaland east,240,Zimbabwe,0,Africa,3
+3791,267,ML,manicaland,240,Zimbabwe,0,Africa,3
+3792,267,MN,matabeleland north,240,Zimbabwe,0,Africa,3
+3793,267,MS,matabeleland south,240,Zimbabwe,0,Africa,3
+3794,267,MV,masvingo,240,Zimbabwe,0,Africa,3
+3795,267,MW,mashonaland west,240,Zimbabwe,0,africa,3
