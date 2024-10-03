@@ -8,7 +8,7 @@ The project consists in a set of assignements corresponding to a BI process: dat
 - [Yian Li](https://github.com/Li-Yian)
 
 # Dataset
-Gun violence dataset provided by the professors of the [course](http://didawiki.cli.di.unipi.it/doku.php/mds/lbi/start).
+Gun violence dataset provided by the professors of the [course](http://didawiki.cli.di.unipi.it/doku.php/mds/lbi/lds_2023-2024).
 The *Police.csv* contains the main body of data: a table with data about gun violence incidents between January 2013 and March 2018 in the US. The same table also includes information about the victims, the guns, and the locations. 
 
 [dataset](./LDS_Part1_Group_3/dataset/): this directory contains the raw data CSV file, some additional datasets for integrate some detailed information and tables derived from raw data exported into CSV prepared for loading onto the SQL Server Management Studio.
