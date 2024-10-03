@@ -1,4 +1,4 @@
-# LDS
+# LDS a.a. 23-24
 Decision Support Systems - Module II: LABORATORY OF DATA SCIENCE (2023/24)
 
 The project consists in a set of assignements corresponding to a BI process: data integration, construction of an OLAP cube, qurying of a OPLAP cube and reporting.
